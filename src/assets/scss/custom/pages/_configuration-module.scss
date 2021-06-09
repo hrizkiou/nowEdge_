@@ -1,0 +1,39 @@
+$font-k: "Karla";
+$color-text: #080e5e;
+
+.date-config {
+  font-family: $font-k;
+  font-size: 12px;
+  background-color: transparent;
+  color: #bcbcbc;
+}
+
+.ellipsis-position {
+  position: absolute;
+  right: 20px;
+  top: 15px;
+}
+
+.tool-box-container {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+
+.tool-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 63px;
+  flex: 1;
+  background-color: #ffffff;
+  color: #D8D8D8;
+  &:hover {
+    color: #71b6f9;
+    background-color:  #E1E4E8;
+  }
+} 
+
+.modal-sm{
+  max-width: 383px;
+}

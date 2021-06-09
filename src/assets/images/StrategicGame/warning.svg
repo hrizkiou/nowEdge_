@@ -1,0 +1,12 @@
+<svg id="warning" xmlns="http://www.w3.org/2000/svg" width="85" height="75.105" viewBox="0 0 85 75.105">
+  <path id="Path_5897" data-name="Path 5897" d="M83.586,89.864,50.123,34.631a9.94,9.94,0,0,0-17.083.049L1.414,89.864A9.95,9.95,0,0,0,9.98,104.905H75.02a9.95,9.95,0,0,0,8.567-15.041Z" transform="translate(0 -29.8)" fill="#fedb41"/>
+  <path id="Path_5898" data-name="Path 5898" d="M292.7,99.875a9.88,9.88,0,0,1-8.666,5.03H250.616V29.8a9.781,9.781,0,0,1,8.517,4.831L292.6,89.864A9.869,9.869,0,0,1,292.7,99.875Z" transform="translate(-209.01 -29.8)" fill="#fc3"/>
+  <g id="Group_4464" data-name="Group 4464" transform="translate(36.626 15.34)">
+    <path id="Path_5899" data-name="Path 5899" d="M230.577,127.18V147.1a4.98,4.98,0,0,1-9.961,0V127.18a4.98,4.98,0,1,1,9.961,0Z" transform="translate(-220.616 -122.2)" fill="#62addf"/>
+    <path id="Path_5900" data-name="Path 5900" d="M230.577,367.18a4.98,4.98,0,1,1-4.98-4.98A5,5,0,0,1,230.577,367.18Z" transform="translate(-220.616 -322.356)" fill="#62addf"/>
+  </g>
+  <g id="Group_4465" data-name="Group 4465" transform="translate(41.606 15.34)">
+    <path id="Path_5901" data-name="Path 5901" d="M255.6,367.18a5,5,0,0,1-4.98,4.98V362.2A5,5,0,0,1,255.6,367.18Z" transform="translate(-250.616 -322.356)" fill="#5994c9"/>
+    <path id="Path_5902" data-name="Path 5902" d="M255.6,127.18V147.1a5,5,0,0,1-4.98,4.98V122.2A5,5,0,0,1,255.6,127.18Z" transform="translate(-250.616 -122.2)" fill="#5994c9"/>
+  </g>
+</svg>

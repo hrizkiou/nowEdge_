@@ -1,0 +1,484 @@
+.card-tour-container{
+ display: flex;
+ width: "100%";
+ flex-direction: row;
+ justify-content: left; 
+ height: 63px;
+}
+
+.card-badge-container{
+  padding-top: 44px;
+ display: flex;
+ width: "100%";
+ flex-direction: column;
+ justify-content: center; 
+ align-items: center; 
+}
+
+.cards-div{ 
+ display: flex; 
+ flex-direction: row;
+ justify-content: space-evenly; 
+ align-items: center; 
+ width: 100%;
+}
+
+.card-item{ 
+ display: flex; 
+ flex-direction: column; 
+ align-items: center;  
+ padding: 0;
+}
+.card-item-line{ 
+ display: flex;  
+ flex: 1;
+ margin-bottom: 5px;
+ flex-direction: row;
+ justify-content: space-between; 
+}
+
+.inner-card-container{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+
+}
+.p-11{
+  padding: 11px !important;
+}
+
+.tour-container{
+  display: flex;
+  flex: 1;
+
+}
+
+.tour-text{
+  margin: 0px;
+  display: flex;
+  flex: 1;
+  color: "#3F4351";
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.status-container{
+  display: flex;
+  flex: 1;
+
+}
+
+.status-text{ 
+  display: flex;
+  flex: 1; 
+  font-size: 14px; 
+  text-transform: uppercase;
+}
+
+.decisions-modal-content {
+  border: 1px solid #e6ece6;
+  border-radius: 4px;  
+  width: 100%;
+  margin-top: 32px;
+}
+ 
+.decisions-modal-content-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+//Bagdes
+
+.badge-rank-1-fr:after {
+  content: "1ER";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #F9C851;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+.badge-rank-1-fr:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #F9C851;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+.badge-rank-2-fr:after {
+  content: "2ÉME";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #C4C4C4;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+.badge-rank-2-fr:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #C4C4C4;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+
+.badge-rank-3-fr:after {
+  content: "3ÉME";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #ECA14D;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+.badge-rank-3-fr:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #ECA14D;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+
+.badge-rank-4-fr:after {
+  content: "4ÉME";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #3A3937;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+
+.badge-rank-4-fr:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #3A3937;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+.badge-rank-1-en:after {
+  content: "1st";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #F9C851;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+.badge-rank-1-en:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #F9C851;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+.badge-rank-2-en:after {
+  content: "2nd";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #C4C4C4;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+.badge-rank-2-en:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #C4C4C4;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+
+.badge-rank-3-en:after {
+  content: "3rd";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #ECA14D;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+.badge-rank-3-en:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #ECA14D;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+
+.badge-rank-4-en:after {
+  content: "4th";
+  z-index: 1;
+  overflow: hidden;
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block; 
+  background: #3A3937;
+  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px; left: -30px;
+  clip-path: polygon(120px 20px, 90px -10px, 30px -10px, 0px 20px, 10px 30px,  110px 30px)
+}
+
+.badge-rank-4-en:before {
+  content: "";
+  z-index: -1;
+  overflow: hidden;
+  transform: rotate(-45deg);
+  width: 120px;
+  display: block;
+  background: #3A3937;
+  box-shadow: 0 3px 10px -5px black;
+  position: absolute;
+  top: 34px;
+  left: -16px;
+  -webkit-clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  clip-path: polygon(150px -60px, 115px 10px, -100px 10px, 0px -10px);
+  height: 20px;
+  width: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+.clas-show-detail-decision-hover {
+  background-color: #fff;
+  position: absolute;
+  z-index: 200;
+  right: 180px;
+  display: none;
+  flex-direction: column;
+  color: #000;
+  border-radius: 4px;
+  box-shadow: 0px 11px 28px #000;
+  padding-top: 10px;
+  width: 170px;
+  padding: 1rem;
+}
+
+
+%block-calssment {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  padding-top: 18px;
+  padding-bottom: 15px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 11px 28px #45628f91;
+  border-radius: 4px;
+  opacity: 1;
+  p {
+    text-align: center;
+    font: normal normal bold 12px/10px Karla;
+    letter-spacing: 0px;
+    color: #3f4351;
+    opacity: 1;
+    margin: 0px;
+    // margin-bottom: 4px;
+    // margin-top: 12px;
+  }
+  div {
+    text-align: center;
+    .text-score {
+      display: inline-block;
+      text-align: left;
+      font: normal normal normal 12px/10px Karla;
+      letter-spacing: 0px;
+      color: #3f4351;
+      opacity: 1;
+    }
+    .text-score-n {
+      display: inline-block;
+      text-align: left;
+      font: normal normal bold 12px/10px Karla;
+      letter-spacing: 0px;
+      color: #2fa1f1;
+      opacity: 1;
+    }
+  }
+}
+.details-classment-decision :hover .clas-show-detail-decision-hover {
+  display: flex !important;
+}
+
+.details-classment-decision {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  div {
+    flex: 1;
+    // margin-left: 10px;
+    // margin-right: 10px;
+  }
+  .details-class-2 {
+    @extend %block-calssment;
+  }
+  .details-class-1 {
+    @extend %block-calssment;
+  }
+  .details-class-3 {
+    @extend %block-calssment;
+  }
+}

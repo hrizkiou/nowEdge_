@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_143" data-name="Ellipse 143" cx="15" cy="15" r="15" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 275 183">
+      <image width="275" height="183" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAflBMVEUAhT/jGyP970L/9EIAgj9vqUD+9kPrcS3iDCIAiD/+70IAfj//8kIAgT8AfD8Afz/S2UHI1EF/r0CHskDm5EL37UJ5rEDX3EGTuEAojj+Gs0C+z0FiokDE0UGvyUEAdj85lj9XnkClwkEeiz/u6EKPt0BrpkBLmkCbvUC0ykG5C74IAAADhElEQVR4nO3b3XLaMBCGYRcptFiSwYR/kpaEhMD932CFYRwnCMtMy8nq3UNGHzN5RisLWcmyu5V+UL17Vf/nrx93q/uRYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJv/XxGJyQfL7FpQkTHLrbI7Jl7Lln/KGiZKEiZqZ2Q3D0zDRmcbkS9nSZOaG5knBRI1d5sbdxydgkquBDwxU5ydPAiZ2ZHzAjDo3TwIm6tH5gHvsHEjBZFAlBpjUZeemSph51+aRb6LeXZVw710TCZhsz5EtJuey8+IcKbo2j3gTtXDniFt0jMg3WdaZJSZV5ZOizhSTbltZ6SZq7+qM23fLiDdZNkIdm0eQiVWBmphGyExCQy6eRmJM8slGDy7rWywwQm++LzNiTHq5WhX69u8pVheHCHJMPMoouxVFZ+XluYogE7+iTF9MPNoo8zIN7G1Fmfip8mq6TxVtXoOHb7JM/LN3snXxdFVuOwl/hzSTnrWzIh73VTzYK78JxZn4/lm7eP9ot766gZNn4vvnbRNbaoebt+t5iSZ+qiza+6d4b3uzIdLET5VRdn2pddmo9WWPUBO/VXm61j/hTUkCJv4v+x1eafVrP3KMItek138KoeinfjQo12QaXlGG03RN7GEYNjnEju/lmqhg6xybJ7oSiTXphaeJnyixoFgTu776LF5Hmkesidpd+9Gjd5GoVJPcNp86etgEil2WlWpinxut45ajTWN1Mc9p7mPVw+fMKMbKqnHROSvUJLc1iXbP/hdfrkr9+VF78wg1OV6JPZX5OP/is9OP+rP2y7JCTdTsPCmKfX0skKv9GUW33zSXaZKrE4kbzJvD1HxwehrpBM9PTldis2L37Rja2l211LZflpVpcrxN7jclh8sx6nDcqrTfNBdq4kcMl8HXN+qt2qokZ3JsnWJ1eYmiquO79vbmEWmiVib0brxGKTPTdtNcpon+aD2G9luVtv9xkmhiy0XkGDrvL1q2bRJNepF3FZVby6msSJN/LEwwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMEjH5CzBZ5fnsg0twAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="cameroon" clip-path="url(#clip-path)">
+    <rect id="NoPath" width="45" height="30" transform="translate(-7)" fill="url(#pattern)"/>
+  </g>
+</svg>

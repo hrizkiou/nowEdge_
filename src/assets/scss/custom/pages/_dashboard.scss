@@ -1,0 +1,39 @@
+.about-container {
+    overflow: hidden;
+    white-space: normal;
+    height: 4.5em; /* exactly 2 lines */
+    text-overflow: -o-ellipsis-lastline;
+}
+.mb-6 {
+    margin-bottom: 3rem;
+}
+ 
+.search-container {
+    border: none;
+    height: 38px !important;
+    padding-left: 20px;
+    padding-right: 0px;
+    color: #323a46;
+    background-color:rgba(108,117,125,.07);
+    box-shadow: none;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.search-button {
+    background-color:rgba(108,117,125,.07);
+    border-color: transparent;
+    color: #98a6ad;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow: none
+}
+
+.width170 {
+    width: 170px
+}
+
+.breadcrumb{
+    padding-bottom: 0pt;
+    margin-bottom: 5pt
+}

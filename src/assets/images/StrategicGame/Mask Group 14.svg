@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_127" data-name="Ellipse 127" cx="21" cy="21" r="21" fill="#fff"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 151 101">
+      <image width="151" height="101" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAABlCAYAAABAxXFrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASjSURBVHhe7d0xjBRVHMfx/84CaiRiYQNSGI0NdBZSARaHjUYTY+OFIHQmFpQ0lJpgR0NiTCwopDCxIdcQiQGNkWh3xUViLAwXQSHhJMBBkFn/v3czy96yO/sO+CfuzfeTbN7Nu/fe3M39Mm/m7cB27NO9PZt2d83Ov1/Ynpc6Vt6v6qZQsdHs9oVluzZzxYoXi6p2ek3/b4D/LcKFMIQLYQgXwhAuhCFcCEO4EIZwIQzhQhjChTCEC2EIF8IQLoQhXAhDuBCGcCEM4UIYwoUwhAthCBfCEC6EIVwIQ7gQhnAhDOFCGMKFMIQLYQgXwhAuhCFcCEO4EIZwIQzhWoMb96ovkIVwZdL/+nfylzKVyEO4Mi1eN/tioZdK5CFcGXS2WvizZwt/r5ScvfIQrhwbzD6fL82erUrfxmSEK8PSDbMLftYyP2Op1DYmI1wTFF2zn/7o2eXqTlGltlWPZoRrkk1m3/zae3CkvEzbXo9mhGuSf82+VJjqM5WXadvr0YxwNdDUd/Y3D9Lw3aFvq56psRnhauJH5+zglFgbV49VWnd4iqfyXzo6n10cmBJrvp3q/fuj+o17tU2rPlhK7w1+cq60yzfNnslYCF329qcWR4RLfD+z2zvZ42zdbHb0jcKea2i/3j5YqlXh0jXS0h2zj+dKO/W7/9o5Z5Om66qcT0jzn232lY6deLuw55+25p9vnYWrVdOi/rA6c3w1W9jJff6r+x8+UYDGvZqMal+/xMfXfrQ/7XeaP67vUbQqXLVy2ezA6x279FHXdvt01Q/Zk+LjaVyNr/1of23UynBJ6QHYvsXs3KGuHXut4/NR9Y3H5eNovNP7u2l87aetWhsuqaepIzOFfevXbMmjTl1VP42j8do4DQ5rdbhqpd/Nzbzq0+SBrr31gp/F1hoKb69+6q9xNB4IV58CoWls7mCRlhiyA+bt1F790jRIsPoI1wBNY7pGurQ0Zm1rFG+n9urX9mlwGOEaoHWw+b969sPNqiKT2qsf7zWuRrgGbTA7r8XVstrO5e1TP55QXYVwDdE/wnjoKQjxKW9rVT7E26d+WIVwVTSlXbzSs4VbVcWg22ZH/C7wZ78bVDlqTUz91J+p8QHCVfMj8b2e3Rqks5QH6cw7hR17t7Btmy2VaU1MARs6i6X+HNE+DkXNr5eOzw9MiX73p7Wr64e79ubOTn+lXaXWslSf1sSqevVL/bnu6iNcTlPZ4lWf2paqinselF0dO/1B9STD0NqVtlU/t79I7dRe1F/jMDWuIFziR+E73e25HZv8zu+9wg7vXTk049au0pqYv9RO7dVP0jgc1YTDIKXZ1363p+eufvywa3tezn8LR+3UXv3UX+OseSljnSJcbvEfs93bVp7zSm84Zwarpvb1c2IaR+OBcCW6C9STDI/73JX6axyNB8LVt9az1ThPapz1gHAhDOFCGMKFMIQLYQgXwhAuhCFcCEO4EIZwIQzhQhjChTCEC2EIF8IQLoQhXAhDuBCGcCEM4UIYwoUwhAthCBfCEC6EIVwIQ7gQhnAhDOFCGMKFMIQLYQgXwhAuhCFcCEO4EIZwIQzhQhjChSBm/wFjU0yfOwwn1QAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Mask_Group_14" data-name="Mask Group 14" clip-path="url(#clip-path)">
+    <rect id="Image_26" data-name="Image 26" width="63" height="42" transform="translate(-10)" fill="url(#pattern)"/>
+  </g>
+</svg>

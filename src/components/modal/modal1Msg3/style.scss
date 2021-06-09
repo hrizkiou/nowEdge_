@@ -1,0 +1,143 @@
+//------------
+.dayOneModal-modal1Msg3 {
+  position: relative;
+  width: 301px;
+    height: 596px;
+  // background-color: #ffffff;
+  margin: 0 auto;
+  // background-image: url('../../../assets/images/StrategicGame/Component 49 – 1@2x.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 13px;
+  // border: 1px solid salmon;
+
+  img {
+    // width: 100%;
+    // height: 95vh;
+    width: 300px;
+  }
+  .carousel_nav {
+    position: absolute;
+    bottom: 40px;
+    left: 32px;
+    display: flex;
+    
+    // border: 1px solid red;
+    // width: 87%;
+    // justify-content: space-between;
+    // @media (max-width: 1024px) {
+    //   width: 360px;
+    //   left: 34px;
+    // }
+  }
+  .black-msg {
+    width: 262px;
+    height: 82%;
+    position: absolute;
+    top: 37px;
+    left: 18px;
+    overflow: hidden;
+    // border: 1px solid rebeccapurple;
+
+    .carousel {
+      padding: 0 0px;
+      width: 100vw;
+      height: 100%;
+    }
+    .carousel__button--prev,
+    .carousel__button--next {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+    }
+    .carousel__button--prev {
+      left: 0;
+    }
+    .carousel__button--next {
+      right: 0;
+    }
+
+    .carousel__container {
+      overflow: hidden;
+      height: 100%;
+      // border: 1px solid #e06412;
+    }
+    .carousel__list {
+      position: relative;
+      display: flex;
+      flex-wrap: wrap;
+      overflow: hidden;
+      // border: 1px solid #10c469;
+      .carousel_item {
+        // background-color: #ffffff;
+        border-radius: 5px;
+        // background-color: #116bbe;
+        // border: 1px solid #116bbe;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 5px;
+        // height: 90%;
+        // overflow-y: scroll;
+        .sub-item-2 {
+          text-align: left;
+          height: 44%;
+          .phoneNumber {
+            border-bottom: 1px solid #e7e9ec;
+            margin-bottom: 10px;
+            margin-top: 25px;
+            h5 {
+              text-align: center;
+            }
+          }
+          .msg-lin {
+            max-height: 100%;
+            overflow-y: scroll ;
+
+            scrollbar-width: thin;          /* "auto" or "thin"  */
+            scrollbar-color: rgb(122, 120, 120) #ececec;   /* scroll thumb & track */
+
+            &::-webkit-scrollbar {
+              width: 4px;
+            }
+            
+            /* Track */
+            &::-webkit-scrollbar-track {
+              // box-shadow: inset 0 0 5px grey; 
+              border-radius: 10px;
+            }
+             
+            // /* Handle */
+            &::-webkit-scrollbar-thumb {
+              background: rgb(122, 120, 120); 
+              border-radius: 10px;
+            }
+            .msg-lin-text {
+              display: flex;
+              // background-color: aqua;
+              p {
+                margin-left: 10px;
+                background-color: #ececec;
+                padding: 10px;
+                border-radius: 5px;
+              }
+            }
+          }
+        }
+      }
+    }
+    .carousel__list.unwrap {
+      flex-wrap: nowrap;
+    }
+  }
+
+  // @media (min-width: 576px) {
+  .modal-dialog {
+    margin-top: 0px !important;
+  }
+
+  // }
+}
+
+.daysModal {
+  margin: 0px !important;
+}

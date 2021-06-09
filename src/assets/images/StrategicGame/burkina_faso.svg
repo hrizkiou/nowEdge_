@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_275" data-name="Ellipse 275" cx="15" cy="15" r="15" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 275 183">
+      <image width="275" height="183" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAApVBMVEUAnknvKy380RYAoUqTbDz1JCzuGi78yxcAm0sAnUr/0hT/1BH92BT81RUAmkzvJC34ox/yYijwQiu3vyzzZyf3nx/yXCjyWCn2lyHuHS77xRjxTCr2jyL8zxb0FS2QYT3OxSZ/sTlyrjzmzB3CwilorT1Zqj/0diX93xP6uhr3miD5tBv1hCPzbyb2NSqztC7RxiSNtTaduTJPqEGCsjgyo0WlujGsIaURAAADQElEQVR4nO3YWVejMByGcYwzFEgCXdxq7bh0man7Mvr9P9oUp1XqH6zekJyT53epXtDn5AVstIOPItcX4CGaSDSRaCLRRKKJRBOJJhJNJJpINJFoItFEoolEE4kmEk0kmkg0kWgi0USiiUQTiSYSTSSaSDSRaCLRRKKJRBOJJhJNJJpINJFoItFEoolEE4kmEk0kmkg0kWgi0USiiUQTiSYSTSSaSDSRaCLRRKKJRBOJJhJNJJpINJH8aVK4voA33jQpfnsTxZ8mliYfFHt/9nyJ4kuTuGu6seuLWPGmiVKKJhuKnlGm58l4PGkS71tl9z05KL40GS+3M6ZJRXFglk3MgR/j8aNJfGmXTeylHwfFkyYdVerQ5E1xaF6bmEMvxuNFk+GRfW1ij4auL6XkRZPVdHwZjw9NipFZNTEjH8bjQ5P1dHwZjw9N4mO1duzDeDxo8j4dT8bjQZPhiX1rYk88GI8HTSrT8WM87TYp4hp9U2li+nV/0u7habVJf6E60lhVjWv+Qi36bV5mu+ckvjTq+0zL/xu2fD+Je8puj7DBql7L95i277HDnavvHRVztdP2o6j95058/Z0o5rr9B5GDZ3E86nx1P7YzcvBsdvF+Ugy7Xzsqplu4eK11884W39jtR8XaGzcvcNFPJ37dLvSWJHpx+8vNxUU/HDm909knRTJ9d+rq0qJdV5K5ao6SqXni7Moid9LorGk/+n752zDlDw2n5CF3fWnu5Gd188nOAk4S7daPR7uctGPpeUOT81DvJlGU1E6nHE/i+tLcaXzuBHtO0ovGJhehRkmmTS9t2TTU8aTVJNnGq34W6DnZmE42mU8qUUIdT3U6epCkyeC9UajjSd8LZLPyzTWfVf4rDPKcpLP1sdD3u/8LpNH9289mIUZZTyfTj/n686f54+pWG+Z4ktVu7FP10ydP6/0E2GQ1HT1NN0eSplMd6niSQVbu5q/8WiA/L/eTDcI7KOV09OS57oMnzxMd4njSuX59Kan/Zfmqouehjaf81LPmr9OWryo6uPEk6vOvoZevKqGNJ5295J9PI81fgnvybP+8oRUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBL/gHLoY1URECBnQAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="burkina_faso" clip-path="url(#clip-path)">
+    <rect id="NoPath_-_Copie" data-name="NoPath - Copie" width="45" height="30" transform="translate(-7)" fill="url(#pattern)"/>
+  </g>
+</svg>

@@ -1,0 +1,154 @@
+//
+// components-demo.scss
+//
+
+// Demo Only
+.button-list {
+  .btn {
+    margin-top: 7px;
+    margin-right: 5px;
+  }
+}
+
+// list group
+
+.list-group-item {
+  border: 1px solid $gray-100;
+  border-left: none;
+  border-right: none;
+  &:hover {
+    background: $gray-100;
+  }
+  &:first-child {
+    border-top: none;
+  }
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+// Icon demo ( Demo only )
+.icons-list-demo {
+  div {
+    cursor: pointer;
+    line-height: 45px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    display: block;
+    overflow: hidden;
+    p {
+      margin-bottom: 0;
+      line-height: inherit;
+    }
+  }
+  i {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 22px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 12px;
+    color: rgba($dark, 0.7);
+    border-radius: 3px;
+    display: inline-block;
+    transition: all 0.2s;
+  }
+  .col-lg-4 {
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    background-clip: padding-box;
+    margin-bottom: 10px;
+    &:hover,
+    &:hover i {
+      color: $primary;
+    }
+  }
+}
+
+// Scrollspy
+
+.scrollspy-example {
+  position: relative;
+  height: 200px;
+  margin-top: 0.5rem;
+  overflow: auto;
+}
+
+.link-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  &:hover:focus {
+    text-decoration: none;
+  }
+}
+.list-quiz-item {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  padding-top: 11px;
+  &:hover {
+    text-decoration: none;
+    background-color: #f1f5f7;
+  }
+}
+
+.inbox-item-custom {
+  &:hover {
+    text-decoration: none;
+    background-color: #f1f5f7;
+  }
+}
+
+.cont-list-qu .btn-list-qu {
+  &:hover {
+    text-decoration: none;
+    color: #71b6f9 !important;
+  }
+}
+
+.cont-list-qu .btn-delete-list-qu {
+  &:hover {
+    text-decoration: none;
+    color: red !important;
+  }
+}
+
+.test-affectation-t {
+  text-align: left;
+  font: normal normal bold 18px/17px Karla;
+  letter-spacing: 0.36px;
+  color: #3f4351;
+}
+.test-affectation-l {
+  text-align: left;
+  font: normal normal normal 15px/17px Roboto;
+  letter-spacing: 0.3px;
+  color: #3f4351;
+}
+
+.affectation-content {
+  justify-content: space-between;
+  border-bottom: 1px solid #f1f5f7;
+  align-items: baseline;
+  padding-bottom: 13px;
+  padding-top: 13px;
+}
+.affectation-title {
+  justify-content: space-between;
+  align-items: baseline;
+  padding-bottom: 20px;
+}
+#affectation-select button {
+  background-color: #ffffff;
+  color: #3f4351;
+  border-color: #ced4da;
+}

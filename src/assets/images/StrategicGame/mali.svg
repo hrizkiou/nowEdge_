@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_291" data-name="Ellipse 291" cx="15" cy="15" r="15" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 275 183">
+      <image width="275" height="183" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAG1BMVEUUtTrOESb80RYAtDt8vjH/0hP+1xXdZyLNACZ7BZ9DAAABAElEQVR4nO3QRwEAIAwEsDKLf8WouF8iIVUxa5+ZcvuNmFyJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEydOnDhx4sSJEye5kw8x5tcsm2OWvgAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="mali" clip-path="url(#clip-path)">
+    <rect id="NoPath_-_Copie_9_" data-name="NoPath - Copie (9)" width="45" height="30" transform="translate(-7)" fill="url(#pattern)"/>
+  </g>
+</svg>

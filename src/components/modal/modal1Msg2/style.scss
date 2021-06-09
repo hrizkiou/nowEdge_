@@ -1,0 +1,94 @@
+//------------
+.dayOneModal-modal1Msg2 {
+  position: relative;
+  width: 40vw;
+  height: 95vh;
+  // background-color: #ffffff;
+  margin: 0 auto;
+  // background-image: url('../../../assets/images/StrategicGame/Component 49 – 1@2x.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 13px;
+
+  img {
+    width: 100%;
+    height: 95vh;
+  }
+  .carousel_nav {
+    position: absolute;
+    bottom: 17%;
+    right: 15%;
+    display: flex;
+    // border: 1px solid red;
+    width: 60%;
+    justify-content: space-between;
+  }
+  .black-msg {
+    width: 75%;
+    height: 70%;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    overflow: hidden;
+
+    .carousel {
+      padding: 0 0px;
+      width: 100vw;
+      height: 100%;
+    }
+    .carousel__button--prev,
+    .carousel__button--next {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+    }
+    .carousel__button--prev {
+      left: 0;
+    }
+    .carousel__button--next {
+      right: 0;
+    }
+
+    .carousel__container {
+      overflow: hidden;
+      height: 100%;
+      // border: 1px solid #e06412;
+    }
+    .carousel__list {
+      position: relative;
+      display: flex;
+      flex-wrap: wrap;
+      overflow: hidden;
+      // border: 1px solid #10c469;
+      .carousel_item {
+        // background-color: #ffffff;
+        border-radius: 5px;
+        // background-color: #116bbe;
+        padding: 5px;
+        display: flex;
+        flex-direction: column;
+        .sub-item-2 {
+          text-align: left;
+          img {
+            width: 100%;
+            height: 162px;
+          }
+        }
+      }
+    }
+    .carousel__list.unwrap {
+      flex-wrap: nowrap;
+    }
+  }
+
+  // @media (min-width: 576px) {
+  .modal-dialog {
+    margin-top: 0px !important;
+  }
+
+  // }
+}
+
+.daysModal {
+  margin: 0px !important;
+}

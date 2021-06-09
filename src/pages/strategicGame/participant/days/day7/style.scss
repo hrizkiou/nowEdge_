@@ -1,0 +1,408 @@
+.container-day {
+  height        : auto;
+  width         : 100vw;
+  min-height    : 100vh;
+  display       : flex;
+  flex-direction: row;
+  padding-top   : 34px;
+  padding-left  : 79px;
+  padding-right : 75px;
+
+  .box {
+    text-align : center;
+    color      : white;
+    font-family: sans-serif;
+    font-size  : 36px;
+    padding    : 20px;
+
+    display        : flex;
+    flex-direction : column;
+    justify-content: center;
+  }
+
+  .cas-answered-container {
+    cursor          : not-allowed !important;
+    background-color: #cccccc8a !important;
+  }
+
+  .cas-answered-text {
+    color: #656363a6 !important;
+  }
+
+  .box-1 {
+    flex            : 4;
+    background-image: url('../../../../../assets/images/StrategicGame/group_5175-24.png');
+    background-size : cover;
+    position        : relative;
+
+    .pup {
+      background-color: white;
+      width           : 92%;
+      padding         : 20px;
+      border-radius   : 5px;
+      position        : absolute;
+      top             : 30%;
+
+      &:before {
+        content      : '';
+        display      : block;
+        width        : 0;
+        height       : 0;
+        border-top   : 20px solid #fffdfd;
+        border-bottom: 20px solid #1a1d4400;
+        border-left  : 12px solid #9c3d3d00;
+        border-right : 12px solid transparent;
+        position     : absolute;
+        bottom       : -39px;
+        left         : 59px;
+      }
+
+      h3 {
+        font               : normal normal bold 16px/17px Karla;
+        //   letter-spacing: 0.5px;
+        color              : #71b6f9;
+        text-align         : left;
+        text-transform     : uppercase;
+      }
+
+      p {
+        font               : normal normal normal 14px/20px Karla;
+        //   letter-spacing: 0.5px;
+        color              : #3f4351;
+        text-align         : left;
+      }
+    }
+  }
+
+  .box-2 {
+    // background-color: blue;
+    flex          : 7;
+    display       : flex;
+    flex-direction: column;
+    padding       : 0px;
+
+    .box-2-1 {
+      flex                 : 1;
+      //   background-color: rgb(51, 255, 0);
+      display              : flex;
+      justify-content      : space-between;
+      align-items          : center;
+      align-content        : center;
+      padding              : 0px 20px;
+
+      .cat-ad {
+        background   : #ffea7e 0% 0% no-repeat padding-box;
+        border-radius: 4px;
+        opacity      : 0.5;
+
+        text-align    : left;
+        font          : normal normal normal 14px/17px Karla;
+        letter-spacing: 0.28px;
+        color         : #000000;
+        opacity       : 1;
+        padding       : 10px;
+      }
+    }
+
+    .box-2-2 {
+      flex                 : 1;
+      //   background-color: rgb(255, 153, 0);
+      padding              : 10px 60px 10px 20px;
+
+      h3 {
+        text-align    : left;
+        font          : normal normal normal 18px/17px Karla;
+        letter-spacing: 0.36px;
+        color         : #9f9f9f;
+        text-transform: uppercase;
+        opacity       : 1;
+        margin-bottom : 0px;
+      }
+
+      p {
+        text-align    : left;
+        font          : normal normal bold 25px/29px Karla;
+        letter-spacing: 0.5px;
+        color         : #3f4351;
+        opacity       : 1;
+        margin-bottom : 4px;
+        margin-top    : 4px;
+      }
+
+      h4 {
+        text-align    : left;
+        font          : normal normal normal 14px/17px Karla;
+        letter-spacing: 0.28px;
+        color         : #3f4351;
+        opacity       : 1;
+        margin        : 0px;
+      }
+    }
+
+    .box-2-3 {
+      flex   : 10;
+      display: flex;
+
+      margin-left        : 0px;
+      margin-right       : 0px;
+      // background-color: rgb(255, 0, 170);
+      flex-direction     : column;
+      padding            : 0px 20px;
+
+      .accordion {
+        // flex: 1;
+        margin-top: 20px;
+
+        .accordion-header {
+          display        : flex;
+          justify-content: space-between;
+          padding        : 20px;
+          border-radius  : 5px;
+
+          h3 {
+            text-align    : left;
+            font          : normal normal bold 20px/17px Karla;
+            letter-spacing: 0.4px;
+
+            opacity: 1;
+          }
+
+          span {
+            font-size    : 12px;
+            padding      : 0px 4px;
+            //border: 2px solid;
+            margin-top   : auto;
+            margin-bottom: auto;
+
+            i {
+              font-size: 20px;
+            }
+          }
+        }
+
+        .accordion-body {
+          background-color: white;
+          padding-left    : 26px;
+          display         : flex;
+          flex-direction  : row;
+
+          .cas {
+            user-select    : none;
+            cursor         : pointer;
+            flex           : 1;
+            height         : 76px;
+            background     : #ebeff2 0% 0% no-repeat padding-box;
+            border         : 1px solid #e1e3e5;
+            border-radius  : 5px;
+            margin-right   : 19px;
+            margin-bottom  : 26px;
+            margin-top     : 26px;
+            display        : flex;
+            flex-direction : row;
+            justify-content: space-between;
+            align-items    : center;
+            padding        : 0px 22px;
+
+            .title {
+              text-align    : left;
+              font          : normal normal bold 20px/17px Karla;
+              letter-spacing: 0.4px;
+              color         : #3f4351;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .modal-block-1 {
+    background-image     : url('../../../../../assets/images/StrategicGame/group_5171.png');
+    flex                 : 1.5 1;
+    background-color     : #a7dcf1;
+    height               : 70vh;
+    background-size      : contain;
+    background-position-y: 100%;
+    background-position-x: 35px;
+    background-repeat    : no-repeat;
+  }
+
+  .modal-block-2 {
+    position             : relative;
+    background-image     : url('../../../../../assets/images/StrategicGame/group_3746.png');
+    flex                 : 4;
+    background-color     : #48b0f5;
+    height               : 70vh;
+    background-size      : contain;
+    background-position-y: 154%;
+    background-position-x: 97px;
+    background-repeat    : no-repeat;
+
+    .btn-msg-can {
+      position        : absolute;
+      z-index         : 200;
+      bottom          : -19px;
+      right           : 200px;
+      color           : #343a40;
+      background-color: #fff;
+    }
+
+    .btn-msg {
+      position: absolute;
+      z-index : 200;
+      bottom  : -19px;
+      right   : 59px;
+    }
+
+    .msg {
+      width           : 90%;
+      background-color: white;
+      z-index         : 300;
+      position        : absolute;
+      left            : 5%;
+      padding         : 10px 20px;
+      top             : 20%;
+      border-radius   : 4px;
+
+      &::before {
+        content      : '';
+        display      : block;
+        width        : 0;
+        height       : 0;
+        border-top   : 12px solid transparent;
+        border-bottom: 12px solid transparent;
+        border-right : 12px solid #ffffff;
+        position     : absolute;
+        top          : 50px;
+        left         : -12px;
+      }
+
+      h3 {
+        text-align    : left;
+        font          : normal normal bold 16px/17px Karla;
+        letter-spacing: 0.32px;
+        color         : #71b6f9;
+        text-transform: uppercase;
+        opacity       : 1;
+      }
+
+      p {
+        text-align    : left;
+        font          : normal normal normal 14px/17px Karla;
+        letter-spacing: 0.28px;
+        color         : #343a40;
+        opacity       : 1;
+      }
+    }
+
+    &::before {
+      background-color: #000000;
+      opacity         : 66%;
+      content         : '';
+      width           : 100%;
+      height          : 100%;
+      z-index         : 200;
+      position        : absolute;
+    }
+  }
+}
+
+.dropdown-menu {
+  width: 100%;
+
+  .dropdown-item {
+    white-space  : initial;
+    border-bottom: 1px solid #e8e8e8;
+  }
+}
+
+.lable-select {
+  text-align    : left;
+  font          : normal normal normal 15px/17px Roboto;
+  letter-spacing: 0.3px;
+  color         : #3f4351;
+  opacity       : 1;
+}
+
+.form-group-selecte {
+  text-align: left;
+  padding   : 4px 7px;
+  //   flex: 1;
+  width     : 50%;
+}
+
+.title-not {
+  text-align    : left;
+  font          : normal normal normal 14px/17px Karla;
+  letter-spacing: 0.28px;
+  color         : #3f4351;
+  opacity       : 1;
+  margin-left   : 25px;
+  margin-top    : 25px;
+  max-width     : 431px;
+}
+
+.icon-ssr-Ver8 {
+  margin-bottom: 17px;
+
+  i {
+    font-size    : 20px;
+    //   color: #10c469;
+    padding      : 2px 4px;
+    //  border: 2px solid;
+    margin-top   : auto;
+    margin-bottom: auto;
+  }
+}
+
+.text-valid {
+  color: #10c469 !important;
+}
+
+.text-not-valid {
+  color: #ff5b5b !important;
+}
+
+.border-not-valid {
+  border: 1px solid #ff5b5b !important;
+}
+
+.border-valid {
+  border: 1px solid #10c469 !important;
+}
+
+.border-not-valid-i {
+  border       : 2px solid #ff5b5b !important;
+  border-radius: 4px;
+}
+
+.border-valid-i {
+  border       : 2px solid #10c469 !important;
+  border-radius: 4px;
+}
+
+.accordion-valid {
+  background-color: #cff3e1 !important;
+
+  h3,
+  span {
+    color: #10c469 !important;
+  }
+}
+
+.accordion-not-valid {
+  background-color: #ffdede !important;
+
+  h3,
+  span {
+    color: #ff5b5b !important;
+  }
+}
+
+.accordion-0 {
+  background-color: #e1e3e5 !important;
+
+  h3,
+  span {
+    color: #3f4351 !important;
+  }
+}

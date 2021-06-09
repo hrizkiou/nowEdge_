@@ -1,0 +1,20 @@
+.tabulator .tabulator-header .tabulator-col.tabulator-sortable .tabulator-col-title {
+  text-align: center;
+}
+
+
+
+
+.tabulator-row .tabulator-cell:last-of-type {
+  border-right: none;
+  height: initial !important;
+
+}
+
+
+.tabulator-row .tabulator-cell {
+  height: initial !important;
+   .rtl{
+     padding-left: 20%;
+   }
+}

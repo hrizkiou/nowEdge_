@@ -1,0 +1,268 @@
+.main-classement {
+  background-image: url('../../../images/StrategicGame/mask_group_19.png');
+  width: 100vw;
+  height: 100vh;
+  // min-width: 768px;
+  // min-height: 621px;
+  background-size: 100% 100%;
+  // position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.classement-header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 29px;
+  padding-left: 95px;
+  padding-right: 65px;
+  flex: 1;
+}
+
+.classement-content {
+  display: flex;
+  //   border: 3px solid black;
+  flex: 6;
+  flex-direction: row-reverse;
+  padding-right: 65px;
+  .list-classment {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    overflow-y: auto;
+    height: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+    div {
+      height: 100;
+      //   border: 1px solid black;
+    }
+  }
+}
+
+%block-calssment {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  padding-top: 18px;
+  padding-bottom: 15px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 11px 28px #45628f91;
+  border-radius: 4px;
+  opacity: 1;
+  p {
+    text-align: center;
+    font: normal normal bold 12px/10px Karla;
+    letter-spacing: 0px;
+    color: #3f4351;
+    opacity: 1;
+    margin: 0px;
+    margin-bottom: 4px;
+    margin-top: 12px;
+  }
+  div {
+    text-align: center;
+    .text-score {
+      display: inline-block;
+      text-align: left;
+      font: normal normal normal 12px/10px Karla;
+      letter-spacing: 0px;
+      color: #3f4351;
+      opacity: 1;
+    }
+    .text-score-n {
+      display: inline-block;
+      text-align: left;
+      font: normal normal bold 12px/10px Karla;
+      letter-spacing: 0px;
+      color: #2fa1f1;
+      opacity: 1;
+    }
+  }
+}
+.classement-content-block {
+  display: flex;
+  flex-direction: column;
+  //   border: 1px solid black;
+  .details-classment {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    div {
+      flex: 1;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+    .details-class-2 {
+      @extend %block-calssment;
+    }
+    .details-class-1 {
+      @extend %block-calssment;
+    }
+    .details-class-3 {
+      @extend %block-calssment;
+    }
+  }
+
+  .details-classment :hover .clas-show-detail-hover {
+    display: flex !important;
+  }
+
+  .heder {
+    h3 {
+      text-align: center;
+      font: normal normal bold 26px/41px Karla;
+      letter-spacing: 0.52px;
+      color: #ffffff;
+      text-transform: uppercase;
+      opacity: 1;
+    }
+    h5 {
+      text-align: center;
+      font: normal normal normal 16px/17px Karla;
+      letter-spacing: 0.32px;
+      color: #ffffff;
+      opacity: 1;
+    }
+  }
+}
+
+.active-classment {
+  background: #29abe2 0% 0% no-repeat padding-box !important;
+
+  > div {
+    > h3 {
+      color: #ffffff !important;
+    }
+    > h4 {
+      color: #ffffff !important;
+    }
+    > div {
+      color: #ffffff !important;
+    }
+  }
+}
+.list-item-classment {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 15px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  margin-bottom: 6px;
+
+  &:hover {
+    background: #29abe2 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+
+    > div {
+      > h3 {
+        color: #ffffff;
+      }
+      > h4 {
+        color: #ffffff;
+      }
+      > div {
+        color: #ffffff;
+      }
+    }
+  }
+  .list-item-classment-b1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    h3 {
+      text-align: left;
+      font: normal normal bold 15px/10px Karla;
+      letter-spacing: 0px;
+      color: #2fa1f1;
+      opacity: 1;
+      margin-right: 15px;
+    }
+
+    div {
+      text-align: left;
+      font: normal normal bold 12px/10px Karla;
+      letter-spacing: 0px;
+      color: #3f4351;
+      opacity: 1;
+      margin-left: 15px;
+    }
+  }
+
+  //   .list-item-classment-b2 :hover >
+
+  /////--------------------------
+  .list-item-classment-b2 {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+
+    &:hover {
+      .clas-show-detail-hover-li {
+        display: flex !important;
+      }
+    }
+
+    h3 {
+      text-align: left;
+      font: normal normal bold 12px/10px Karla;
+      letter-spacing: 0px;
+      color: #3f4351;
+      opacity: 1;
+    }
+
+    h4 {
+      text-align: left;
+      font: normal normal bold 12px/10px Karla;
+      letter-spacing: 0px;
+      color: #2fa1f1;
+      opacity: 1;
+      display: inline-block;
+      margin-left: 5px;
+    }
+  }
+}
+
+.clas-show-detail-hover {
+  background-color: #fff;
+  position: absolute;
+  z-index: 200;
+  right: 0px;
+  bottom: -115px;
+  display: none;
+  flex-direction: column;
+  color: #0760a5;
+  border-radius: 4px;
+  box-shadow: 0px 11px 28px #45628f91;
+  padding-top: 10px;
+}
+
+.clas-show-detail-hover-li {
+  background-color: #fff;
+  position: absolute;
+  z-index: 200;
+  right: -15px;
+  bottom: -125px;
+  display: none;
+  flex-direction: column;
+  color: #0760a5 !important;
+  border-radius: 4px;
+  box-shadow: 0px 11px 28px #45628f91;
+  padding-top: 10px;
+  width: 110px;
+
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

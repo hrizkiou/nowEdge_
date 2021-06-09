@@ -1,0 +1,39 @@
+{
+"moduleInstanceId": 1,
+"trainingSessionId": 1,
+"moduleName": "Price War",
+"notions": [
+  {
+    "id": 1,
+    "notionOrder":1,
+    "title": "Game Theory",
+    "description": "Description of Game Theory",
+    "content": "Duis labore cupidatat amet quis nisi ea ex nulla enim irure labore occaecat esse cupidatat. Minim occaecat ex cillum ipsum exercitation irure. Ex amet qui excepteur nulla magna adipisicing fugiat minim sunt est deserunt ex cupidatat. ",
+    "mediaPath": "https://player.vimeo.com/video/71876963"
+  },
+  {
+    "id": 2,
+    "notionOrder":4,
+    "title": "Cost Curve",
+    "description": "Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve Description of Cost Curve",
+    "content": "Cupidatat officia laboris nisi aliquip sint est consequat id occaecat. Nostrud quis pariatur elit nulla eiusmod sint. Officia fugiat Lorem sit ullamco excepteur qui consequat non cillum laborum proident id. Dolor nostrud irure eiusmod dolore excepteur ipsum ullamco elit eu sunt id in quis. Enim esse qui culpa elit. Elit amet tempor nisi eu et est eiusmod sit mollit laboris. ",
+    "mediaPath": "https://player.vimeo.com/video/94656440"
+  },
+  {
+    "id": 3,
+    "notionOrder":3,
+    "title": "EBITDA",
+    "description": "Description of EBITDA",
+    "content": "Aute id do deserunt excepteur elit enim anim commodo cupidatat aliqua qui id amet eiusmod. Ad culpa ut occaecat dolore non cupidatat duis dolor ex amet irure aliquip ullamco aute. Ex commodo sint deserunt voluptate ea ipsum ad consequat adipisicing incididunt qui pariatur mollit esse. Incididunt ad exercitation exercitation et elit eiusmod duis velit. Est eiusmod dolor sit proident ex anim culpa. Irure consequat aliquip ad ipsum eiusmod amet deserunt irure ea eu. ",
+    "mediaPath": "https://player.vimeo.com/video/66504878"
+  },
+  {
+    "id": 4,
+    "notionOrder":2,
+    "title": "Market Equilibrium",
+    "description": "Description of Market Equilibrium",
+    "content": "Qui fugiat nostrud in veniam duis quis sint ex enim adipisicing anim. Sint dolore aliqua fugiat nostrud esse aliquip. Excepteur culpa occaecat in id est veniam do minim minim commodo ad incididunt deserunt consequat. Consequat dolor aliqua consectetur tempor velit cillum. Ex officia adipisicing proident pariatur fugiat incididunt reprehenderit exercitation fugiat. ",
+    "mediaPath": "https://player.vimeo.com/video/320480032"
+  }
+]
+}

@@ -1,0 +1,82 @@
+.module-list-not {
+  font-family: "Karla";
+  font-size: 14px;
+  background-color: transparent;
+  color: #464b68;
+}
+.module-list-not:hover {
+  background-color: #d9e9f5;
+  border-radius: 10px;
+  color: #464b68;
+}
+.activity-container {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+.video-container {
+  font-family: "Karla";
+  font-size: 16px;
+  color: #6a6a8d;
+  font-weight: 300;
+  line-height: 1.6;
+}
+.video-content {
+  background-color: #000000;
+}
+.f-s-10 {
+  font-size: 10px;
+}
+.module-list::-webkit-scrollbar {
+  width: 4px;
+}
+.module-list::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+.module-list::-webkit-scrollbar-thumb {
+  background: #64a7fb;
+  border-radius: 10px;
+}
+.modules-desc-top {
+  color: #080e5e;
+  font-family: "Karla";
+  overflow-x: auto;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.modules-title-top {
+  color: #080e5e;
+}
+.modules-title-bottom {
+  color: #080e5e;
+}
+.modules-desc-bottom {
+  color: #000000;
+}
+.module-list_active {
+  background-color: #64a7fb;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+}
+.module-list_active:hover {
+  background-color: #64a7fb;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+}
+.bg-t {
+  background-color: transparent;
+}
+@media only screen and (max-width: 768px) {
+  .controls-bar {
+    flex-direction: column;
+  }
+  .module-select {
+    width: 80% !important;
+  }
+  .module-btn {
+    width: 100%;
+  }
+}

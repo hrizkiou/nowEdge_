@@ -1,0 +1,105 @@
+//------------
+.dayOneModal-modal1Msg {
+  position: relative;
+  width: 974px;
+  height: 529px;
+  background-color: transparent;
+  margin: 0px auto;
+  margin-top: 5%;
+  background-image: url('../../../assets/images/StrategicGame/group_517099.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 13px;
+
+
+  .carousel_nav {
+    position: absolute;
+    bottom: 25px;
+    right: 55px;
+    display: flex;
+    // border: 1px solid red;
+    width: 60%;
+    justify-content: space-between;
+  }
+  .black-msg {
+    width: 60%;
+    height: 50%;
+    position: absolute;
+    top: 35%;
+    right: 6%;
+    overflow: hidden;
+
+    .carousel {
+      padding: 0 0px;
+      width: 100vw;
+      height: 100%;
+      // border: 1px solid red;
+    }
+    .carousel__button--prev,
+    .carousel__button--next {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+    }
+    .carousel__button--prev {
+      left: 0;
+    }
+    .carousel__button--next {
+      right: 0;
+    }
+
+    .carousel__container {
+      overflow: hidden;
+      height: 100%;
+      // border: 1px solid #e06412;
+    }
+    .carousel__list {
+      position: relative;
+      display: flex;
+      flex-wrap: wrap;
+      overflow: hidden;
+      // border: 1px solid #10c469;
+      .carousel_item {
+        background-color: #ffffff;
+        border-radius: 5px;
+        width: 584px;
+        // background-color: #116bbe;
+        // border: 1px solid red;
+        display: flex;
+        flex-direction: column;
+        .sub-item-2 {
+          text-align: left;
+          height: 187px;
+          overflow-y: scroll;
+
+          &::-webkit-scrollbar {
+            width: 4px;
+          }
+          
+          /* Track */
+          &::-webkit-scrollbar-track {
+            // box-shadow: inset 0 0 5px grey; 
+            border-radius: 10px;
+          }
+           
+          // /* Handle */
+          &::-webkit-scrollbar-thumb {
+            background: rgb(122, 120, 120); 
+            border-radius: 10px;
+          }
+          // background-color: #343a40;
+          p {
+            text-align: left;
+            font: normal normal normal 14px/17px Karla;
+            letter-spacing: 0.28px;
+            color: #343a40;
+            opacity: 1;
+          }
+        }
+      }
+    }
+    .carousel__list.unwrap {
+      flex-wrap: nowrap;
+    }
+  }
+}

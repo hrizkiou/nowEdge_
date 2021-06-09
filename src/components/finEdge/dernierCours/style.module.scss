@@ -1,0 +1,33 @@
+.content_lt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:20px
+}
+
+.prix{
+    color:#343A40;
+    font-family:Karla;
+    font-size:34px;
+    font-weight:bold;
+}
+
+.btn_ach{
+    background-color:#04B303 !important;
+    font-family: Roboto !important;
+    font-size:15px !important;
+    font-weight:bold !important;
+    margin-top: 38px !important;
+}
+.btn_vant{
+    background-color:#FF4040 !important;
+    font-family: Roboto !important;
+    font-size:15px !important;
+    font-weight:bold !important;
+    // margin-bottom: 40px!important;
+}
+
+.s_title{
+    font-family: Karla;
+    font-size:14px;
+}

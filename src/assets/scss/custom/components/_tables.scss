@@ -1,0 +1,67 @@
+// 
+// tables.scss
+//
+
+
+//Table centered (Custom)
+.table-centered {
+    td,th {
+        vertical-align: middle !important;
+    }
+}
+
+.tab-content{
+   background-color: #ffffff;
+   border-width: 0px;
+   margin-left: 1px
+
+}
+
+.nav-tabs a {
+    color: #6C757D
+}
+
+.list-std-item {
+
+    padding-left: 22px !important;
+    padding-top: 17px !important;
+    &:hover{
+        background-color: #EBEFF2
+    }
+
+}
+.list-std-item-active {
+   background-color: #EBEFF2 !important
+}
+
+
+.inbox-item-std {
+    padding-left: 22px !important;
+    padding-right: 22px !important;
+    padding-top: 1px !important;
+   &:hover{
+      background-color: #F1F5F7 !important
+    }
+}
+
+.inbox-item-quiz-item {
+    padding-left: 22px !important;
+    padding-top: 12px !important;
+   &:hover{
+      background-color: #EBEFF2 !important
+    }
+}
+
+.mo-re-quiz{
+    flex: 1;
+    display: flex;
+    border-bottom: 1;
+    border-bottom-style: solid;
+    border-bottom-color: #f8fafb;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    &:hover{
+        background-color: #F1F5F7
+    }
+}

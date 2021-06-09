@@ -1,0 +1,86 @@
+$backgroundColor:#f00; //change background color of table
+
+// @import  "tabulator_simple"; //import table scss
+.tabulator{
+    .tabulator-headers{
+        background-color: #F4F5F9;
+        .tabulator-col{
+            background-color: #F4F5F9;
+        }
+    }
+}
+
+.tabulator-row.tabulator-group {
+    padding: 5px;
+    padding-left: 10px;
+    background: #ffffff;
+    font-weight: 700;
+    min-width: 100%;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    border-right: 0px; 
+    border-top: 0px;
+
+    font-family: Karla;
+    font-size: 14px;
+    font-weight: bold;
+    color: #475466;
+    
+    }
+
+
+.tabulator-col-content{
+    height: 73px;
+}
+
+.tabulator-cell{
+ 
+    /* color: #313131; */
+    font-family: Karla;
+    font-size: 14px;
+    color: #475466;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.tabulator-col-title{
+    font-family: Karla;
+    font-size: 14px;
+    font-weight: bold;
+    color: #313131;
+}
+
+
+.row_group_text{
+    // background-color: #2525db;
+    font-family: Karla;
+    font-size: 14px;
+    font-weight: bold;
+    color: #475466;
+    display: inline-block;
+}
+
+.row_group_index{
+    font-family: Karla;
+    font-size: 14px;
+    font-weight: bold;
+    color: #475466;
+    display: inline-block;
+    float: left;
+    display:inline-block;
+    margin-right: 25px;
+}
+
+.row_group_index_c{
+    // background-color: #f00;
+    text-align: center;
+    // padding-left: 60px;
+
+}
+
+.label{
+    background-color: #f00;
+    padding:10px 25px;
+    border-radius: 10px;
+}

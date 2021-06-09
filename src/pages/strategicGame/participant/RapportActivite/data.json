@@ -1,0 +1,498 @@
+{
+    "en":[
+        {
+          "id": 1,
+          "day": 1,
+          "categorie": "Financement",
+          "description": "Score de Structure: Vos actions de financement vous ont rapporté ## points"
+        },
+        {
+          "id": 2,
+          "day": 1,
+          "categorie": "Réglementation et procédures",
+          "description": "Score de Structure: Vos actions de réglementation vous ont rapporté ## points"
+        },
+        {
+          "id": 3,
+          "day": 1,
+          "categorie": "Equipement",
+          "description": "Score de Structure: Vos actions de choix d'équipement vous ont rapporté ## points"
+        },
+        {
+          "id": 4,
+          "day": 1,
+          "categorie": "Ressources humaines",
+          "description": "Score de Structure: Vos actions de choix RH vous ont rapporté ## points"
+        },
+        {
+          "id": 5,
+          "day": 1,
+          "categorie": "DAY 1",
+          "description": "Score de Structure: Lors de la mise en place du centre, vos choix stratégiques vous ont permis d'atteindre le score ##. Vous avez amélioré votre score de Structure. Bravo!"
+        },
+        {
+          "id": 6,
+          "day": 2,
+          "categorie": "DAY 2",
+          "description": "Score de Structure: Les actions de formations réalisées pour le staff du centre vous ont fait gagner ## points. Votre nouveau score de Structure est @@"
+        },
+        {
+          "id": 7,
+          "day": 3,
+          "categorie": "Pharmacovigilance team (WHO) Geneva",
+          "description": "Score de Structure: vos intéractions avec la Phamacovigilance Team (WHO) vous ont rapporté ## points"
+        },
+        {
+          "id": 8,
+          "day": 3,
+          "categorie": "Upssala Monitoring Centre",
+          "description": "Score de Structure: vos intéractions avec Upssala Moniroting Centre vous ont rapporté ## points"
+        },
+        {
+          "id": 9,
+          "day": 3,
+          "categorie": "Rabat collaborating center RCC",
+          "description": "Score de Structure: vos intéractions avec le Rabat Collaborating Center RCC vous ont rapporté ## points"
+        },
+        {
+          "id": 10,
+          "day": 3,
+          "categorie": "Les bailleurs de fonds",
+          "description": "Score de Structure: vos intéractions avec les bailleurs de fonds vous ont rapporté ## points"
+        },
+        {
+          "id": 11,
+          "day": 3,
+          "categorie": "Les sociétés savantes",
+          "description": "Score de Structure: vos intéractions avec les sociétés savantes vous ont rapporté ## points"
+        },
+        {
+          "id": 12,
+          "day": 3,
+          "categorie": "Les bureaux régionaux et nationaux de de l'OMS",
+          "description": "Score de Structure: vos intéractions avec les bureaux régionaux et nationaux de de l'OMS vous ont rapporté ## points"
+        },
+        {
+          "id": 13,
+          "day": 3,
+          "categorie": "DAY 3",
+          "description": "Score de Structure: Les décisions de collaboration internationale pour la pharmacovigilance vous ont fait gagner ## points. Votre nouveau score de Structure est @@"
+        },
+        {
+          "id": 14,
+          "day": 4,
+          "categorie": "DAY 4",
+          "description": "Score de Notification: Les décisions stratégiques de développement d'activités de pharmacovigilance du centre vous ont fait gagner ## points"
+        },
+        {
+          "id": 15,
+          "day": 4,
+          "categorie": "DAY 4",
+          "description": "Score de Notification: La fiche de notification que vous avez crée vous fait gagner ## points"
+        },
+        {
+          "id": 16,
+          "day": 5,
+          "categorie": "DAY 5",
+          "description": "Score de Notification: Vos choix de circuit de notification vous font gagner ## points"
+        },
+        {
+          "id": 17,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: la gestion des notifications reçues par téléphone vous a permis de gagner ## points"
+        },
+        {
+          "id": 18,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: la gestion des notifications reçues par courrier vous a permis de gagner ## points"
+        },
+        {
+          "id": 19,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: la gestion des notifications reçues par mail vous a permis de gagner ## points"
+        },
+        {
+          "id": 20,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: Grâce à vos décisions dans la validation des cas, vous avez remporté ## points. Votre nouveau score de Notification est @@"
+        },
+        {
+          "id": 21,
+          "day": 7,
+          "categorie": "DAY 7",
+          "description": "Score d'Action: vos réponses aux cas d'imputabilité vous rapportent ## points"
+        },
+        {
+          "id": 22,
+          "day": 7,
+          "categorie": "DAY 7",
+          "description": "Score d'Action: Vous avez atteint le niveau ## suite au Niveau de l'imputabilité"
+        },
+        {
+          "id": 23,
+          "day": 8,
+          "categorie": "DAY 8",
+          "description": "Score d'Action: Vous avez remporté ## points pour l'alimentation des codes ATC dans la base de donnée"
+        },
+        {
+          "id": 24,
+          "day": 8,
+          "categorie": "DAY 8",
+          "description": "Score d'Action: Vous avez remporté ## points pour l'alimentation des codes MedDRA dans la base de donnée"
+        },
+        {
+          "id": 25,
+          "day": 8,
+          "categorie": "DAY 8",
+          "description": "Score d'Action: Vous avez gagné ## points suite au niveau de l'alimentation des bases de données"
+        },
+        {
+          "id": 26,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détéction du signal pour la 1ère base de données vous a rapporté ## points"
+        },
+        {
+          "id": 27,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La qualification du signal pour la 1ère base de données vous a rapporté ## points"
+        },
+        {
+          "id": 28,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 2ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 29,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 3ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 30,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La qualification du signal pour la 3ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 31,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 4ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 32,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 5ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 33,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La qualification du signal pour la 5ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 34,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: Vos choix dans la détection et la qualification des signaux vous ont rapporté ## points"
+        },
+        {
+          "id": 35,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Le comité technique constitué pour le cas Artotec - Hémorragie utérine vous a fait gagner ## points"
+        },
+        {
+          "id": 36,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Le comité technique constitué pour le cas Zyloric - DRESS syndrome vous a fait gagner ## points"
+        },
+        {
+          "id": 37,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Le comité technique constitué pour le cas Fer injectable - Réaction anaphylactique vous a fait gagner ## points"
+        },
+        {
+          "id": 38,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Les choix des facteurs contributifs pour le cas Artotec - Hémorragie utérine vous a fait gagner ## points"
+        },
+        {
+          "id": 39,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Les choix des facteurs contributifs pour le cas Zyloric - DRESS syndrome vous a fait gagner ## points"
+        },
+        {
+          "id": 40,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Les choix des facteurs contributifs pour le cas Fer injectable - Réaction anaphylactique vous a fait gagner ## points"
+        },
+        {
+          "id": 41,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Vos décisions de constitution de comité téchnique et vos choix de facteurs contributifs pour les 3 signaux vous ont rapporté ##. Votre nouveau score d'Action est de @@"
+        }
+      ],
+    "fr":[
+        {
+          "id": 1,
+          "day": 1,
+          "categorie": "Financement",
+          "description": "Score de Structure: Vos actions de financement vous ont rapporté ## points"
+        },
+        {
+          "id": 2,
+          "day": 1,
+          "categorie": "Réglementation et procédures",
+          "description": "Score de Structure: Vos actions de réglementation vous ont rapporté ## points"
+        },
+        {
+          "id": 3,
+          "day": 1,
+          "categorie": "Equipement",
+          "description": "Score de Structure: Vos actions de choix d'équipement vous ont rapporté ## points"
+        },
+        {
+          "id": 4,
+          "day": 1,
+          "categorie": "Ressources humaines",
+          "description": "Score de Structure: Vos actions de choix RH vous ont rapporté ## points"
+        },
+        {
+          "id": 5,
+          "day": 1,
+          "categorie": "DAY 1",
+          "description": "Score de Structure: Lors de la mise en place du centre, vos choix stratégiques vous ont permis d'atteindre le score ##. Vous avez amélioré votre score de Structure. Bravo!"
+        },
+        {
+          "id": 6,
+          "day": 2,
+          "categorie": "DAY 2",
+          "description": "Score de Structure: Les actions de formations réalisées pour le staff du centre vous ont fait gagner ## points. Votre nouveau score de Structure est @@"
+        },
+        {
+          "id": 7,
+          "day": 3,
+          "categorie": "Pharmacovigilance team (WHO) Geneva",
+          "description": "Score de Structure: vos intéractions avec la Phamacovigilance Team (WHO) vous ont rapporté ## points"
+        },
+        {
+          "id": 8,
+          "day": 3,
+          "categorie": "Upssala Monitoring Centre",
+          "description": "Score de Structure: vos intéractions avec Upssala Moniroting Centre vous ont rapporté ## points"
+        },
+        {
+          "id": 9,
+          "day": 3,
+          "categorie": "Rabat collaborating center RCC",
+          "description": "Score de Structure: vos intéractions avec le Rabat Collaborating Center RCC vous ont rapporté ## points"
+        },
+        {
+          "id": 10,
+          "day": 3,
+          "categorie": "Les bailleurs de fonds",
+          "description": "Score de Structure: vos intéractions avec les bailleurs de fonds vous ont rapporté ## points"
+        },
+        {
+          "id": 11,
+          "day": 3,
+          "categorie": "Les sociétés savantes",
+          "description": "Score de Structure: vos intéractions avec les sociétés savantes vous ont rapporté ## points"
+        },
+        {
+          "id": 12,
+          "day": 3,
+          "categorie": "Les bureaux régionaux et nationaux de de l'OMS",
+          "description": "Score de Structure: vos intéractions avec les bureaux régionaux et nationaux de de l'OMS vous ont rapporté ## points"
+        },
+        {
+          "id": 13,
+          "day": 3,
+          "categorie": "DAY 3",
+          "description": "Score de Structure: Les décisions de collaboration internationale pour la pharmacovigilance vous ont fait gagner ## points. Votre nouveau score de Structure est @@"
+        },
+        {
+          "id": 14,
+          "day": 4,
+          "categorie": "DAY 4",
+          "description": "Score de Notification: Les décisions stratégiques de développement d'activités de pharmacovigilance du centre vous ont fait gagner ## points"
+        },
+        {
+          "id": 15,
+          "day": 4,
+          "categorie": "DAY 4",
+          "description": "Score de Notification: La fiche de notification que vous avez crée vous fait gagner ## points"
+        },
+        {
+          "id": 16,
+          "day": 5,
+          "categorie": "DAY 5",
+          "description": "Score de Notification: Vos choix de circuit de notification vous font gagner ## points"
+        },
+        {
+          "id": 17,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: la gestion des notifications reçues par téléphone vous a permis de gagner ## points"
+        },
+        {
+          "id": 18,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: la gestion des notifications reçues par courrier vous a permis de gagner ## points"
+        },
+        {
+          "id": 19,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: la gestion des notifications reçues par mail vous a permis de gagner ## points"
+        },
+        {
+          "id": 20,
+          "day": 6,
+          "categorie": "DAY 6",
+          "description": "Score de Notification: Grâce à vos décisions dans la validation des cas, vous avez remporté ## points. Votre nouveau score de Notification est @@"
+        },
+        {
+          "id": 21,
+          "day": 7,
+          "categorie": "DAY 7",
+          "description": "Score d'Action: vos réponses aux cas d'imputabilité vous rapportent ## points"
+        },
+        {
+          "id": 22,
+          "day": 7,
+          "categorie": "DAY 7",
+          "description": "Score d'Action: Vous avez atteint le niveau ## suite au Niveau de l'imputabilité"
+        },
+        {
+          "id": 23,
+          "day": 8,
+          "categorie": "DAY 8",
+          "description": "Score d'Action: Vous avez remporté ## points pour l'alimentation des codes ATC dans la base de donnée"
+        },
+        {
+          "id": 24,
+          "day": 8,
+          "categorie": "DAY 8",
+          "description": "Score d'Action: Vous avez remporté ## points pour l'alimentation des codes MedDRA dans la base de donnée"
+        },
+        {
+          "id": 25,
+          "day": 8,
+          "categorie": "DAY 8",
+          "description": "Score d'Action: Vous avez gagné ## points suite au niveau de l'alimentation des bases de données"
+        },
+        {
+          "id": 26,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détéction du signal pour la 1ère base de données vous a rapporté ## points"
+        },
+        {
+          "id": 27,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La qualification du signal pour la 1ère base de données vous a rapporté ## points"
+        },
+        {
+          "id": 28,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 2ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 29,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 3ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 30,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La qualification du signal pour la 3ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 31,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 4ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 32,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La détection du signal pour la 5ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 33,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: La qualification du signal pour la 5ème base de données vous a rapporté ## points"
+        },
+        {
+          "id": 34,
+          "day": 9,
+          "categorie": "DAY 9",
+          "description": "Score d'Action: Vos choix dans la détection et la qualification des signaux vous ont rapporté ## points"
+        },
+        {
+          "id": 35,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Le comité technique constitué pour le cas Artotec - Hémorragie utérine vous a fait gagner ## points"
+        },
+        {
+          "id": 36,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Le comité technique constitué pour le cas Zyloric - DRESS syndrome vous a fait gagner ## points"
+        },
+        {
+          "id": 37,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Le comité technique constitué pour le cas Fer injectable - Réaction anaphylactique vous a fait gagner ## points"
+        },
+        {
+          "id": 38,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Les choix des facteurs contributifs pour le cas Artotec - Hémorragie utérine vous a fait gagner ## points"
+        },
+        {
+          "id": 39,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Les choix des facteurs contributifs pour le cas Zyloric - DRESS syndrome vous a fait gagner ## points"
+        },
+        {
+          "id": 40,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Les choix des facteurs contributifs pour le cas Fer injectable - Réaction anaphylactique vous a fait gagner ## points"
+        },
+        {
+          "id": 41,
+          "day": 10,
+          "categorie": "DAY 10",
+          "description": "Score d'Action: Vos décisions de constitution de comité téchnique et vos choix de facteurs contributifs pour les 3 signaux vous ont rapporté ##. Votre nouveau score d'Action est de @@"
+        }
+      ]
+}

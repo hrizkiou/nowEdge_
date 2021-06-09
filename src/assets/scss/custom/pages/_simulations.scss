@@ -1,0 +1,135 @@
+.sim-th {
+}
+
+.sim-card-th {
+  //   background-color: aqua;
+  width: 140px;
+}
+
+.sim-th-t1 {
+  margin: 0px;
+  text-align: left;
+  font: normal normal bold 12px/9px Roboto;
+  letter-spacing: 0.24px;
+  color: #6c757d;
+}
+.sim-th-t2 {
+  margin: 0px;
+  margin-top: 2px;
+  text-align: left;
+  font: normal normal normal 10px/9px Roboto;
+  letter-spacing: 0.2px;
+  color: #6c757d;
+}
+.sim-th-t3 {
+  text-align: left;
+  font: normal normal bold 15px/13px Karla;
+  letter-spacing: 0.3px;
+  color: #343a40;
+  opacity: 1;
+}
+.sim-th-t4 {
+  text-align: left;
+  font: normal normal bold 12px/17px Karla;
+  letter-spacing: 0px;
+  color: #111137;
+  opacity: 1;
+  padding-left: 10px;
+}
+.sim-th-crd {
+  display: flex;
+  align-items: center;
+}
+
+.sim-tab-icon path {
+  fill: #1592e6;
+}
+
+.sim-tab-icon {
+  width: 28px;
+  height: 20px;
+}
+
+.sim-tab-icon-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.sim-tab-icon-text {
+  text-align: center;
+  font: normal normal normal 14px/19px Roboto;
+  letter-spacing: 0px;
+  color: #6c757d;
+  opacity: 1;
+}
+
+.sim-tab-icon-v {
+  font-size: 20px;
+  color: #1592e6;
+}
+.sim-decision-content {
+  border: 1px solid #d8d8d8;
+  width: 183px;
+  height: 110px;
+  display: flex;
+  justify-items: center;
+  align-content: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.sim-decision-icon {
+  font-size: 26px;
+  color: #d8d8d8;
+}
+
+.sim-decision-content {
+  background-color: transparent !important;
+  &:hover {
+    color: #1592e6;
+    border: 1px solid #579ffb;
+    .sim-decision-icon {
+      color: #1592e6;
+    }
+  }
+}
+
+.sim-decision-select {
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.sim-cont-st {
+  border-radius: 5px;
+  width: 183px;
+  height: 110px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+.sim-btn {
+  text-align: end;
+  margin-top: 6px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  color: #d8d8d8;
+}
+
+.sim-list {
+  width: 182px;
+}
+.sim-list-item {
+  text-align: left;
+  font: normal normal normal 12px/17px Karla;
+  letter-spacing: 0px;
+  color: #6c757d;
+  opacity: 1;
+  padding-left: 9px !important;
+  white-space: break-spaces
+}

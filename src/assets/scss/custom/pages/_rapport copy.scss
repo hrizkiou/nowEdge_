@@ -1,0 +1,70 @@
+.main-rapport {
+  // background-image: url('../images/StrategicGame/group_5170.png');
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-direction: column;
+}
+
+
+
+.rap-img {
+  position: relative;
+  flex: 5;
+  width: 80%;
+  // height: 64%;
+  margin: 0px auto;
+  // background-image: url(/static/media/group_5170.b615878e.jpg);
+  background-image: url('../images/StrategicGame/group_5172.png');
+
+  background-size: contain;
+  background-repeat: no-repeat;
+ 
+}
+
+.footer-rapport {
+  flex: 1;
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 0px 10%;
+  div {
+    // display: flex;
+  }
+}
+
+%rap-msag-label {
+  z-index: 200;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font: normal normal bold 12px/14px Karla;
+  letter-spacing: 0.24px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.rap-msag-label-1 {
+  @extend %rap-msag-label;
+  top: 16%;
+  left: 35%;
+}
+.rap-msag-label-2 {
+  @extend %rap-msag-label;
+  top: 47%;
+  left: 52%;
+}
+.rap-msag-label-3 {
+  @extend %rap-msag-label;
+  top: 24%;
+  left: 66%;
+}

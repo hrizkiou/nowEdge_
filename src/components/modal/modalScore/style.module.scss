@@ -1,0 +1,106 @@
+.daysModal {
+  min-width: 100%;
+  margin: 0px !important;
+  .modalContent {
+    background-color:transparent;
+  }
+ 
+}
+
+.dayOneModal {
+  position: relative;
+  width: 382px;
+  height: 492px;
+  margin: 0 auto;
+  background-color:#71B6F9;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+
+  .block1{
+    flex: 1;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    h3{
+      text-align: center;
+      font: normal normal bold 23px/17px Karla;
+      letter-spacing: 0.46px;
+      color: #FFFFFF;
+      text-transform: uppercase;
+      opacity: 1;
+    }
+  }
+  .block2{
+    flex: 4;
+    display: flex;
+    // background: #FFFFFF 0% 0% no-repeat padding-box;
+    .content{
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      margin-left: 29px;
+      margin-right: 29px;
+      background: #FFFFFF 0% 0% no-repeat padding-box;
+      box-shadow: 0px 8px 19px #1527631C;
+      border-radius: 15px;
+      opacity: 1;
+
+      .stars_content_{
+        flex: 2;
+      }
+
+      .score{
+        flex: 3;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 28px;
+        margin-bottom: 29px;
+      }
+    }
+
+  }
+  .block3{
+    flex: 1;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    button{
+      background-color:white;
+      color:#71B6F9;
+    }
+  }
+
+  .discussMessage {
+    width: 590px;
+    height: auto;
+    position: absolute;
+    bottom: 40%;
+    left: 25%;
+    background: #3a1fb1 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    padding: 12px 16px;
+  
+  }
+}
+ 
+
+.stars_content{
+  margin-top:28px;
+  // background-color:rebeccapurple;
+  margin-left:29px;
+  margin-right:29px;
+  display: flex;
+  align-items: baseline;
+
+  .start_n{
+    width: 75px;
+    height: 72px;
+  }
+  .start_b{
+    width: 115px;
+    height: 110px;
+  }
+
+}

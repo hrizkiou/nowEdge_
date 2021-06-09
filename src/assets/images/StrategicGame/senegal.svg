@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_281" data-name="Ellipse 281" cx="15" cy="15" r="15" transform="translate(0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 275 183">
+      <image width="275" height="183" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAb1BMVEX80RYAel7OESbMACf91BUAfF9jYk/UACLupxvLACf+2BX/2hX91RXyrhr6yhfYTSP4wRjUOSTaVyLrmRzqlB3XRSPpkB35xhfnix7mhh7PGSb/3hTeZSH1uhnfbSHuohvbWyLidiDRJiXkgB/dYiKdT/xZAAAC2ElEQVR4nO3bbXOiMBDAcY7k7poHn6AqPbW01u//GQ8RtSIQnI5vNv99q87s/iabhFWTX0+L33/+ps8K9aKT5wUmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJphgggkmmGCCCSaYYIIJJpjcl4nJXZXZIyiRmEwxaReZbR5ZKHGY5DbHpFXkVD/SPDGYqJlN7Gw8ShQmrz7xr5h8DzOtUpkaTL6VuHRVKm45eqHEYLLyVSp+hck1zLrOZT26eeSbqKWtc7GjmycCk8LXufgCk3OY+alCPR/bPPJNFq5Jxi0waQp8800y/m1k80gz+Zeq2zi3Tt08rdeqd8dgsphv7G1c69OtVzbz7m6SZpKawoXzqsMVPZuuOJPUzKY+nFnik1nfOSTPJFXpxAYzs5P+ubVAk2qpfNrhqrT9HLisiDRJ1WI9tFT8ejF0LMs0qQ7kvH+rdbkavKkINan656C7K9N6G7jkizVJ1X7X1T92tw9dZ+WaHK8q9yi271ISiUlqvto3Ff814uFYtsmkXZyexG6S3l9o/YhPSTZR7x37yXt4YCDZ5L51xjWPZBPV9Szoo14nantpHX99VLbbIIpgE3MpzRXXqYp+CTaPYBPVVFZPSswsaZaKjnidqEPzXddpUnKZqthDvHd7Ux4r0+4yKWmmKroMNY9cE3VM4GZScp6qRLtO1Ee1q7ryZlJymqq4jwCKXJPSd0xKzFZrX0ZrkriuSYna71yoeaSaqGyz6t5LTRH6saxYkzzrO15MFvi9n1STob8dRHvu/CAwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQQTTDDBBBNMMMEEE0wwwQSTH8Z/VHfhbeX6lAcAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="senegal" clip-path="url(#clip-path)">
+    <rect id="NoPath_-_Copie_4_" data-name="NoPath - Copie (4)" width="45" height="30" transform="translate(-7)" fill="url(#pattern)"/>
+  </g>
+</svg>

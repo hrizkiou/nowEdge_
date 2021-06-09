@@ -1,0 +1,58 @@
+{
+    "quizCompetitionId": 377,
+    "quizStatisticsSet": [
+        {
+            "quizId": 178,
+            "quizName": " ​ Quiz 1",
+            "numberOfQuestions": 10,
+            "estimatedTime": 5,
+            "meanScore": 10,
+            "questionStatisticsSet": [
+                {
+                    "questionId": 196,
+                    "questionTitle": "ZYfNRP XFiWIJ OPyXdA dLSTXY RZYNkz MxuRJK MvSbAc cbIumkSstGpg utyquW wLfrix OnpIEh GkxcnN jhswMn CDcvCJ bxadRw pKDzmV CXvBsz wgHqaX SrGBJT ",
+                    "meanScore": 0
+                },
+                {
+                    "questionId": 186,
+                    "questionTitle": "ZYfNRP XFiWIJ OPyXdA dLSTXY RZYNkz MxuRJK MvSbAc cbIumkSstGpg utyquW wLfrix OnpIEh GkxcnN jhswMn CDcvCJ bxadRw pKDzmV CXvBsz wgHqaX SrGBJT ",
+                    "meanScore": 20
+                },
+                {
+                    "questionId": 176,
+                    "questionTitle": "ZYfNRP XFiWIJ OPyXdA dLSTXY RZYNkz MxuRJK MvSbAc cbIumkSstGpg utyquW wLfrix OnpIEh GkxcnN jhswMn CDcvCJ bxadRw pKDzmV CXvBsz wgHqaX SrGBJT ",
+                    "meanScore": 50
+                }
+            ]
+        },
+        {
+            "quizId": 188,
+            "quizName": "Quiz 2",
+            "numberOfQuestions": 20,
+            "estimatedTime": 5,
+            "meanScore": 50,
+            "questionStatisticsSet": [
+                {
+                    "questionId": 196,
+                    "questionTitle": " CDcvCJ bxadRw pKDzmV CXvBsz wgHqaX SrGBJT ",
+                    "meanScore": 0
+                },
+                {
+                    "questionId": 186,
+                    "questionTitle": "dkozkdz dkzodkozdkozd kodzodkozd  jhswMn CDcvCJ bxadRw pKDzmV CXvBsz wgHqaX SrGBJT ",
+                    "meanScore": 20
+                },
+                {
+                    "questionId": 176,
+                    "questionTitle": "dkzodz dkzdkpzd  jhswMn CDcvCJ bxadRw pKDzmV CXvBsz wgHqaX SrGBJT ",
+                    "meanScore": 50
+                },
+                {
+                    "questionId": 176,
+                    "questionTitle": "zlpdz pzdkozdkzlnda  jhswMn CDcvCJ bxadRw pKDzmV CXvBsz wgHqaX SrGBJT ",
+                    "meanScore": 90
+                }
+            ]
+        }
+    ]
+}

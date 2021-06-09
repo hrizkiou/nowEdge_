@@ -1,0 +1,22 @@
+$font-k: "Karla";
+
+.start-picker {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0; 
+}
+
+.finish-picker {
+  // borderTopLeftRadius: 0,
+  //                       borderBottomLeftRadius: 0
+
+border-top-left-radius: 0;
+border-bottom-left-radius: 0; 
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.swal-content {
+  margin-top: 40px !important;
+}

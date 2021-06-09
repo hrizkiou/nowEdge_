@@ -1,0 +1,1544 @@
+{
+  "translations": {
+    "loginIn": {
+      "title": "Log In",
+      "password": "Password",
+      "username": "Username",
+      "entreUsername": "Enter your username",
+      "entrePassword": "Enter your password",
+      "invalidField": "This field is invalid",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot your password?",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up",
+      "invalidCredential": "Incorrect username or password",
+      "askLogout": "Are you sure you want to logout ?"
+    },
+    "forgotPassword": {
+      "checkEmail": "Check your email inbox",
+      "title": "Reset Password",
+      "desc": "Enter your user name and we'll send you an email with instructions to reset your password.",
+      "successAlert": "We have sent you an email containing a link to reset your password",
+      "resetButton": "Reset Password",
+      "labelUserName": "Username",
+      "inputPlaceholder": "Enter your username",
+      "back": "Back to",
+      "signIn": "Sign In"
+    },
+    "register": {
+      "title": "Register",
+      "fullName": "Username",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "mail": "What's your email?",
+      "password": "Create a password",
+      "confirmationPassword": "Confirm your password",
+      "invalidField": "This field is invalid",
+      "acceptTerms": "I accept the terms and conditions",
+      "see": "See",
+      "logIn": "Log In",
+      "haveAccount": "Already have an account?",
+      "termsOfConditionsError": "Please accept the conditions below",
+      "termsOfConditions": {
+        "close": "Close"
+      },
+      "terms": " <p>\r\n      The following Terms and Conditions apply to the use of this website. This Agreement (referred to as the \"Agreement\") refers to the contractual Agreement between the site owned by NowEdge SARL (\"nowedge.io\", \"we\", \"on\") and you (\"User\", \"you \",\" Your \",\" your \") who accept the terms of this Agreement by clicking on the\" I accept \"box in the User account creation form in the\" Terms and conditions \"section.\r\n       This Agreement becomes effective when you submit the User account creation form after clicking on the \"I accept\" box.\r\n       This Agreement governs the rules of use of the website and its subdomains.\r\n       Now in consideration of the terms and conditions of this Agreement contained in the remainder of this document, you agree to all of the following:\r\n\r\n      </p>\r\n\r\n      <h5>1. Click on the button \"Create an account\"</h5>\r\n      <p>\r\n      By using the website, by clicking on the \"Create an account\" button, you acknowledge that you have accepted the terms and conditions of this agreement. By accepting the terms and conditions of this Agreement, and after having validated the information you entered in the registration form, you become registered as a \"Registered User\" and agree to be designated as a \"User\" ( as defined in section 3) which ensures that you are represented in this Agreement. If you do not agree to the terms and conditions of this Agreement, you are not authorized to use this website. The term \"Registered User\" represents any natural or legal person who has registered on the website.</p>\r\n\r\n      <h5>2. Web Site</h5>\r\n      <p>\r\n      The website provides a means for Users to create and participate in trainings. From the nowedge.io website, we provide information about our services, our users and other third-party information. We may change, delete or add some or all of this information at any time.</p>\r\n\r\n      <h5>3. Users</h5>\r\n      <p>\r\n      By checking the box \"Yes, I have read and accept the terms and conditions of use\" in the registration form or the form for creating a project, you designate yourself as a \"User\". </p>\r\n\r\n      <h5>4. System integrity</h5>\r\n      <p>\r\n      You are not authorized to use any device, software, or algorithm, including but not limited to viruses, trojans, worms, DDOS attack, with the intention of causing damage or opposing the proper functioning of the Website. , or any transaction taking place on the Website, to intercept and use the Website's system, data, or personal information. You are prohibited from taking any action that would aim to overload our system, including but not limited to \"spam\" or other mass email sending techniques.</p>\r\n      <p>\r\n      The website keeps your data free of charge and will notify you in advance if for any reason the services should be interrupted and the data erased. If this were the case, the nowedge.io site would offer solutions to extract Users' data before their erasure.</p>\r\n      <p>\r\n      The data on the nowedge.io website is properly protected and saved. However, NowEdge SARL does not guarantee Users of the nowedge.io site against any loss of data, in particular in the event of an event that is not the responsibility of NowEdge SARL such as, for example, fire, server incident, war. and acts of terrorism.</p>\r\n\r\n      <h5>5. Information published</h5>\r\n      <p>\r\n      A. You are solely and solely responsible for the information you post to our Website, including but not limited to any form of posting, creating a message in a chat room, or through an email system. You grant us the irrevocable right to apply the copyrights as well as the rights of the publicity in respect of this information. The information you post must not: infringe the rights of others, including but not limited to intellectual property rights, publicity, or privacy; be defamatory, threaten, harass; be obscene, indecent, or contain pornography. We are not responsible for any information posted by Registered Users or exhibited for such type of information posted on our Website including but not limited to information about you. We reserve the right to take legal action with respect to information carried on our Website which will be deemed, in our sole discretion, to be in compliance with such type of information, including but not limited to the termination of this Agreement. Furthermore, we cannot control the information provided to you by Registered Users through the Website. It is very rare that information published by people is offensive, threatening or inaccurate. The information provided on the nowedge.io Website is delivered as such and may contain technical inconsistencies or typographical errors. </p>\r\n      <p>\r\n      B. The Website may contain links to external websites which are not under the control of nowedge.io. We are not responsible for the content of these websites or any links that may be contained in these external sites. </p>\r\n\r\n      <h5>6. Confidentiality</h5>\r\n      <p>\r\n      Nowedge.io expressly refrains from using data concerning users' customers. And this in particular for all marketing or commercial purposes. These data are confidential and remain for the exclusive use of the users who created them. Nowedge.io can only access this data for maintenance or technical support reasons. </p>"
+    },
+    "updateProfile": {
+      "fullName": "Username",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "mail": "Email Address",
+      "password": "Password",
+      "confirmationPassword": "Confirmation Password",
+      "maxSize": "Maximum file upload size is 5MB",
+      "cancel": "Cancel",
+      "submit": "Submit"
+    },
+    "dashboard": {
+      "card": {
+        "viewMore": "View more",
+        "students": "students",
+        "teams": "teams",
+        "notions": "notions",
+        "quiz": "quizz",
+        "progress": "Progress"
+      },
+      "addModule": {
+        "title": "Insert your module code",
+        "errorCode": "Wrong code !",
+        "cancel": "Cancel",
+        "validate": "Validate",
+        "import": "The \"{{moduleName}}\" module was successfully imported"
+      },
+      "allModules": "All Modules",
+      "modules": "Modules",
+      "joinModule": "Join a new module",
+      "searchLabel": "Search",
+      "filterLabel": "Filter"
+    },
+    "breadcrumbMenu": {
+      "modules": "Modules",
+      "listQuiz": "List of Quizzes",
+      "manageConfig": "Configuration management",
+      "sessions": "Sessions",
+      "ListesNotions": "List of notions"
+    },
+    "sideBar": {
+      "settings": "Settings",
+      "myAccount": "My Account",
+      "logout": "Logout",
+      "navigation": "NAVIGATION",
+      "modules": "Modules",
+      "student": "Student",
+      "teacher": "Teacher"
+    },
+    "module": {
+      "description": "Description",
+      "activity": "Activity",
+      "quizzes": "Quizz",
+      "businessGame": "Business Game",
+      "notion": "Notion",
+      "notions": "NOTIONS"
+    },
+    "listQuiz": {
+      "cardQuiz": {
+        "minutes": "Minutes",
+        "questions": "Questions",
+        "estimatedTime": "Estimated time",
+        "result": "Result"
+      },
+      "title": "List of quizzes",
+      "training": "Training",
+      "businessGame": "Business Game"
+    },
+    "quiz": {
+      "verticallyCenteredModal": {
+        "title": "Are you ready to take the quizz ?",
+        "yes": "Yes"
+      },
+      "confirmQuiz": {
+        "title": "Are you sure you want to validate your answers ?",
+        "yes": "YES",
+        "no": "NO"
+      },
+      "result": {
+        "title": "RESULT",
+        "successMessage": "Congratulations you have succeeded",
+        "failedMessage": "Weak score!",
+        "score": "Score"
+      },
+      "question": "QUESTION",
+      "previous": "Previous",
+      "next": "Next",
+      "validate": "Validate",
+      "completed": "Completed"
+    },
+    "moduleConfig": {
+      "cardConfig": {
+        "duplicate": "Duplicate",
+        "edit": "Edit",
+        "delete": "Delete",
+        "createdAt": "Created:",
+        "sessions": "Sessions",
+        "quiz": "Quizz",
+        "notions": "Notions",
+        "manageTraining": "Training management",
+        "manageQuiz": "Quizz management",
+        "manageBusinessGame": "Business Game management"
+      },
+      "modalAddConfig": {
+        "title": "New Configuration",
+        "name": "Name",
+        "errorName": "Wrong name !",
+        "cancel": "Cancel",
+        "add": "Add",
+        "successMessage": "New configuration added!"
+      },
+      "modalDeleteConfig": {
+        "successMessage": "Configuration deleted",
+        "askMessage": "Are you sure you want to delete the configuration ?"
+      },
+      "modalEditConfig": {
+        "successMessage": "Your configuration has been modified",
+        "edit": "Edit"
+      },
+      "modalDuplicateConfig": {
+        "title": "Duplicate configuration",
+        "name": "Name",
+        "errorName": "Wrong name !",
+        "notions": "Notions",
+        "quiz": "Quizz",
+        "businessGameConfig": "Business Game Configuration",
+        "cancel": "Cancel",
+        "add": "Add",
+        "successMessage": "Your configuration has been duplicated"
+      },
+      "addConfig": "Add a Configuration",
+      "search": "Search",
+      "sort": "Sort",
+      "byDate": "By Date"
+    },
+    "moduleSession": {
+      "status": {
+        "in_progress": "IN PROGRESS",
+        "finish": "FINISH",
+        "coming": "UPCOMING",
+        "all_status": "All Status"
+      },
+      "swal": {
+        "deleteAsk": "Are you sure yout want to delete the session ?",
+        "no": "No",
+        "yes": "Yes",
+        "deleteSuccess": "Session deleted",
+        "editSuccess": "Session modified",
+        "archiveSuccess": "Session archived",
+        "addSuccess": "Session added"
+      },
+      "cardSession": {
+        "edit": "Edit",
+        "delete": "Delete",
+        "startAt": "From ",
+        "finishAt": " to ",
+        "students": "Students",
+        "quiz": "Quizz",
+        "notions": "Notions",
+        "archive": "Archive"
+      },
+      "modalAddSession": {
+        "title": "New session",
+        "name": "Name",
+        "errorName": "Wrong name !",
+        "config": "Configuration associated",
+        "placeholderConfig": "Select configuration",
+        "startAndFinish": "Start and end date",
+        "cancel": "Cancel",
+        "save": "Save"
+      },
+      "addSession": "Add a session",
+      "search": "Search",
+      "filter": "Filter"
+    },
+    "moduleNotion": {
+      "swal": {
+        "deleteAsk": "Are you sure you want to delete this notion ?",
+        "no": "No",
+        "yes": "Yes",
+        "deleteSuccess": "Notion deleted",
+        "editSuccess": "Notion modified",
+        "orderSuccess": "Notions order updated",
+        "addSuccess": "Notion added"
+      },
+      "cardNotion": {
+        "edit": "Edit",
+        "delete": "Delete",
+        "createdAt": "Created:"
+      },
+      "addModal": {
+        "title": "New Notion",
+        "name": "Name",
+        "errorField": "This field is invalid",
+        "link": "Media Link",
+        "errorFieldYoutube": "This field is invalid, must be from youtube",
+        "description": "Description",
+        "cancel": "Cancel",
+        "add": "Add"
+      },
+      "editModal": {
+        "title": "Modification",
+        "name": "Name",
+        "errorField": "This field is invalid",
+        "link": "Media Link",
+        "errorFieldYoutube": "This field is invalid, must be from youtube",
+        "description": "Description",
+        "cancel": "Cancel",
+        "edit": "Edit"
+      },
+      "orderModal": {
+        "title": "Order of notions",
+        "cancel": "Cancel",
+        "save": "Save"
+      },
+      "addNotion": "Add notion",
+      "withDate": "By date",
+      "withOrder": "By rank",
+      "apercu": "Preview",
+      "trier": "Sort"
+    },
+    "moderatorModule": {
+      "createdAt": "Created:",
+      "clientName": "Client Name"
+    },
+    "moduleQuiz": {
+      "addQuestionModal": {
+        "question": "Add a question",
+        "response1": "Answer 1",
+        "response2": "Answer 2",
+        "response3": "Answer 3",
+        "response4": "Answer 4",
+        "add": "Add"
+      },
+      "editQuestionModal": {
+        "edit": "Modification"
+      },
+      "editQuizModal": {
+        "edit": "Modification"
+      },
+      "addQuizModal": {
+        "new": "New quizz",
+        "name": "Name",
+        "wrongName": "Wrong Name",
+        "estimatedTime": "Estimated Time",
+        "errorName": "Name of quizz already exists!"
+      },
+      "swal": {
+        "addSuccess": "Your question has been added",
+        "editSuccess": "Your  question has been modified",
+        "addQuizSuccess": "Your quizz has been added",
+        "editQuizSuccess": "Your  quizz has been modified",
+        "deleteQuizSuccess": "Your quizz has been deleted",
+        "askDeleteQuizSuccess": "Are you sure you want to delete the quizz ?",
+        "yes": "Yes",
+        "no": "No",
+        "deleteQuestionSuccess": "Your question has been deleted",
+        "askDeleteQuestionSuccess": "Are you sure you want to delete the question ?"
+      },
+      "listQuiz": {
+        "title": "List of quizzes"
+      },
+      "listQuestion": {
+        "overview": "Overview",
+        "edit": "Edit",
+        "delete": "Delete"
+      }
+    },
+    "studentManagement": {
+      "businessGame": "Business Game",
+      "showCode": "Session Code",
+      "studentManagementTitle": "Student management",
+      "quizDashboard": "Quizzes Dashboard",
+      "quiz": "Quizzes",
+      "formation": "Training",
+      "showKeyModal": "The session code",
+      "listStd": {
+        "affectation": "Affectation",
+        "listStudent": "List of students"
+      },
+      "stdProfile": {
+        "email": "E-mail adress ",
+        "equip": "Team ",
+        "status": "Status ",
+        "actif": "Active ",
+        "inactif": "Inactive ",
+        "quizRes": "Quizz results "
+      },
+      "listQuiz": {
+        "title": "List of quizzes",
+        "questions": "Questions",
+        "minutes": "Minutes"
+      },
+      "listQuestion": {
+        "moyenneScore": "Average quizz score",
+        "moyenneRes": "Average quizz results per question"
+      }
+    },
+    "stratEdge": {
+      "title": "StratEdge",
+      "index": {
+        "welcome": "Welcome to",
+        "businessGameS": "Strategy Business game",
+        "descriptionWelcome": "StratEdge is a trade and strategy war game that can adapt to different products and markets. In StratEdge, four companies compete to be market leader! The competition is tough because it will be necessary to survive the different strategies of the competitors. Each team must implement its strategy. The team with the best EBITDA at the end of the game will be the winning team.",
+        "title1": "Analysis",
+        "descriptionTitle1": "Participants will have to analyze the strategic decisions available to them in the different categories (Human Resources, Maintenance, R&D ...). Each decision consumes part of the budget, but helps improve business metrics. Companies compete in two different markets with data specific to each market.",
+        "title2": "Simulation",
+        "descriptionTitle2": "In StratEdge you will be able to simulate the different scenarios for your company and for others, and thus anticipate the strategies of the competition.",
+        "title3": "Results & feedbacks",
+        "descriptionTitle3": "Once the decision has been made by each team, the StratEdge platform calculates the end of turn result. All the KPIs that may influence the future of companies are communicated to the teams (turnover, volume, cost price, market share, break-even price, capacity, transport cost for the different markets, ...).",
+        "start": "Go to StratEdge",
+        "back": "Back to training"
+      },
+      "config": {
+        "analyseProduct": "Product analysis",
+        "analyseCompetitors": "Competitor analysis",
+        "analyseMarkets": "Market analysis",
+        "decisionsStrategy": "Strategic decisions",
+        "back": "Previous",
+        "AnsP": {
+          "name": "Name",
+          "nameValidation": "Name is required",
+          "image": "Image",
+          "imageValidation": "Drag and drop a file here, or click to select file",
+          "imageError": "File is larger than 5 mb",
+          "description": "Description",
+          "descriptionValidaiton": "Description is required",
+          "retour": "Back",
+          "save": "Save"
+        },
+        "AnsC": {
+          "chiffreCles": "Key figures",
+          "chiffreClesValidation": "Key figures is required",
+          "capacity": "Capacity",
+          "capacityValidation": "Capacity is required",
+          "costTransportFM": "Cost of transport / market 1",
+          "costTransportSM": "Cost of transport / market 2",
+          "costTransportFMValidation": "Cost of transport is required",
+          "cost": "Cost",
+          "costValidation": "Cost is required",
+          "transport1": "Transport 1",
+          "transport2": "Transport 2"
+        },
+        "AnsM": {
+          "evolutionDemand": "Evolution of demand",
+          "isRequireT": "{{value}} is required"
+        },
+        "AnsS": {
+          "RDCost": "R&D cost",
+          "RDCapacity": "R&D capacity",
+          "marketing": "Marketing",
+          "RessourceHumain": "Human resources",
+          "maintenance": "Maintenance",
+          "duplicatedDecisionName": "Another decision already contains the same name",
+          "impactCost": "Cost impact",
+          "impactCostValidation": "Cost impact is required",
+          "impactTransport1": "Impact transport 1",
+          "impactTransport1Validation": "Impact transport 1 is required",
+          "impactTransport2": "Impact transport 2",
+          "impactTransport1Validation": "Impact transport 2 is required",
+          "impactCapacity": "Impact capacity",
+          "impactCapacityValidation": "Impact capacity is required",
+          "budget": "Budget",
+          "budgetValidation": "Budget is required"
+        }
+      },
+      "buisnessGame": {
+        "results": "Results",
+        "decisions": "Decisions",
+        "round": {
+          "statusComing": "Upcoming",
+          "statusFinish": "Finished",
+          "statusInProgress": "In Progress",
+          "finishRoundMessage": "Finish the round ?",
+          "startRoundMessage": "Start the round ?",
+          "classement": "Ranking"
+        },
+        "scenario": {
+          "title": "scenario",
+          "budgetRest": "EBITDA",
+          "savedScenarios": "Saved scenarios",
+          "deleteMessage": "Your scenario has been successfully deleted",
+          "deleteQuestion": "Are you sure you want to delete this scenario ?",
+          "chooseScenario": "You have chosen \"{{scenario}} \" as the final scenario",
+          "chooseQuestion": "Are you sure you want to choose this scenario ?",
+          "sendDecision": "Send decision",
+          "noSaved": "No saved scenario",
+          "savedScenariosMessage": "Scenario saved!",
+          "saveScenario": "Save the scenario",
+          "saveScenarioInProgress": "Saving scenario in progress...."
+        },
+        "simulation": {
+          "title": "Simulations",
+          "decisionHistory": "Decisions history",
+          "resultOldTOur": "Previous rounds results",
+          "reset": "Reset",
+          "startSimulation": "Start the simulation",
+          "simulationInProgress": "Simulation in progress..."
+        },
+        "resultBG": {
+          "global": "Global",
+          "chiffreAffiare": "Turnover",
+          "EBITDA": "EBITDA",
+          "cost": "Cost",
+          "capacity": "Capacity",
+          "chartCost": "Cost curve",
+          "chartCapacity": "Curve of volumes sold",
+          "volumeCompetitor": "Volume per competitor",
+          "margeCompetitor": "Margin by competitor",
+          "EBITDAReserve": "EBITDA + reserve (t-1)",
+          "volumeTotal": "Total volume",
+          "costMarket1": "Market Cost 1",
+          "costMarket2": "Market cost 2",
+          "results": "Results"
+        }
+      },
+      "sidebar": {
+        "savedScenario": "Saved scenarios",
+        "lanceSimulation": "Start a simulation",
+        "strategicDesicion": "Strategic decisions",
+        "analyseMarket": "Market analysis",
+        "analyseCompetitor": "Competitor analysis",
+        "analyseProduct": "Product analysis",
+        "analyse": "Analysis"
+      }
+    },
+    "pvgame": {
+      "validLevel": "Valider le niveau",
+      "validChoice": "Valider mes choix",
+      "day1": {
+        "ModalexpertText": "Vous avez fini votre mise en place et le premier niveau du PV Strategic Game. Rendez-vous dans l’espace “Rapport d’Activité” pour voir comment vous vous en sortez !",
+        "title": "CLIQUEZ SUR CHAQUE DOSSIER POUR PRENDRE VOS DECISIONS",
+        "BudgetR": "Budget restant",
+        "ValideNiveau": "Valider le niveau",
+        "Quitter": "Quitter",
+        "DiscussMessagemsg": "Cliquez sur les notifications rouges pour traiter les dossiers en suspens.",
+        "DiscussMessagemsgstep2": "Cliquez sur les notifications rouges pour traiter les dossiers en suspens.",
+        "DiscussMessagemsgstep3": "Cliquez sur les notifications rouges pour traiter les dossiers en suspens.",
+        "DiscussMessagemsgstep4": "Cliquez sur les notifications rouges pour traiter les dossiers en suspens.",
+        "DiscussMessagemsgstart": "J'ai demandé au Pr. Dira, expert international en Pharmacovigilance de vous accompagner pour la mise en place d'une réglementation adaptée, sa consultation vous coutera PV COINS 50 000 pour 150 heures de travail. Choisissez parmis les actions proposées, celles qui vous semblent les plus pertinentes pour la création d'un cadre réglementaire pour la Pharmacovigilance, sans dépasser les 150 heures de travail facturées par le Pr. Dira",
+        "DiscussMessagemsgstep5": "Vous avez complété tous les dossiers, vous pouvez les réouvrir afin de vérifier ou modifier vos décisions avant de valider le niveau.",
+        "Annuler": "Annuler",
+        "Enregistrer": "Enregistrer",
+        "PVcoins": "PV COINS.",
+        "NotifyModalspan": "Vous avez un message du Directeur de l'Agence Nationale de Réglementation du Médicament",
+        "NotifyModalp": "Bonjour et bienvenue! Nous devons travailler en collaboration afin de s'assurer de l'usage rationnel des médicaments dans notre pays.",
+        "PhoneModalTitle": "Le ministre",
+        "PhoneModalCommencer": "Commencer",
+        "PhoneModalP1": "Afin que vous puissiez mener à bien cette première mission, j'ai réussi, malgré la crise et les restrictions budgétaires, à débloquer un montant de PV COINS 150 000.",
+        "PhoneModalP2": "J'ai d'ores et déjà alloué PV COINS 40 000 pour l'aquisition de locaux, d'une ligne téléphonique ainsi que d'ordinateurs fixes pour les  membres de votre équipe. Je vous rappelle qu'à part le bureau dans lequel vous êtes installés actuellement, le reste des locaux n'est ni aménagé ni meublé. Il vous reste donc PV Coins 110 000. A vous de les dépenser stratégiquement!",
+        "StepModalstep1": "Bienvenue au Ministère de la Santé, nous sommes heureux de pouvoir enfin compter sur un centre de Pharmacovigilance pour notre pays. Lors de cette première étape, je souhaiterais que vous mettiez en place la structure de votre centre de Pharmacovigilance et les bases de votre système de Pharmacovigilance.",
+        "StepModalstep2": "Nous avons déjà prévu pour vous quelques équipements de bases Cliquez pour voir : Espace de travail, un ordinateur, une ligne telephone, un abonnement internet, mobilier, imprimante Tout le reste est à votre charge",
+        "StepModalNote": "C'est noté ",
+        "initialState": {
+          "ReglementationTitle": "Réglementation et procédures",
+          "ReglementationSTitle": "*Choisissez parmi les actions proposées, celles qui vous semblent les plus pertinentes pour la création d'un cadre réglementaire pour la Pharmacovigilance, sans dépasser les 150 heures de travail facturées par le Pr. Dira",
+          "ReglementationUnit": "Heures",
+          "ReglementationoptionsDecision16": "Elaborer un texte de loi définissant le système national de Pharmacovigilance (PV)",
+          "ReglementationoptionsDecision17": "Définir les décrets d'application définissants les rôles et attributions de chaque partenaire du système national de PV",
+          "ReglementationoptionsDecision18": "Elaborer le guide des bonnes pratiques de PV",
+          "ReglementationoptionsDecision19": "Plaidoyer auprès du ministre de l'enseignement supérieur afin d'intégrer la pharmacovigilance dans les curriculum de formation des professionnels de santé",
+          "ReglementationoptionsDecision20": "Plaidoyer auprès du ministre de la santé pour exiger des titulaires d'autorisations de mise sur le marché de publier des rapports réguliers sur la sécurité de leurs médicaments",
+          "ReglementationoptionsDecision21": "Elaborer une circulaire définissant le système national de PV",
+          "ReglementationoptionsDecision22": "Elaborer une circulaire décrivant le fonctionnement du centre national de PV",
+          "ReglementationoptionsDecision23": "Elaborer une circulaire décrivant le fonctionnement du comité technique de PV",
+          "ReglementationoptionsDecision24": "Plaidoyer auprès du ministre de la santé afin de rendre la déclaration obligatoire des effets indesirables par les professionnels de santé",
+          "ReglementationoptionsDecision25": "Elaborer une circulaire décrivant le rôle des centres régionaux de PV",
+          "ReglementationoptionsDecision26": "Plaidoyer auprès du ministre afin que la formation de l'ensemble des employés du ministère de la santé à la pharmacovigilance soit obligatoire",
+          "ReglementationoptionsDecision27": "Elaborer un texte de loi sur les modalités de distribution des médicaments",
+          "ReglementationoptionsDecision28": "Définir les décrets d'application de la promotion des médicaments par l'industrie pharmaceutique",
+          "ReglementationoptionsDecision29": "Plaidoyer auprès du ministre de la santé afin de rendre obligatoire la bioéquivalence pour les médicaments génériques",
+          "ReglementationoptionsDecision30": "Elaborer un texte de loi sur les essais cliniques",
+          "FinancementTitle": "Financement",
+          "FinancementSTitle": "Choisissez 5 actions parmis les actions proposées pour débloquer du budget supplémentaire. Faites attention de bien respecter l'éthique et d'éviter toute décision qui pourrait résulter dans des conflits d'intérêt. Attention: une fois validées, vos réponses sont définitives.",
+          "FinancementUnit": "PV COINS",
+          "FinancementOptionsDecision1": "Plaidoyer auprès du ministre de la sante pour l'obtention d'un budget régulier et stable",
+          "FinancementOptionsDecision2": "Participer à la soumission de projets des biennies de l'OMS",
+          "FinancementOptionsDecision3": "S'intégrer avec les programmes de santé sida, TB et palu pour integrer le financement de la PV dans les fonds mondiaux",
+          "FinancementOptionsDecision4": "Plaidoyer pour qu'une partie des frais d'enregistrement des médicaments soit réservée  à la Pharmacovigilance",
+          "FinancementOptionsDecision5": "Mobiliser des fonds via la collaboration bilatérale",
+          "FinancementOptionsDecision6": "Créer une société savante de PV pour soutenir certaines activités de PV",
+          "FinancementOptionsDecision7": "Organiser des formations de Pharmacovigilance payantes pour l'industrie pharmaceutique",
+          "FinancementOptionsDecision8": "Demander au ministère de financer systématiquement la prise en charge pour participation aux congrès internationaux",
+          "FinancementOptionsDecision9": "Créer des formations de PV certifiantes payantes",
+          "FinancementOptionsDecision10": "Créer une revue  sur la sécurité du patient avec abonnement",
+          "FinancementOptionsDecision11": "Se faire payer pour l'expertise de l'imputabilité",
+          "FinancementOptionsDecision12": "Ceéer un numéro de tel payant pour toute demande d'information sur le médicament",
+          "FinancementOptionsDecision13": "Etre prestataire de service pour l'industrie pharmaceutique (exemples: préparation des dossiers d'AMM)",
+          "FinancementOptionsDecision14": "Vendre des espaces publicitaires pour la promotion des médicaments dans le bulletin de PV et sur le site du centre de pharmacovigilance",
+          "FinancementOptionsDecision15": "Demander aux laboratoires pharmaceutiques de financer certaines activités de PV",
+          "EquipementTitle": "Equipement",
+          "EquipementSTitle": "Choisissez autant d'actions que vous le souhaitez dans la limite de vos budgets afin d'équiper votre centre et qu'il soit fonctionnel. Je vous conseille vivement de ne pas tout dépenser dans l'équipement afin que vous ayez suffisamment de fonds pour recruter du personnel par la suite.",
+          "EquipementUnit": "PV COINS",
+          "EquipementOptionsDecision31": "S'abonner annuellement à Vigiflow",
+          "EquipementOptionsDecision32": "Faire aménager une salle de réunion/salle de formation pouvant accueillir jusqu'à 30 personnes",
+          "EquipementOptionsDecision33": "Acquérir le dictionnaire des médicaments ou à défaut le listing des formulations des médicaments commercialisés dans votre pays et le partager avec l'UMC",
+          "EquipementOptionsDecision34": "Acheter 10 livres de référence sur la pharmacovigilance",
+          "EquipementOptionsDecision35": "Avoir un accès internet illimité",
+          "EquipementOptionsDecision36": "Acheter du matériel consommable : papiers, stylos, enveloppes...",
+          "EquipementOptionsDecision37": "Acheter des meubles et du matériel bureautique: ordinateurs, imprimantes, bureaux, chaises",
+          "EquipementOptionsDecision38": "Mettre en place un numéro économique pour le centre de PV",
+          "EquipementOptionsDecision39": "Equiper l'ensemble du personnel en téléphones portables afin qu'ils soient joignables à n'importe quel moment",
+          "EquipementOptionsDecision40": "Equiper l'ensemble du personnel en ordinateurs portables",
+          "EquipementOptionsDecision41": "S'abonner à des bases données numériques scientifiques: recherche par mot clé sur les publications relatives au domaine médical/pharmaceutique",
+          "EquipementOptionsDecision42": "Acheter du matériel pour facilier les formations (vidéoprojecteur, ordinateur portable, tableau)",
+          "EquipementOptionsDecision43": "Acquérirune voiture",
+          "EquipementOptionsDecision44": "Acheter 15 disques durs pour le stockage de données",
+          "EquipementOptionsDecision45": "Acheter le matériel nécessaire pour la production de vidéos promotionnelles (caméras, micro et décor)",
+          "EquipementOptionsDecision46": "Faire aménager une salle de soin pouvant accueillir jusqu'à 5 patients",
+          "EquipementOptionsDecision47": "Acheter des imprimantes professionnelles afin d'imprimer tout types de supports (dépliants, brochures, posters, revues…)",
+          "EquipementOptionsDecision48": "Créer un laboratoire de dosage des médicaments",
+          "EquipementOptionsDecision49": "Constituer une bibliothèque de 500 livres sur la médecine générale et les produits pharmaceutiques",
+          "RessourcesTitle": "Ressources humaines",
+          "RessourcesSTitle": "La dernière étape de la mise en place est donc le recrutement et la nomination du personnel. Vous pouvez recruter autant que vous le souhaitez dans la limite de votre budget. Faites des choix judicieux !",
+          "RessourcesUnit": "PV COINS",
+          "RessourcesOptionsDecision50": "Recruter 5 personnes (2 médecins, 1 pharmacien, 1 scientifique et 1 secrétaire)",
+          "RessourcesOptionsDecision51": "Nommer des responsables de Pharmacovigilance (points focaux de PV) au niveau des hôpitaux universitaires du pays",
+          "RessourcesOptionsDecision52": "Recruter un administrateur",
+          "RessourcesOptionsDecision53": "Nommer des responsables de Pharmacovigilance au niveau des différents programme de santé",
+          "RessourcesOptionsDecision54": "Nommer des responsables de Pharmacovigilance au niveau des délégations de santé des régions",
+          "RessourcesOptionsDecision55": "Recruter 3 personnes (1 médecin, 1 pharmacien et 1 scientifique)",
+          "RessourcesOptionsDecision56": "Recruter un spécialiste ingénieur informaticien",
+          "RessourcesOptionsDecision57": "Nommer des responsables de Pharmacovigilance au niveau des grandes instances sanitaires du pays",
+          "RessourcesOptionsDecision58": "Engager une société de communication",
+          "RessourcesOptionsDecision59": "Recruter un épidémiologiste",
+          "RessourcesOptionsDecision60": "Recruter un statisticien",
+          "RessourcesOptionsDecision61": "Recruter un spécialiste en économie du médicament",
+          "RessourcesOptionsDecision62": "Nommer des responsables de Pharmacovigilance au niveau des différentes sociétés savantes de médecine",
+          "RessourcesOptionsDecision63": "Recruter un technicien de laboratoire",
+          "RessourcesOptionsDecision64": "Recruter 8 personnes (1 médecin, 2 techniciens, 3 scientifiques et 2 secrétaires)",
+          "RessourcesOptionsDecision65": "Nommer des responsables de Pharmacovigilance (points focaux de PV) au niveau des centres communautaires des pays"
+        }
+      },
+      "day2": {
+        "1": "Assister à des cours internationaux",
+        "2": "Inviter des experts pour des formations in-situ",
+        "3": "Participer aux congrès internationaux de PV",
+        "4": "Effectuer des stages et formations ex-situ",
+        "5": "Participer aux réunions internationales",
+        "6": "Formations en ligne",
+        "7": "Organiser des séances d’autoformation",
+        "66": "Envoyer deux personnes de l'équipe pour assister au cours francophone de Pharmacovigilance ",
+        "67": "Assister au cours international de phytovigilance organisé sur deux semaines à Mexico",
+        "68": "Envoyer une personne en Chine afin qu’elle participe à une formation de renommée mondiale sur les produits de la pharmacopée traditionnelle",
+        "69": "Inviter le professeur Salmon pour former l’ensemble des équipes au sein du centre pendant cinq jours sur l’imputabilité, vigiflow, ATC DDD/MedDRA et la détection des signaux",
+        "70": "Inviter le professeur Bendali, un expert international, afin qu’il vienne former les équipes sur le rôle de la génétique sur la genèse des effets indésirables (formation sur trois jours)",
+        "71": "Inviter l'équipe de recherche sur les vaccins du Laboratoire USAPharma pour délivrer une formation internationale sur la vaccinovigilance",
+        "72": "Participer au congré de ISOP (la société internationale de pharmacovigilance) organisée cette année à Marrakech",
+        "73": "Participer au congrès international de pharmacologie clinique à Dubai",
+        "74": "Participer au congrès organisé par les laboratoires PharmaLab sur les formulations pharmaceutiques dans le développement des médicaments",
+        "75": "Envoyer une personne faire un stage d'un mois au sein d'un centre de Pharmacovigilance bien établis dans un pays niveau socio-économique similaire",
+        "76": "Envoyer une personne faire un stage au sein du programme du SIDA",
+        "77": "Envoyer une personne se former pendant six mois au sein du siège social de PharmaIndus à New York",
+        "78": "Participer à la réunion internationale des centres de pharmacovigilance organisée par l’OMS à Vienne",
+        "79": "Participer à la réunion OMS sur les organismes de réglementation sur le médicament",
+        "80": "Participer à la réunion internationale des endocrinologues qui aura lieu à Paris",
+        "81": "S'inscrire à la formation en ligne de vaccinovigilance",
+        "82": "S'inscrire à la formation sur les aspects pharmacologiques des licences des médicaments",
+        "83": "S'inscrire à une formation sur la pharmacovigilance des produits vétérinaires",
+        "84": "Organiser des séances de formation interne sur des effets indésirables par organe",
+        "85": "Organisation de séances hebdomadaires de formation en interne sur la pharmacogénétique",
+        "86": "Organiser des séances d'auformation sur les modalités d'enregistrement des médicaments",
+        "title": "L'equipe",
+        "body1": "L'équipe est au complet !",
+        "body2": "Nous sommes prêts pour contribuer  au développement du centre.",
+        "niveau": "Niveau 2 : Formation",
+        "niveauTitle": "Dans chaque catégorie, choisissez la formation qui vous semble la plus pertinente pour former votre équipe.",
+        "selectAction": "Selectionner la bonne action..."
+      },
+      "day3": {
+        "1": "Pharmacovigilance team (WHO) Geneva",
+        "2": "Upssala Monitoring Centre",
+        "3": "Rabat collaborating center RCC",
+        "4": "Les bailleurs de fonds",
+        "5": "Les sociétés savantes",
+        "6": "Les bureaux régionaux et nationaux de l'OMS",
+        "87": "Devenir membre du programme international de pharmacovigilance",
+        "88": "Avoir accès aux différents guidelines de l'OMS sur la PV",
+        "89": "Assister aux réunions annuelles de PV",
+        "90": "Evaluer les systèmes de PV",
+        "91": "Aider à intégrer la PV dans les programmes de santé",
+        "92": "Aider à identifier des consultants internationaux",
+        "93": "Assister aux réunions annuelles de PV",
+        "94": "Avoir accès à Vigiflow",
+        "95": "Avoir accès à Vigilyze",
+        "96": "Assister aux trainings",
+        "97": "Partager les signaux détectés dans votre centre",
+        "98": "Avoir accès aux BDD internationales sur les EI",
+        "99": "Participer à des formations",
+        "100": "Evaluer votre système de PV",
+        "101": "Aider à l'organisation de comités techniques internationaux",
+        "102": "Développer de méthodes spécifiques pour la gestion des erreurs médicamenteuses",
+        "103": "Organiser des formations dans votre pays",
+        "104": "Demander un appui pour l'integration de la PV dans les programmes de santé",
+        "105": "Demander un appui pour le développement d’un système de vigilance intégré",
+        "106": "Financer l'équipement du centre en matériel informatique",
+        "107": "Financer l'évaluation du système de pharmacovigilance de votre pays",
+        "108": "Financer la formation des PS en PV",
+        "109": "Financer la participation de vos équipes aux congrès et réunions",
+        "110": "Financer des études de pharmacovigilance",
+        "111": "Financer le processus de règlementation de la PV",
+        "112": "Développer ses connaissances en PV",
+        "113": "Participer aux congrès internationaux",
+        "114": "Coécrire des articles scientifiques",
+        "115": "Partager ses expériences dans le domaine de la PV",
+        "116": "Pouvoir échanger des informations avec l'industrie pharmaceutique",
+        "117": "Participer à des groupes de discussion d'intérêt spécifiques (SIG ME, Herbals, Pharmacogenetics)",
+        "118": "Demander un appui à la promotion de la PV dans les pays",
+        "119": "Participer à des réunions régionales sur la PV",
+        "120": "Soumettre des projets de developpement dans le cadre des biennies",
+        "121": "Aider à identifier des experts internationaux",
+        "122": "Organiser des séminaires de sensibilisation à la PV aux PS",
+        "niveau": "Niveau 3 : La collaboration internationale",
+        "niveauTitle": "Chacune des cases ci-dessous représente une action que vous pouvez entreprendre en collaborant avec des organismes internationaux. Sélectionnez chacune des actions proposées et déposez la dans la case du partenaire qui vous semble le plus apte à vous aider à la réaliser."
+      },
+      "day4": {
+        "nextStep": "Etape suivante",
+        "niveau": "Niveau 4 : La fiche de notification",
+        "part1": {
+          "147": "Créer une fiche de notification détaillée avec un maximum de champs libres afin de permettre aux notificateurs de donner le plus de détails possibles",
+          "148": "Créer une fiche de notification unique et standardisée adaptée à toute catégorie de notificateur et d’effet indésirable",
+          "149": "Développer plusieurs fiches de notification, chacune adaptée à une classe thérapeutique de médicament",
+          "150": "Créer une fiche de notification simple, sur une page, avec des cases à cocher et certains espaces pour écrire",
+          "151": "Développer des fiches de notification spécifiques à chaque classe d'effets indésirables",
+          "152": "Ne pas prévoir de fiche de notification et permettre aux notificateurs de transmettre leurs notifications sur le support qu’ils souhaitent.",
+          "title": "Activités de pharmacovigilance",
+          "subTitle": "2 choix à sélectionner",
+          "niveauTitle": "Parmi les propositions suivantes, choisissez deux actions qui vous semblent les plus pertinentes pour le développement de votre fiche de notification",
+          "text": "La fiche de notification est l’outil de base qui permet de  collecter les informations relatives à la survenue d'un événement indésirable chez un patient afin d’établir la relation de cause à effet entre cet événement indésirable et le(s) produit(s) de santé administrés."
+        },
+        "part2": {
+          "123": "Nom ou référence",
+          "124": "Age et Sexe",
+          "125": "Antécédents",
+          "126": "Description",
+          "127": "Délai d’apparition et évolution",
+          "128": "Conduite adoptée",
+          "129": "Produit suspecté et voie d’administration",
+          "130": "Indication, dose et posologie",
+          "131": "Date de début et de fin du traitement",
+          "132": "Profil",
+          "133": "Contact",
+          "134": "Lieu d'exercice",
+          "135": "Taille",
+          "136": "Photo du médicament",
+          "137": "Nombre d’enfants",
+          "138": "Date de péremption du médicament",
+          "139": "IMC",
+          "140": "Type de mutuelle",
+          "141": "Médicament non concomitant",
+          "142": "Nom de la pharmacie",
+          "143": "Situation maritale",
+          "144": "Historique chirurgicale",
+          "145": "Prise par un parent proche",
+          "146": "Régime sans sel O/N",
+          "patient": "Patient",
+          "Notificateur": "Notificateur",
+          "Produitsanté": "Produit de santé",
+          "Eventinde": "Evénement indésirable",
+          "niveauTitle": "Chacune des cases ci-dessous représente une rubrique potentielle à intégrer à la fiche de notification. Sélectionnez les plus pertinentes et déposez-les dans la catégorie la plus adaptée de la fiche de notification"
+        }
+      },
+      "day5": {
+        "153": "Industries pharmaceutiques",
+        "154": "Référents dans les services hospitaliers",
+        "155": "Secteur Privé(pharmacies , cliniques, cabinets médicaux,...)",
+        "156": "Toutes les structures sanitaires publiques",
+        "157": "Centres Hospitaliers",
+        "158": "Centre Anti Poison",
+        "159": "Programme de santé",
+        "160": "Patients",
+        "161": "Délégation Régionale / Région Sanitaire",
+        "162": "Délégation provinciale / Districts Sanitaires",
+        "163": "Etablissements de Soins Santé Primaire (ESSP) / Postes de Santé",
+        "164": "Patients",
+        "165": "Industries pharmaceutiques",
+        "166": "Référents dans les services hospitaliers",
+        "167": "Secteur Privé(pharmacies , cliniques, cabinets médicaux,...)",
+        "168": "Toutes les structures sanitaires publiques",
+        "169": "Centres Hospitaliers",
+        "170": "Centre Anti Poison",
+        "171": "Programme de santé",
+        "172": "Patients",
+        "173": "Délégation Régionale / Région Sanitaire",
+        "174": "Délégation provinciale / Districts Sanitaires",
+        "175": "Etablissements de Soins Santé Primaire (ESSP) / Postes de Santé",
+        "176": "Patients",
+        "177": "Organisation Mondiale de la Santé",
+        "178": "Uppsala Monitoring Center",
+        "179": "Rabat Collaborating Center",
+        "180": "ISoP",
+        "181": "Sièges sociaux des industries pharmaceutiques",
+        "182": "Sièges locaux des industries alimentaires",
+        "183": "Agence de sécurité sanitaire des aliments",
+        "184": "TDR",
+        "185": "Organisation Mondiale de la Santé",
+        "186": "Uppsala Monitoring Center",
+        "187": "Rabat Collaborating Center",
+        "188": "ISoP",
+        "189": "Sièges sociaux des industries pharmaceutiques",
+        "190": "Sièges locaux des industries alimentaires",
+        "191": "Agence de sécurité sanitaire des aliments",
+        "192": "TDR",
+        "notifHierar": "Notification Hiérarchisée",
+        "notifHierarText": "Attribuez à chacun des acteurs proposés une place dans le  circuit de notification en respectant la hiérarchisation logique",
+        "notifDirect": "Notification Directe",
+        "notifDirectTitle": "Choisissez parmi les propositions, les acteurs qui devraient notifier directement le centre de Pharmacovigilance",
+        "notifMixte": "Notification Mixte",
+        "notifMixteText": "Choisissez parmi les propositions, quels acteurs peuvent  notifier directement le centre de Pharmacovigilance et quels   acteurs peuvent passer par un circuit hierarchisé",
+        "centerNPV": "Centre National de PV",
+        "cancel": "Annuler",
+        "validate": "Valider",
+        "mixteTitle1": "Transmission hiérarchique de la notification",
+        "mixteTitle2": "Transmission directe de la notification",
+        "subTitle": "Le circuit de notification est le dispositif mis en place pour transmettre les données individuelles relatives à un événement indésirable présumé d’un produit de santé à une structure de vigilance",
+        "niveau": "Niveau 5 : Le circuit de notification",
+        "niveauTitle": "Avant d’identifier les acteurs à intégrer dans le circuit de notification, sélectionnez, parmi les trois propositions suivantes, le type de circuit qui vous paraît le plus pertinent pour collecter les notifications."
+      },
+      "day8": {
+        "niveau": "Niveau 8 : Les bases de données",
+        "part1": {
+          "paracetamol": "Paracétamol",
+          "zyloric": "Zyloric",
+          "artotec": "Artotec",
+          "amoxil": "Lamictal",
+          "amoxicilline": "Amoxicilline",
+          "brexin": "Brexin",
+          "dextran": "Dextran (Fer)",
+          "depakine": "Depakine",
+          "anafranil": "Anafranil",
+          "niveauTitle": "Afin d'intégrer les cas dans la base de données, définissez d'abord les codes ATC des médicaments concernés"
+        },
+        "part2": {
+          "niveauTitle": "Dans cette étape, vous devez trouver le PT (Preferred Term) et le SOC (System Organ Class) pour chacun des effets indésirables identifié",
+          "augmentation": "Augmentation des transaminases",
+          "metrorragies": "Métrorragies",
+          "vomissements": "Vomissements",
+          "douleurs": "Douleurs gastriques",
+          "choc": "Choc anaphylactique",
+          "eruption": "Éruption maculo-palpeuse",
+          "cheilite": "Chéilite",
+          "poly": "Poly adénopathie cervicale et axillaire",
+          "syndrome": "Syndrome de Dress",
+          "413": "Investigations",
+          "415": "Affections des organes de reproduction et du sein",
+          "417": "Affections gastro-intestinales",
+          "421": "Affections du système immunitaire",
+          "425": "Affections de la peau et du tissu sous-cutané",
+          "427": "Affections hématologiques et du système lymphatique",
+          "412": "Transaminases augmentées",
+          "414": "Métrorragie",
+          "416": "Vomissement",
+          "418": "Douleur abdominale haute",
+          "420": "Choc anaphylactique",
+          "422": "Rash maculopapuleux",
+          "424": "Chéilite",
+          "426": "Lymphadénopathie",
+          "428": "Réaction médicamenteuse avec éosinophilie et symptômes systémiques"
+        }
+      },
+      "day10": {
+        "639": "Directeur du CNPV",
+        "640": "Responsables des centres régionaux",
+        "641": "Expert Gynécologue",
+        "642": "Expert Rhumatologue",
+        "643": "Expert médecin interniste",
+        "644": "Responsable pharmacie hospitalière",
+        "645": "Chef de produit Artotec",
+        "646": "Expert nephrologue",
+        "647": "Expert pédiatre",
+        "648": "Responsable de la réglementation",
+        "649": "Ministre de la Santé",
+        "650": "Directeur du bureau régional de l’OMS",
+        "651": "Directeur du CNPV",
+        "652": "Responsables des centres régionaux",
+        "653": "Expert Cardiologue",
+        "654": "Expert néphrologue",
+        "655": "Expert rhumatologue",
+        "656": "Expert dermatologue",
+        "657": "Responsable pharmacie hospitalière",
+        "658": "Chef de produit Zyloric",
+        "659": "Expert chirurgie vicérale",
+        "660": "Expert traumatologue",
+        "661": "Responsable de la réglementation",
+        "662": "Ministre de la Santé",
+        "663": "Directeur du bureau régional de l’OMS",
+        "664": "Directeur du CNPV",
+        "665": "Responsables des centres régionaux",
+        "666": "Expert Nephrologue",
+        "667": "Expert Gastro-hepatologue",
+        "668": "Expert Anesthésiste",
+        "669": "Expert Réanimateur",
+        "670": "Expert Oncologue",
+        "671": "Expert Hematologue",
+        "672": "Responsable pharmacie hospitalière",
+        "673": "Chef de produit Fer injectable",
+        "674": "Expert Gynécologue",
+        "675": "Expert Traumatologue",
+        "676": "Expert Rhumatologue",
+        "677": "Responsable de la réglementation",
+        "678": "Ministre de la Santé",
+        "679": "Directeur du bureau régional de l’OMS",
+        "effet_principal": "Effet principal",
+        "effet_lateral": "Effet latéral",
+        "matiere_prem": "Matière première",
+        "generiques_bios": "Génériques et biosimilaires",
+        "contrefacon": "Contrefaçon",
+        "niveau_socio_eco": "Niveau socio-économique",
+        "terrain": "Terrain",
+        "facteurs_risque": "Facteurs de risque",
+        "formation": "Formation",
+        "implication": "Implication",
+        "respect_regle_prescription": "Respect règles prescription dispensation et administration",
+        "charge_travail": "Charge de travail",
+        "modalites_AMM": "Modalités d’octroi AMM",
+        "etudes_pre_post_AMM": "Etudes pré et post AMM",
+        "sur_consommation": "Sur-consommation",
+        "notification_spontanees": "Notification spontanées",
+        "pharmaco_epidemiologie": "Pharmaco - épidémiologie",
+        "pouvoir_allergene": "Pouvoir allergène",
+        "immunisation_prealable": "Immunisation préalable",
+        "hors_circuit": "Hors Circuit conventionnel",
+        "circuit_conventionnel": "Circuit conventionnel",
+        "surdosage": "Surdosage",
+        "erreur_medicamenteuse": "Erreur médicamenteuse",
+        "pharmaco_dependance": "Pharmaco-dépendance",
+        "mesusage": "Mésusage",
+        "reglementation": "Règlementation",
+        "procedures_protocoles": "Procédures protocoles thérapeutiques",
+        "organisation": "Organisation",
+        "mediatisation": "Médiatisation",
+        "plan_minimisation_risque": "Plan de minimisation du risque",
+        "prise_decision": "Prise de décision",
+        "information": "Information",
+        "transparence": "Transparence",
+        "Activite": "Activité intrinsèque",
+        "Qualite": "Qualité",
+        "Patient": "Patient",
+        "Professionnels_sante": "Professionnels de Santé",
+        "Evaluation_risque": "Evaluation du risque",
+        "Effet_immunogene": "Effet immunogène",
+        "Distribution_Stockage": "Distribution & Stockage",
+        "Modalites_utilisation": "Modalités d’utilisation",
+        "Systeme_sante": "Système de santé",
+        "Gestion_risque": "Gestion du risque",
+        "Artotec_Hemorragie_uterine": "Artotec - Hémorragie utérine",
+        "Artotec": "Artotec",
+        "Hemorragie_uterine": "Hémorragie utérine",
+        "Zyloric_DRESS_syndrome": "Zyloric - DRESS syndrome",
+        "Zyloric": "Zyloric",
+        "DRESS_syndrome": "DRESS syndrome",
+        "Fer_injectable_Reaction_anaphylactique": "Fer injectable - Réaction anaphylactique",
+        "Reaction_anaphylactique": "Réaction anaphylactique",
+        "Fer_injectable": "Fer injectable",
+        "title1": "",
+        "title2": "",
+        "title3": "",
+        "ModalMinisterValidationTitle": "Le ministre",
+        "ModalMinisterValidationText": "Êtes-vous sûr de vouloir valider vos choix ?",
+        "ModalMinisterValidationBtnText": "Valider mes choix",
+        "ModalMinisterValidationCancelBtnText": "Pas encore",
+        "Modal1Title": "Le ministre",
+        "Modal1Text": "Nous avons détecté trois signaux dans nos bases de données. <br/>Nous pensons qu’il est nécessaire de réunir le comité technique pour décider des actions à entreprendre pour éviter ces effets indésirables dans le futur. ",
+        "Modal1BtnText": "Poursuivre",
+        "title": "Niveau 10 : Le comité technique",
+        "titlePart1": "Constituez le comité technique pour chaque signal détécté",
+        "titlePart2": "Ci-dessous un diagramme d’Hishikawa intégrant une série de facteurs contributifs potentiels.",
+        "titlePart22": "Pour chaque signal, cochez les éléments qui ont contribué à l’effet indésirable afin d’obtenir un diagramme spécifique à l’effet indésirable concerné.",
+        "subTitle": "Aidez-vous des informations sur les signaux disponibles dans le PDF",
+        "titlePDF": "Informations-signaux.pdf",
+        "validerChoix": "Valider mes choix",
+        "suivant": "Suivant",
+        "reset": "Réinitialiser",
+        "Precedent": "Précédent",
+        "quitter": "Quitter",
+        "9cas": "(choisir 9 facteurs)",
+        "7cas": "(choisir 7 facteurs)"
+      },
+      "parcour": {
+        "point": "Points",
+        "quitter": "Quitter",
+        "welcome": "Bienvenue dans",
+        "Aventure": "l'Aventure",
+        "desc": "Ce parcours représente en 10 étapes, les principales activités d’un centre de pharmacovigilance. Passez votre souris sur les différentes icônes pour découvrir les niveaux. Vous ne pourrez jouer que les niveaux colorés, les niveaux grisés n’étant pas encore débloqués à ce stade de l’aventure.",
+        "day1title": "La mise en place du centre",
+        "day2title": "La formation du staff",
+        "day3title": "La collaboration internationale",
+        "day4title": "La fiche de notification",
+        "day5title": "Le circuit de notification",
+        "day6title": "La validation des cas",
+        "day7title": "L’imputabilité",
+        "day8title": "Les bases de données",
+        "day9title": "La génération et la validation des signaux",
+        "day10title": "Le comité technique",
+        "niveau": "NIVEAU",
+        "termine": "Terminé",
+        "encour": "en cours",
+        "verouille": "Vérouillé"
+      },
+      "badges": {
+        "title": "Badges",
+        "desc": " Tout au long du jeu, si vous démontrez de l’excellence dans certains domaines vous pourrez obtenir un ou plusieurs des badges suivants.   L’obtention des badges est tributaire de la bonne réussite de certaines étapes du jeu et vous permettra d’améliorer votre classement final.",
+        "notif": "Notification",
+        "notifDesc": "Ce badge indique que vos outils, vos moyens et votre circuit de notification sont optimisés. Votre centre est capable de collecter  de manière efficace les cas d’effets indésirables",
+        "imputab": "Imputabilité",
+        "imputabDesc": " Ce badge indique que vous êtes reconnu à l’international comme étant un expert en imputabilité",
+        "oms": "OMS",
+        "omsDesc": " Ce badge indique que vous avez entrepris toutes les mesures  nécessaires pour devenir membre du Programme International de Pharmacovigilance de l’OMS"
+      },
+      "classement": {
+        "title": "Félicitations pour votre classement !",
+        "subTitle": "Vous êtes maintenant",
+        "first": "er",
+        "second": "ème",
+        "score": "Score"
+      },
+      "menu": {
+        "configure": "Configurer",
+        "title": "Strategic Game",
+        "welcome1": "Bienvenue dans votre centre",
+        "welcome2": "",
+        "desc1": "Vous êtes un professionnel de la Pharmacovigilance chargé de mettre en place et de développer le centre national de pharmacovigilance de votre pays. Votre objectif sera de hisser votre centre afin qu’il  devienne une référence nationale et internationale dans la détection  et la gestion des effets indésirables des médicaments.",
+        "desc2": "A vous de choisir les bonnes stratégies et de prendre les meilleures décisions afin d’optimiser votre score.",
+        "parcour": "Parcours",
+        "Ractivity": "Rapport d'activité",
+        "classement": "Classement",
+        "badges": "Badges",
+        "descConfig": "Avant de commencer le parcours, veuillez configurer votre personnage. Le nom que vous choisirez apparaitra ainsi dans les classements. Une fois la configuration validée, nous ne pourrez plus la modifier.",
+        "configCenterName": "Nom du centre",
+        "configAvatar": "Avatar",
+        "configCountry": "Pays",
+        "configRespo": "Fonction",
+        "back": "Retour",
+        "register": "Valider",
+        "proffession1": "Médecin",
+        "proffession2": "Pharmacien",
+        "proffession3": "Analyste",
+        "proffession4": "Professeur",
+        "proffession5": "Epidémiologiste",
+        "proffession6": "Autre",
+        "country1": "Sénégal",
+        "country2": "Burkina Faso",
+        "country3": "Algérie",
+        "country4": "Liban",
+        "country5": "Cameroun",
+        "country6": "Burundi",
+        "country7": "Haiti",
+        "country8": "Côté d'Ivoire",
+        "country9": "Niger",
+        "country10": "Mali",
+        "country11": "Rep. Dém. Du Congo",
+        "country12": "Tunisie",
+        "country13": "Suisse",
+        "country14": "Maroc",
+        "regle": "Règles du jeu",
+        "finalGameTitle": "Félicitations",
+        "finalGameBody": "Vous avez terminé le jeu!"
+      },
+      "day6": {
+        "title": "Le médecin de l’équipe",
+        "previous": "Précedent",
+        "valide": "Valide",
+        "supprimer": "Supprimer",
+        "subTitle": "Cliquez successivement sur chacune des pastilles rouges pour  découvrir les cas reçus. Il faudra valider les notifications exhaustives et supprimer celles qui sont incomplètes.",
+        "emails": {
+          "1": {
+            "email": "De: f.adam@gmail.com",
+            "date": "Mar 11/07/2020 à 02 :33",
+            "sujet": "Sujet : Cas EIM suspecté",
+            "body": "Bonjour,\n Je vous écris afin de déclarer un effet indésirable qui concerne une patiente de 35 ans que j’ai reçu le 15 décembre pour une infection gastro intestinale et pour laquelle j’ai prescrit Bactrim forte (1cp/jour pdt 5 jours) et Apazid (1cp 3x/jour pdt 3 jours). Elle s’est présentée à mon cabinet le 23 novembre avec un rash maculopalpeux qui a évolué favorablement après 10 jours de traitement symptomatique. \n Dr. Adam \n   Médecin Généraliste \n  BP 56 897"
+          },
+          "2": {
+            "email": "De : standard@hopitalinternational.com",
+            "date": "Mar 16/01/2021 à 23 :15",
+            "sujet": "Sujet : URGENT intoxication chien – risque de décès!",
+            "body": "Bonjour,\n On m’a dit de m’adresser au centre de pharmacovigilance pour déclarer ce cas. Mon chien (Labrador) de 18 kilos a mangé une boite entière de spasfon (20 comprimés). Je lui ai donné beaucoup d’eau à boire, et pour l’instant il n’a aucun symptôme, est-ce qu’il risque de mourir ? \n Merci de me répondre au plus vite. \n Thalia"
+          },
+          "3": {
+            "email": "De : roulddamien@outlook.com",
+            "date": "Ven 29/08/2020 à 16 :47",
+            "sujet": "Sujet : Plaquenil",
+            "body": "Dans le cadre de la note ministérielle concernant la déclaration des effets indésirables liés au Plaquenil pour le traitement du Covid-19, je souhaiterais vous informer qu’une patiente de 52 ans, admise dans notre unité, a présenté un épisode diarrhéique 3 minutes après la prise de Plaquenil 200 mg et de vitamine C. Aux vues de l’état de la patience, nous avons décidé de continuer le traitement malgré l’incident et l’évolution a été favorable. \n Cordialement, \n Dr. Damien Rould \n Chef de l’unité Covid-19 \n Hôpital de campagne"
+          },
+          "4": {
+            "email": "De : medecindegarde@cliniquevaldart.com",
+            "date": "Mar 11/07/2020 à 02 :33",
+            "sujet": "Sujet : Déclaration effet indésirable Aspirine",
+            "body": " Je vous déclare le cas suivant, observé à la Clinique Valdart. \n  Melle Ravi Sandaya (18 ans) s’est présentée aux urgences cette nuit pour métrorragies importantes, vomissements, céphalées intenses avec troubles de conscience quelques heures après la prise de 5 comprimés d’Artotec® pour provoquer un avortement. Le bilan et l’examen de la patiente ont montré une insuffisance rénale aigue, des troubles cardiaques. L’évolution a été favorable après 3 jours d’hospitalisation en réanimation. \n Merci "
+          },
+          "5": {
+            "email": "De : contact@hopitalprincipal.gov",
+            "date": "Mar 31/10/2020 à 11 :12",
+            "sujet": "Sujet : Effet indésirable",
+            "body": "• L’enfant M. M. âgé de 7ans Traité pour épilepsie par Dépakine/ valproate de Na (doses NM) depuis 3ans Lamictal/ lamotrigine (doses NM) depuis 3semaines pour une recrudescence des crises (5 crises/jours) sous valproate\n • Admis à l’hôpital le 18/10/2020 dans un tableau clinique fait de Sd fébrile et de Syndrome méningé\n • L’examen clinique trouve une éruption maculo-papuleuse du visage • LCR: Normal • ECBU: Normal\n • NFS: Normal • Le 20/10/2020: aggravation avec extension des placards erythémato-papuleux prurigineux à tout le corps apparition d’une chéilite et une poly-adénopathie cervicale et axillaire : le Diagnostic de DRESS et a été posé \n • Arrêt des 2 anti-épileptiques • L’évolution favorable après arrêt de la Dépakine ® et du Lamictal ® Le 26/10/2020 , soit À J7 de l’arrêt"
+          },
+          "6": {
+            "email": "De : standard@hopitalinternational.com",
+            "date": "Mar 03/01/2021 à 10 :19",
+            "sujet": "Sujet : de la part du Dr. A. Cohen",
+            "body": "Bonjour, \n  Le docteur Cohen m’a chargée de vous transmettre ce cas enregistré la semaine dernière dans notre hôpital : \n  « patient diabétique de 72 ans, sous insuline depuis 12 ans, ayant une insuffisance rénale de découverte récente et traité pour cardiopathie ischémique depuis Juillet 2020, par allopurinol 200 mg par jour depuis le 15 Juillet 2020. Il est hospitalisé le 20 Septembre 2020, deux mois après le début du traitement par allopurinol et 8 jours après le début d’un traitement antibiotique par amoxicilline et ciprofloxacine pour une pneumonie. Les médicaments ont été arrêtés à l’admission à l’hôpital. L’état du patient s’est aggravé et l’évolution était fatale après 5 jours d’hospitalisation ». \n  Sabrine \n  Secrétaire \n  Hôpital International"
+          },
+          "7": {
+            "email": "De : leila.k.interne@hopital.gov.com",
+            "date": "Jeu 19/09/2020 à 13 :45",
+            "sujet": "Sujet : Voltarène/hausse transaminases",
+            "body": "Cher docteur, \n   Je vous prie de bien vouloir trouver ci-dessous un cas d’effet indésirable pour le patient Mr. Idriss, 21 ans, étudiant à la faculté de médecine. \n   Bilan hépatique effectué le 21/10 : transaminases 2x la normale \n   Interrogatoire : prise de Voltarène 100 (en automédication pour dorsalgies) 5 min avant la prise de sang. \n   Arrêt du traitement \n   Bilan hépatique 15 jours après arrêt du traitement : Normal \n   Cordialement, \n   Leila K. \n   Interne \n   Hôpital Régional"
+          }
+        },
+        "phones": {
+          "1": {
+            "phone": "07 52 98 64 18",
+            "text": "Patiente de 60 ans traitée par ERIP K4 pour tuberculose, a présenté des effets indésirables à la suite du traitement. Traitement toujours en cours, les effets ont disparu au bout de quelques jours."
+          },
+          "2": {
+            "phone": "05 92 14 50 00 ",
+            "text": "Bjr, merci d’intégrer ce cas à votre base de données Patient, H, 10ans, mélange médicament, plante médicinale, 3 jours, diarrhée sévère, traitement symptomatique, amélioration au bout de 2 jours, évolution favorable."
+          },
+          "3": {
+            "phone": "05 92 14 50 00 ",
+            "text": "Enfant arrivé au service avec diarrhée et fièvre, mère affirme que les symptômes sont dus à la prise d’un médicament qui lui a été donné par une amie pour calmer une rage de dents. Reparti après normalisation de la fièvre. Major service Urgence Hôpital Louis Pasteur"
+          },
+
+          "4": {
+            "phone": "03 28 96 33 17 ",
+            "text": "Bjr, reçu aujourd’hui homme 45 ans, sans antécédents. Bilan hépatique avec augmentation des transaminases, prise paracétamol (4g/jour pendant 5 jours) la semaine avant le bilan. Diagnostiques différentiels éliminés. Arrêt traitement. Analyses refaites 5 semaines plus tard : normalisation bilan hépatique. Dr. Yvette Salomon – Médecin Nephrologue Hôpital Militaire "
+          },
+
+          "5": {
+            "phone": "06 87 37 56 17",
+            "text": "Il s’agit d’un patient de sexe masculin, âgé de 52 ans, connu diabétique, sous hémodialyse pour insuffisance rénale chronique depuis 5 ans, qui a présenté un choc anaphylactique 25 min après l’injection en perfusion lente du Fer Dextran pour une anémie. La perfusion a été arrêtée et l’évolution était favorable..."
+          },
+
+          "6": {
+            "phone": "06 42 38 96 17",
+            "text": "Patient sexe F, connue diabétique depuis 11 ans ayant une cardiomyopathie traitée par Digoxine, Sintrom, cardix et tecpril. Mise sous colchicine 1mg 1cp deux fois par jour pendant une semaine du 18/07 au 21/07 pour une goutte par ailleurs la patiente prenait du Tramal et du paracétamol en automédication. Le 03/08, le médecin a changé son traitement pour la goutte et la patiente a été mise sous Zyloric 200 mg 1cp par jour Le 07/09/2020 la patiente a présenté un Rash maculo papuleux, prurigineux, avec des lésions bulleuses au niveau membres inférieurs, tronc avec atteinte des muqueuses, chéilite, la patiente a été hospitalisée et le zyloric a été arrêté le 11/09/2020. La biopsie a été réalisée et a été en faveur d’un SSJ. L’évolution était favorable après 10 jours d’arrêt de traitement et d’hospitalisation. Dr. Mujdat-Endocrinologue"
+          },
+
+          "7": {
+            "phone": "06 52 78 54 12",
+            "text": "Patient de 23 ans sans antécédents a présenté une toxidermie. Le patient a pris du paracétamol."
+          }
+        }
+      },
+      "day7": {
+        "novice": "Novice",
+        "intermediaire": "Intérmédiaire",
+        "expert": "Expert",
+        "notification": "Notification",
+        "title": "Niveau 7 : L’imputabilité",
+        "subTitle1": "Cliquez sur chacun des cas proposés pour découvrir sa description et faire son analyse d’imputabilité.",
+        "subTitle2": "Il vous suffit de valider au moins un cas de chaque catégorie pour débloquer les cas de la catégorie suivante. N’hésitez pas à vous référer à vos cours.",
+
+        "Amoxil": "Amoxil",
+        "Zyloric": "Zyloric",
+        "Depakine": "Dépakine",
+        "Lamictal": "Lamictal",
+        "Anafranil": "Anafranil",
+        "Haldol": "Haldol",
+        "amoxicilline": "Amoxicilline",
+        "Allopurinol": "Allopurinol",
+        "Colchicine": "Colchicine",
+
+        "191": "Patient HM âgé de 45 ans sans antécédents",
+        "192": "Bilan de contrôle montrant une augmentation des transaminases",
+        "193": "Interrogatoire : prise de 4 g de paracétamol par jour pendant 5 jours il y a une semaine",
+        "194": "Diagnostics différentiels éliminés",
+        "195": "Contrôle réalisé 5 semaines après l’arrêt a montré une normalisation du bilan hépatique",
+
+        "1101": "Patiente BE SA âgée de 18 ans sans antécédents",
+        "1102": "Prise de Brexin sachet (1 sachet/j ) pendant 2 jours pour douleurs articulaires",
+        "1103": "Au bout de 2 jours: douleurs gastriques et vomissements",
+        "1104": "Diagnostic différentiel éliminé (pas d’ulcère)",
+        "1105": "Hospitalisation de jour: arrêt du médicament + traitement correcteur: Acupan IM/Primpéran IM",
+        "1106": "Evolution favorable",
+
+        "1111": "Patiente âgée de 52 ans atteinte du Covid-19",
+        "1112": "Présente un épisode diarrhéique 3 minutes après la prise de Plaquenil 200 mg et VitaC",
+        "1113": "Traitement non arrété",
+        "1114": "Evolution favorable",
+
+        "1121": "Patiente âgée de 35 ans traité le 15 décembre 2020 pour une infection gastro intestinale par Bactrim forte un comprimé deux fois par jour pendant 5 jours, Apazid 1 cp 3 fois par jour pendant trois jours ",
+        "1122": "Le 23 novembre 2020 la patiente a présenté un rash maculopapuleux  qui a évolué favorablement après 10 jours de traitement symptomatique",
+
+        "2131": "Patiente RT âgée de 18 ans sans antécédents",
+        "2132": "Admission aux urgences pour : métrorragies importantes, vomissements, céphalées intenses avec troubles de conscience ",
+        "2133": "Interrogatoire : prise de 5 comprimés d’Artotec® pour provoquer un avortement il y a quelques heures",
+        "2134": "Bilan et examen montrent une insuffisance rénale aigue et  des troubles cardiaques",
+        "2135": "Evolution a été favorable après 3 jours d’hospitalisation en réanimation",
+
+        "2141": "Patient HJ âgé de 52 ans connu diabétique,  sous hémodialyse pour insuffisance rénale chronique depuis 5 ans",
+        "2142": "A présenté un choc anaphylactique 25 min après l’injection en perfusion lente du Fer Dextran pour une anémie ",
+        "2143": "La perfusion a été arrêtée ",
+        "2144": "Evolution favorable ",
+
+        "2151": "Patient SET âgé de 56 ans, traité depuis 4 ans par  Cardensiel®. ",
+        "2152": "A l’occasion d’une hyperuricémie le patient a été mis sous Zyloric®. une semaine après le patient a présenté une pharyngite et il a prit par automédication Amoxil 1g 2 fois par jour pendant 6 jour",
+        "2153": "15 jours après le début du traitement par Zyloric® le patient a présenté une atteinte cutanée et une cholestase",
+        "2154": "Zyloric et Amoxil ont été arrêtés ",
+        "2155": "Patient hospitalisé et diagnostic de DRESS posé",
+        "2156": "Evolution favorable",
+
+        "2161": "Patiente ID âgé de 21 ans sans antécédents",
+        "2162": "Bilan hépatique effectué le 21/10 : transaminases 2x la normale",
+        "2163": "Interrogatoire : prise de Voltarène 100 en automédication pour dorsalgies) 5 min avant la prise de sang",
+        "2164": "Arrêt du traitement",
+        "2165": "Bilan hépatique 15 jours après arrêt du traitement : normale",
+
+        "3171": "Enfant MM âgé de 7ans traité pour épilepsie par Dépakine/ valproate de Na (doses NM) depuis 3 ans Lamictal/ lamotrigine (doses NM) depuis 3 semaines pour une recrudescence des crises (5 crises/jours) sous valproate ",
+        "3172": "Admis à l’hôpital le 18/10/2019  dans un tableau clinique fait de syndrome fébrile et de syndrome méningé ",
+        "3173": "Examen clinique : éruption maculo-papuleuse du visage , LCR: Normal, ECBU: Normal, NFS: Normal",
+        "3174": "Le 20/10/2019: aggravation avec extension des placards erythémato-papuleux prurigineux à tout le corps apparition d’une chéilite et une poly-adénopathie cervicale et axillaire : diagnostic de DRESS posé ",
+        "3175": "Arrêt des 2 anti-épileptiques ",
+        "3176": "Evolution favorable après arrêt de la Dépakine ® et du Lamictal ®  le 26/10/2019 , soit À J7 de l’arrêt ",
+
+        "3181": "Patiente LA IM âgée de 54 ans",
+        "3182": "Admise en psychiatrie: sous Anafranil R injectable (25mgx4/j=100mg) et Haldol R injectable 10mg/j pour troubles dépressifs majeurs. Date de début traitement: 15/05/2020",
+        "3183": "Au bout de 5 jours: thrombopénie à 80.000 éléments/mm3 puis à 40.000 el/mm3",
+        "3184": "Arrêt du médicament le 22/05/2020, traitement remplacé par Séroplex (Citalopram)",
+        "3185": "Evolution inconnue ",
+
+        "3191": "Patient âgé de 72 ans, connu diabétique sous insuline depuis 12 ans, ayant une insuffisance rénale de découverte récente et traité pour une cardiopathie ischémique depuis octobre 2019, par allopurinol 200 mg par jour depuis le 15 Octobre 2019",
+        "3192": "Hospitalisé le 15 Janvier 2020 pour un syndrome de Lyell : les premiers signes cliniques ont commencé le 20 décembre 2019 deux mois après un traitement instauré d’allopurinol et 8 jours après le début d’un traitement antibiotique par amoxicilline et ciprofloxacine pour une Pneumonie. ",
+        "3193": "Médicaments arrêtés à l’admission à l’hôpital ",
+        "3194": "Evolution fatale après 5 jours d’hospitalisation",
+
+        "3201": "Patiente, connue diabétique depuis 11 ans ayant une cardiomyopathie traitée par Digoxine, Sintrom, cardix et tecpril ",
+        "3202": "La patiente a été mise sous colchicine 1mg 1cp deux fois par jour pendant une semaine du 18/07 au 21/07 pour une goutte par ailleurs la patiente prenait du Tramal et du paracétamol en automédication",
+        "3203": "Le 03/08, le médecin a changé son traitement pour la goutte et la patiente a été mise sous Zyloric 200 mg 1cp par jour",
+        "3204": "Le 07/09/2020 la patiente a présenté un Rash maculo-papuleux, prurigineux, avec des lésions bulleuses au niveau membres inférieurs, tronc avec atteinte des muqueuses, chéilite, la patiente a été hospitalisée et le Zyloric a été arrêtés le 11/09/2020. La biopsie a été réalisée et a été en faveur d’un SSJ.",
+        "3205": "Evolution favorable après 10 jours d’arrêt de traitement et ",
+        "3206": "d’hospitalisation.",
+
+        "EIM": "Classification de l’EIM",
+        "Augmented": "Augmented",
+        "Bizarre": "Bizarre",
+        "Chronic": "Chronic",
+        "Delayed": "Delayed",
+        "End_of_use": "End of use",
+        "Failure": "Failure",
+        "Genetic": "Genetic",
+        "delai": "Délai",
+        "Suggestif": "Suggestif",
+        "Compatible": "Compatible",
+        "Incompatible": "Incompatible",
+        "Evolution": "Evolution",
+        "Suggestive": "Suggestive",
+        "Non_concluante": "Non concluante",
+        "Non_suggestive": "Non suggestive",
+        "Rechallenge": "Rechallenge",
+        "R+": "R+",
+        "R0": "R0",
+        "R-": "R-",
+        "Evocateur": "Evocateur du rôle du médicament",
+        "Facteurs_favorisants": "Facteurs favorisants",
+        "Autres_etiologies": "Autres étiologies non medicales",
+        "absentes_apres_bilan_appropries": "Absentes après bilan appropriés",
+        "Non_recherchees": "Non recherchées",
+        "Presentes": "Présentes",
+        "Test_specifiques": "Test specifiques",
+        "L+": "L+",
+        "L0": "L0",
+        "L-": "L-",
+        "Score_bibliographique": "Score bibliographique",
+        "B4": "B4",
+        "B3": "B3",
+        "B2": "B2",
+        "B1": "B1",
+        "B0": "B0",
+        "Input_OMS": "Input OMS",
+        "Certain": "Certain",
+        "Probable": "Probable",
+        "Possible": "Possible",
+        "Improbable": "Improbable",
+        "Conditionnel": "Conditionnel",
+        "Non_evaluable": "Non évaluable",
+        "cas_on": "Cas réussi !",
+        "cas_off": "Cas échoué !",
+        "ok": "ok",
+        "noviceDoneMsg": "Vous êtes encore Novice en imputabilité, vous devez vous former de manière plus approfondie à ce sujet. Rendez-vous dans l’espace Rapport d’Activité pour voir comment vous vous en sortez ! ",
+        "intermediaireDoneMsg": "Je remarque que vous avez quelques notions d’imputabilité, mais vous pouvez approfondir le sujet pour devenir expert. Rendez-vous dans l’espace Rapport d’Activité pour voir comment vous vous en sortez ! ",
+        "expertDoneMsg": "Bravo, vous êtes un expert en imputabilité, continuez à ce rythme et vous serez reconnus au niveau international pour votre expertise. Rendez-vous dans l’espace Rapport d’Activité pour voir comment vous vous en sortez !"
+      },
+      "activityReport": {
+        "Liste_des_niveaux": "Liste des niveaux",
+        "rapport_activite": "RAPPORT D'ACTIVITÉ"
+      },
+      "day9": {
+        "title": "NIVEAU 9 : LA GÉNÉRATION ET LA VALIDATION DES SIGNAUX",
+        "subTitle1": "Pour chacune des bases de données proposées, sélectionner les cas qui constituent un signal. Il se peut qu'une ou plusieurs base(s) de données ne contienne aucun signal",
+        "subTitle2": "Sélectionnez les cas qui présentent des signaux",
+        "base_de_donnees": "Base de données",
+        "validChoice": "Valider mes choix",
+        "notyet": "Pas encore",
+        "yes": "Oui",
+        "no": "Non",
+        "quitter": "Quitter",
+        "next": "Etape suivante",
+        "select_option": "choisissez une option",
+        "roll_back": "Revenir sur la base de données",
+        "N_cas": "Numéro Cas",
+        "titre_declaration": "Titre de la déclaration",
+        "date_de_reception_initiale": "Date de réception initiale",
+        "age": "Age",
+        "sexe": "Sexe",
+        "recit_du_cas": "Récit du cas",
+        "MedDRA": "Effet/Evénement (MedDRA)",
+        "grave": "Grave",
+        "critere_de_gravite": "Critère de gravité",
+        "evolution": "Evolution",
+        "role_medicament": "Rôle du médicament",
+        "WHODrug": "Nom du médicament (WHODrug)",
+        "actions_prises": "Actions prises",
+        "la_pharmacienne_de_equipe": "LA PHARMACIENNE DE L’ÉQUIPE",
+        "msg1": "Êtes-vous sûr de vouloir valider vos choix ?",
+        "bonnes_reponses_msg": "Voici les bonnes réponses en vert",
+        "msg_signal": "Quel est l'intitulé du signal que vous avez identifié?",
+        "bonnes_reponses": "Bonne réponse",
+        "mauvaise_reponse": "Mauvaise réponse",
+        "commencer": "Commencer",
+        "aucun_signal": "Aucun signal a identifier dans cette base de données",
+        "msg4": "La détection de signal est une des missions essentielles de la pharmacovigilance. Nous devons étudier avec précision les bases de données constituées pour ne rien laisser passer."
+      }
+    },
+    "modals": {
+      "notee": "C'est noté",
+      "notyet": "Pas encore",
+      "yes": "Oui",
+      "no": "Non",
+      "finished": "Terminer",
+      "expertTitle": " L’EXPERT PR. DIRA",
+      "day2": {
+        "startModal": {
+          "title": "Le Médecin de l'équipe",
+          "body1": " L’équipe est au complet ! Nous sommes prêts à contribuer au développement du centre.",
+          "body2": "La pharmacovigilance semble passionnante, et notre pays en a bien besoin. Cependant, à part quelques cours à la fac de médecine, je n'ai pas beaucoup de pratique en Pharmacovigilance. Nous avons entendu parler de plusieurs formations très intéressantes à ce sujet."
+        },
+        "confirmationModal": {
+          "title": "Le Médecin de l'équipe",
+          "body": "Êtes-vous sûr de vouloir valider vos choix ?"
+        },
+        "expert": {
+          "body": "Vous avez fait le nécessaire pour former votre équipe. Rendez-vous dans l’espace “Rapport d’Activité” pour savoir si vous avez fait les bons choix !"
+        }
+      },
+      "day3": {
+        "startModal": {
+          "title": "Le ministre",
+          "btnText": "Commencer",
+          "body": "La pharmacovigilance est une discipline où la collaboration internationale est essentielle. Il existe plusieurs parties prenantes auprès desquelles vous pouvez vous rapprocher pour faire évoluer votre centre à tous les niveaux."
+        },
+        "confirmationModal": {
+          "title": "Le ministre",
+          "body": "Êtes-vous sûr de vouloir valider vos choix ?"
+        },
+        "expert": {
+          "body": "Bravo ! La mission de votre Centre commence à se concrétiser, mais nous sommes encore au début et il y a encore beaucoup de chemin à parcourir. Continuez votre travail, et n’hésitez pas à vous référer aux différents guides de l’OMS pour prendre les meilleures décisions. Rendez-vous dans l’espace “Rapport d’Activité” pour voir votre score"
+        }
+      },
+      "day7": {
+        "startModal": {
+          "btnText": "Commencer",
+          "body": "Voilà, nous avons plusieurs notifications complètes pour lesquelles nous pouvons faire l’analyse d’imputabilité. Il s’agit ici de déterminer si la prise d’un médicament est réellement la cause de la survenue d’un événement ou d’une maladie et donc, s’il existe un lien de causalité potentiel entre l’évènement indésirable et le médicament."
+        },
+        "confirmationModal": {
+          "title": "Le Médecin de l'équipe",
+          "body": "Êtes-vous sûr de vouloir valider vos choix ?"
+        },
+        "expert": {
+          "body": "Bravo ! La mission de votre Centre commence à se concrétiser, mais nous sommes encore au début et il y a encore beaucoup de chemin à parcourir. Continuez votre travail, et n’hésitez pas à vous référer aux différents guides de l’OMS pour prendre les meilleures décisions. Rendez-vous dans l’espace “Rapport d’Activité” pour voir votre score"
+        }
+      },
+      "day4": {
+        "startModal": {
+          "title1": "Le Médecin de l'équipe ",
+          "text1": "La première étape dans le process de pharmacovigilance c’est la collecte des effets indésirables. Comment faire à votre avis? ",
+          "title2": "L'analyste de l’équipe ",
+          "text2": "Avant tout, il nous faut une fiche de notification, et un système de collecte. ",
+          "title3": "La pharmacienne de l’équipe ",
+          "text3": "Oui, tu as raison, mais il faut également faire connaitre le centre et ses activités, et surtout prendre contact avec les professionnels de la santé qui seront nos partenaires privilégiés. "
+        },
+        "startPart2": {
+          "text": "Comme demandé nous avons essayé de créer notre fiche de notification. Cependant, nous hésitons sur les éléments à intégrer.   Pouvez-vous nous aider en choisissant les 12 éléments indispensables de la fiche de notification ?"
+        },
+        "confirmationModal": {
+          "title": "L'analyste de l’équipe",
+          "text": "Êtes-vous sûr de vouloir valider vos choix ?"
+        },
+        "expert": {
+          "body": "Vous avez bouclé cette quatrième étape, mais attention, la pharmacovigilance est un marathon et non un sprint. Le plus important est de prendre des décisions qui s’inscrivent dans la durée. Rendez-vous dans l’espace “Rapport d’Activité“ pour voir votre score.",
+          "title": "Le ministre"
+        }
+      },
+      "day5": {
+        "startModal": {
+          "title": "La pharmacienne de l’équipe ",
+          "text": "Notre centre est fonctionnel et notre fiche de notification prête.  Nous devons maintenant mettre en place le circuit de notification afin de s’assurer que le cheminement de collecte et de transmission des notifications est efficace."
+        },
+        "centreNationalPV": {
+          "modal2": {
+            "title": "Le Médecin de l'équipe ",
+            "text": "Êtes-vous sûr de vouloir valider vos choix ? "
+          }
+        },
+        "finalModal": {
+          "title": "Le Médecin de l'équipe",
+          "text": "Nous avons fini la mise en place du circuit de notification, j'espère que nous avons fait les bons choix."
+        },
+        "expert": {
+          "text": "Vous avez construit votre circuit de notification afin de centraliser les notifications d'effets indésirables au niveau du centre. Vous devez commencer à recevoir des notifications sous peu. N'oubliez pas de consulter votre score et votre classement"
+        }
+      },
+      "day6": {
+        "startModal": {
+          "title": "Le Médecin de l'équipe ",
+          "text": " Nous avons reçu plusieurs notifications d’événement indésirable, par mail, par sms et sous format papier. Nous devons les traiter pour s’assurer de leur qualité et exhaustivité."
+        },
+        "confirmationModal": {
+          "title": "Le Médecin de l'équipe",
+          "text": "Êtes-vous sûr de vouloir valider vos choix ?"
+        },
+        "expert": {
+          "body": "Vous avez bouclé cette quatrième étape, mais attention, la pharmacovigilance est un marathon et non un sprint. Le plus important est de prendre des décisions qui s’inscrivent dans la durée. Rendez-vous dans l’espace “Rapport d’Activité“ pour voir votre score.",
+          "title": "Le ministre",
+          "text": "Très bien, maintenant que vous avez validé les notifications, nous pouvons passer à la prochaine étape du processus de pharmacovigilance. Rendez-vous dans les rubriques \"Rapport d'Activité\" et \"Classements\" pour en savoir plus sur votre score."
+        }
+      },
+      "day8": {
+        "startModal": {
+          "title": "L'analyste de l’équipe ",
+          "text": "Maintenant que nous avons classifié les médicaments et les effets indésirables, nous devons renseigner nos cas dans les bases de données nationales et internationales afin de les comparer et détecter des signaux éventuels."
+        },
+        "confirmationModal": {
+          "title": "Le Médecin de l'équipe",
+          "text": "Êtes-vous sûr de vouloir valider vos choix ?"
+        },
+        "expert": {
+          "body": "Vous avez bouclé cette quatrième étape, mais attention, la pharmacovigilance est un marathon et non un sprint. Le plus important est de prendre des décisions qui s’inscrivent dans la durée. Rendez-vous dans l’espace “Rapport d’Activité“ pour voir votre score.",
+          "title": "Le ministre"
+        }
+      },
+      "day9": {
+        "expert": {
+          "text": "La performance d'un système de vigilance se mesure par la précocité, le nombre et la qualité des signaux détectés. Rendez-vous dans le  \"Rapport d'activité\"  pour voir votre score."
+        }
+      },
+      "day10": {
+        "expert": {
+          "text": "BRAVO ! Vous avez accompli vos 10 missions et terminé le PV GAME. N'hésitez pas à discuter vos décisions avec les autres participants ou les formateurs pour mieux comprendre certaines notions."
+        }
+      },
+      "score": {
+        "Score_structurel": "Score de Structure",
+        "Score_Process": "Score de Notification",
+        "Score_Outcome": "Score d'Action"
+      },
+      "badges": {
+        "notif": {
+          "title": "badge Notification",
+          "body": "Félicitations ! Grâce à vos actions, vous avez remporté le badge Notification. Rendez-vous dans la vue des badges pour plus de détails."
+        },
+        "imputability": {
+          "title": "badge Imputabilité",
+          "body": "Félicitations ! Grâce à vos actions, vous avez remporté le badge Imputabilité. Rendez-vous dans la vue des badges pour plus de détails."
+        },
+        "oms": {
+          "title": "badge OMS",
+          "body": "Félicitations ! Grâce à vos actions, vous avez remporté le badge des meilleures pratiques OMS. Rendez-vous dans la vue des badges pour plus de détails"
+        }
+      },
+      "regle": {
+        "title": "Règles Du Jeu",
+        "text1": "Ce jeu de simulation a été imaginé à partir des&nbsp;<b>bonnes pratiques de pharmacovigilance.</b> Les standards utilisés ont été inspirés par les différents guides de l’OMS, par l’expérience du centre marocain de pharmacovigilance et par les comportements consensuellement considérés comme étant la norme dans ce domaine. Au-delà de mesurer vos connaissances théorique en pharmacovigilance, ce jeu permettra également d’évaluer vos « soft skills » et votre &nbsp; <b> capacité à prendre des décisions en situation réelle.</b>",
+        "text2": "Dans le PV Game, vous vous mettez dans la peau d’un&nbsp;<b>professionnel de la Pharmacovigilance </b> fraichement nommé pour &nbsp;<b>mettre en place et développer le centre national de pharmacovigilance </b> de son pays. Guidé par le ministre de la santé, un expert international ainsi que votre équipe, votre objectif sera de hisser votre centre afin qu’il devienne une référence nationale et internationale dans la détection et la gestion des effets indésirables des médicaments.",
+        "text3": "Le « Parcours » est composé de &nbsp;<b>10 niveaux, </b> chaque niveau étant un challenge à part entière et représentant une portion du métier de la pharmacovigilance. Pour chaque niveau vous allez devoir &nbsp;<b>prendre des décisions </b> en fonction de ce qui vous semble le plus pertinent. Attention, il se peut que vous soyez contraints d’éliminer des éléments qui vous semblent corrects, le plus important étant que les décision que vous prenez soient meilleures que celles éliminées.",
+        "text4": "A la fin de chaque niveau, selon la justesse de vos réponses, vous aurez amélioré votre score et vous recevrez une à trois étoiles qui s’afficheront sur chaque niveau. Le score est construit sur la base trois éléments :   ",
+        "text5": "- La structure de votre centre, mesurée par le <b> score de structure ; </b> ",
+        "text6": "- Votre potentiel à collecter des notifications, mesuré par le <b>  score de notification ;</b> ",
+        "text7": "- Votre capacité à traiter et à exploiter ces notifications pour prendre des actions concrètes, mesurée par le <b> score d’action.</b>  ",
+        "text8": "Tant que vous êtes sur un niveau, vous pouvez modifier vos décisions autant de fois que vous le souhaitez. Mais, une fois que vous avez validé un niveau, vous ne pourrez plus modifier vos réponses, revoyez donc bien vos décisions avant de faire la validation finale.",
+        "text9": "Tout au long du jeu, si vous démontrez de l’excellence dans certains domaines vous pourrez obtenir <b> un ou plusieurs badges,</b>  &nbsp;rendez-vous dans la rubrique « Badges » pour en savoir plus.",
+        "text10": "A tout moment vous pouvez vous rendre dans la rubrique « Rapport d’activité » pour comprendre votre score et la rubrique « Classement » pour savoir où vous vous situez par rapport aux autres participants.",
+        "text11": "N’hésitez pas à vous référer aux différents contenus pédagogiques et ressources internet qui ont été mis à votre disposition lors des précédents modules. Et surtout, n’oubliez pas de vous amuser.",
+        "text12": "Avant de commencer, configurez votre personnage."
+      }
+    },
+    "finEdge": {
+      "title": "FinEdge",
+      "index": {
+        "welcome": "Bienvenu au",
+        "businessGameS": "Business game Finance",
+        "descriptionWelcome": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui.",
+        "title1": "Analyse des marchés",
+        "title2": "Gestion de portefeuille",
+        "title3": "Compétition et challenge",
+        "start": "Démarrer",
+        "back": "Retour a la formation"
+      },
+      "sidebar": {
+        "theoryRules": "Théorie et règle du jeu",
+        "marketView": "Vue des marchés",
+        "portefeuille": "Portefeuille",
+        "statsrisques": "Stats et risques",
+        "classement": "Classement des joueurs"
+      },
+      "theoryRules": {
+        "title": "Théorie et règle du jeu",
+        "theory": "Théorie",
+        "rules": "Règle du jeu",
+        "theoryData": {
+          "title1": "Description des marchés",
+          "description1": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next1": "Description des types de produits",
+
+          "title2": "Description des types de produits",
+          "description2": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next2": "Description De la différence Bid/Ask",
+          "previous2": "Description des marchés",
+
+          "title3": "Description De la différence Bid/Ask",
+          "description3": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next3": "Description de la notion de portefeuille, Beta marché, Allocation efficiente (markowitz)",
+          "previous3": "Description des types de produits",
+
+          "title4": "Description de la notion de portefeuille, Beta marché, Allocation efficiente (markowitz)",
+          "description4": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next4": "Description des Risks: VaR, P&L, Ratio de Sharp, Concentration des actifs, delta, gamma",
+          "previous4": "Description De la différence Bid/Ask",
+
+          "title5": "Description des Risks: VaR, P&L, Ratio de Sharp, Concentration des actifs, delta, gamma",
+          "description5": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next5": "Notions clés: la liquidité, le cash,",
+          "previous5": "Description de la notion de portefeuille, Beta marché, Allocation efficiente (markowitz)",
+
+          "title6": "Notions clés: la liquidité, le cash,",
+          "description6": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "previous6": "Description des Risks: VaR, P&L, Ratio de Sharp, Concentration des actifs, delta, gamma"
+        },
+        "rulesData": {
+          "title1": "Rappeler le challenge, l'enjeu",
+          "description1": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next1": "Expliquer les options possibles pour le joueur, la fréquence de recalcul, les sources de données",
+
+          "title2": "Expliquer les options possibles pour le joueur, la fréquence de recalcul, les sources de données",
+          "description2": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next2": "Expliquer le calcul de la valorisation du PTF",
+          "previous2": "Rappeler le challenge, l'enjeu",
+
+          "title3": "Expliquer le calcul de la valorisation du PTF",
+          "description3": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next3": "Mettre toutes les formules utiles pour l'expérience",
+          "previous3": "Expliquer les options possibles pour le joueur, la fréquence de recalcul, les sources de données",
+
+          "title4": "Mettre toutes les formules utiles pour l'expérience",
+          "description4": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "next4": "Hypothèses de travail",
+          "previous4": "Expliquer le calcul de la valorisation du PTF",
+
+          "title5": "Hypothèses de travail",
+          "description5": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause ambiguë entendue à Moÿ, dans un capharnaüm qui, pense-t-il, diminue çà et là la qualité de son œuvre. Prouvez, beau juge, que le fameux sandwich au yak tue. L'île exiguë, Où l'obèse jury mûr Fête l'haï volapük, Âne ex æquo au whist, Ôtez ce vœu déçu. Vieux pelage que je modifie : breitschwanz ou yak ? Dès Noël où un zéphyr haï me vêt de glaçons würmiens, je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera ! Fougueux, j'enivre",
+          "previous5": "Mettre toutes les formules utiles pour l'expérience"
+        }
+      },
+      "classement": {
+        "title": "Félicitations pour votre classement !",
+        "subTitle": "Vous êtes maintenant",
+        "first": "er",
+        "second": "ème",
+        "valorisation": "Valorisation",
+        "performance": "Performance",
+        "progression": "Progression",
+        "ratioSharpe": "Ratio de Sharpe"
+      },
+      "order": {
+        "title": "Passer un ordre de bourse",
+        "chooseValue": "Choisir une valeur",
+        "chooseMarket": "Choisir un marché",
+        "sensOperation": "Sens de l'opération",
+        "achat": "Achat",
+        "vente": "Vente à découvert",
+        "quantity": "Quantité",
+        "orderType": "Type d'ordre",
+        "market": "Au marché",
+        "limitedPrice": "A cours limité",
+        "limitedPriceInfo": "Le principe de l’ordre à cours limité est de fixer un seuil maximal (ou minimal en cas de vente) pour l'achat (ou la vente) de ses actions. Grâce à l’existence de cette limite, pas de mauvaise surprise : l’investisseur détermine à l'avance le montant maximal qu'il est prêt à engager pour acheter des titres et, a contrario, le montant minimal qu'il encaissera en cas de vente",
+        "orderStopInfo": "Les « ordres stop » ou « stop loss » en anglais sont des ordres de vente (ou d'achat) destinés à se protéger contre une chute (ou une augmentation) de l'action que l'on possède en portefeuille (ou qui a été shortée). Ils permettent de déterminer le montant maximal de perte que l'on est prêt à subir en cas de scénario contraire à celui anticipé",
+        "marketInfo": "Voyez ce jeu exquis wallon, de graphie en kit mais bref. Portez ce vieux whisky au juge blond qui fume sur son île intérieure, à côté de l'alcôve ovoïde, où les bûches se consument dans l'âtre, ce qui lui permet de penser à la cænogenèse de l'être dont il est question dans la cause",
+        "orderStop": "Ordre stop",
+        "note": "* Les ordres stop et à cours limité ont une validité de 24 heures",
+        "cancel": "Annuler",
+        "envoyer": "Envoyer l'ordre",
+        "titleConfirmation": "Êtes-vous sure de valider cet ordre ?",
+        "value": "Valeur",
+        "no": "Non",
+        "yes": "Oui"
+      }
+    }
+  }
+}

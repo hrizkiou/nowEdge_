@@ -1,0 +1,44 @@
+// 
+// authentication.scss
+//
+
+.authentication-bg.enlarged {
+    min-height: 100px;
+}
+
+// authentication pages background
+body.authentication-bg {
+  
+}
+
+.home-btn {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+}
+
+// Logout page
+.logout-icon {
+    width: 240px;
+}
+
+
+.logout-mobile {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+
+.logout-mobile {
+    display: flex;
+    // border: 1px solid red;
+    flex-direction: row-reverse
+}
+
+}
+
+.logout-btn {
+   display: inline-block;
+   width: 32px;
+   margin-top: 10px;
+}

@@ -1,0 +1,60 @@
+[
+   
+  {
+    "startDate": "2020-05-15",
+    "endDate": "2020-06-11",
+    "moduleAffectationId": 40,
+    "moduleInstanceId": 46,
+    "moduleInstanceName": "Instance 1",
+    "numberOfNotions": 9,
+    "numberOfParticipants": 3,
+    "numberOfQuizzes": 3,
+    "trainingSessionCode": "49bfb64a041ec15a7dcb37dbac8c9b4897701a55671ea48bc43e8997bc61ee02",
+    "trainingSessionId": 304,
+    "trainingSessionName": "Training Session 1"
+  },
+   
+  {
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-30",
+    "moduleAffectationId": 40,
+    "moduleInstanceId": 46,
+    "moduleInstanceName": "Instance 1",
+    "numberOfNotions": 9,
+    "numberOfParticipants": 3,
+    "numberOfQuizzes": 3,
+    "trainingSessionCode": "49bfb64a041ec15a7dcb37dbac8c9b4897701a55671ea48bc43e8997bc61ee02",
+    "trainingSessionId": 304,
+    "trainingSessionName": "Training Session 1"
+  },
+   
+  {
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-20",
+    "moduleAffectationId": 40,
+    "moduleInstanceId": 46,
+    "moduleInstanceName": "Instance 1",
+    "numberOfNotions": 9,
+    "numberOfParticipants": 3,
+    "numberOfQuizzes": 3,
+    "trainingSessionCode": "49bfb64a041ec15a7dcb37dbac8c9b4897701a55671ea48bc43e8997bc61ee02",
+    "trainingSessionId": 304,
+    "trainingSessionName": "Training Session 1"
+  },
+   
+  {
+    "startDate": "2020-08-15",
+    "endDate": "2020-08-20",
+    "moduleAffectationId": 40,
+    "moduleInstanceId": 46,
+    "moduleInstanceName": "Instance 1",
+    "numberOfNotions": 9,
+    "numberOfParticipants": 3,
+    "numberOfQuizzes": 3,
+    "trainingSessionCode": "49bfb64a041ec15a7dcb37dbac8c9b4897701a55671ea48bc43e8997bc61ee02",
+    "trainingSessionId": 304,
+    "trainingSessionName": "Training Session 1"
+  }
+  
+   
+]

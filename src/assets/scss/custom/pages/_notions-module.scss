@@ -1,0 +1,67 @@
+$font-k: "Karla";
+$color-text: #080e5e;
+ 
+
+.ellipsis-position-notions {
+  position: absolute;
+  right: 20px;
+  bottom: 32px;
+}
+ 
+.mt-22{
+  margin-top: 22px;
+} 
+.ml-24{
+  margin-left: 24px;
+}
+.mb-18{
+  margin-bottom: 18px;
+}
+
+.item { 
+  background-color: #fff; 
+  opacity: 1;
+  cursor: pointer;
+}
+ 
+
+.item .body {
+  margin: 0;
+  margin-bottom: 0.3rem;
+}
+
+.item .small {
+  font-size: 66%;
+  text-align: right;
+}
+
+.dragged .item {
+  opacity: 0.25;
+  border-top: 1px solid #E9EDF0;
+  border-bottom: 1px solid #ffffff;
+}
+
+.floating .item {
+  background-color: #E9EDF0;
+  box-shadow: 0 4px 20px #E9EDF0;
+}
+
+.dl-item.floating {
+  width: 85%;
+}
+
+.items-container {
+  padding-left: 6px;
+}
+
+.swal-footer {
+  text-align: center;
+}
+
+.text-max-1{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}

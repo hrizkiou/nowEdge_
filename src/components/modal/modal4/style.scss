@@ -1,0 +1,88 @@
+//------------
+.dayOneModal-cost {
+  position: relative;
+  width: 974px;
+  height: 529px;
+  background-color: white;
+  margin: 0 auto;
+  display: flex;
+  border: 1px solid;
+  .block-1 {
+    flex: 1;
+    background-color: #a7dcf1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 35px;
+    background-position-y: 100%;
+    display: flex;
+    .img {
+      width: 132%;
+    }
+  }
+  .block-2 {
+    flex: 3;
+    background-image: url('../../../assets/images/StrategicGame/Imagehsyu73252.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+    background-position-y: 0px;
+    position: relative;
+
+    .block-2-black {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: 100;
+      background-color: #070708bd;
+    }
+    .btns-group {
+      position: absolute;
+      z-index: 130;
+      bottom: 33px;
+      right: 33px;
+      .btn-def {
+        background-color: white;
+        color: #343a40;
+      }
+    }
+    .discussMessageCustom {
+      max-width: 583px;
+      background: #ffffff 0% 0% no-repeat padding-box;
+      border-radius: 4px;
+      top: 10%;
+      left: 5%;
+      position: absolute;
+      padding: 20px;
+      border: 1px solid;
+      z-index: 140;
+      text-align: left;
+      font: normal normal normal 14px/17px Karla;
+      letter-spacing: 0.28px;
+      color: #343a40;
+      opacity: 1;
+      span {
+        text-align: left;
+        font: normal normal bold 16px/17px Karla;
+        letter-spacing: 0.32px;
+        color: #71b6f9;
+        text-transform: uppercase;
+        opacity: 1;
+        margin-bottom: 15px;
+      }
+      p {
+        margin-top: 10px;
+      }
+      &::after {
+        content: '';
+        // background-color: white;
+        // width: 60px;
+        // height: 48px;
+        // -webkit-clip-path: polygon(50% 10%, 50% 90%, 0% 50%);
+        // clip-path: polygon(50% 10%, 50% 90%, 0% 50%);
+        // position: absolute;
+        // left: -5%;
+        // top: 40%;
+      }
+    }
+  }
+}

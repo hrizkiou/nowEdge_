@@ -1,0 +1,179 @@
+.custom-modal {
+    display: block; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+  }
+
+
+.modal_block_1 {
+    background-image: url('../../../assets/images/StrategicGame/woman_crossing_arms.png');
+    flex: 1.5 1;
+    background-color: #D3CFF3;
+    height: 70vh;
+    background-size: contain;
+    background-position-y: 160px;
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+    z-index: 1000;
+  }
+  .modal_block_2 {
+    position: relative;
+    background-image: url('../../../assets/images/StrategicGame/group_3746.png');
+  
+    flex: 4;
+ 
+    background-size: contain;
+ 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    .btn-msg-can {
+      position: absolute;
+      z-index: 200;
+      bottom: -19px;
+      right: 200px;
+      color: #343a40;
+      background-color: #fff;
+    }
+    .btn-msg {
+      position: absolute;
+      z-index: 200;
+      bottom: -19px;
+      right: 59px;
+    }
+    .msg {
+      width: 90%;
+      background-color: white;
+      z-index: 300;
+      position: absolute;
+      left: 5%;
+      padding: 10px 20px;
+      top: 20%;
+      border-radius: 4px;
+
+      &::before {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        border-top: 12px solid transparent;
+        border-bottom: 12px solid transparent;
+        border-right: 12px solid #ffffff;
+        position: absolute;
+        top: 50px;
+        left: -12px;
+      }
+      h3 {
+        text-align: left;
+        font: normal normal bold 16px/17px Karla;
+        letter-spacing: 0.32px;
+        color: #71b6f9;
+        text-transform: uppercase;
+        opacity: 1;
+      }
+      p {
+        text-align: left;
+        font: normal normal normal 14px/17px Karla;
+        letter-spacing: 0.28px;
+        color: #343a40;
+        opacity: 1;
+      }
+    }
+    .msg2 {
+      width: 90%;
+      background-color: white;
+      z-index: 300;
+      position: absolute;
+      left: 5%;
+      padding: 10px 20px;
+      top: 50%;
+      border-radius: 4px;
+      .label{
+        text-align: left;
+        font: normal normal normal 14px/17px Karla;
+        letter-spacing: 0.28px;
+        color: #343A40;
+        opacity: 1;  
+      }
+    //   h3 {
+    //     text-align: left;
+    //     font: normal normal bold 16px/17px Karla;
+    //     letter-spacing: 0.32px;
+    //     color: #71b6f9;
+    //     text-transform: uppercase;
+    //     opacity: 1;
+    //   }
+    //   p {
+    //     text-align: left;
+    //     font: normal normal normal 14px/17px Karla;
+    //     letter-spacing: 0.28px;
+    //     color: #343a40;
+    //     opacity: 1;
+    //   }
+    }
+    .msg3 {
+        text-align: left;
+        font: normal normal normal 12px/17px Karla;
+        letter-spacing: 0.24px;
+        color: #FFFFFF;
+        z-index: 300;
+        position: absolute;
+        left: 5%;
+        top: 43%;
+    }
+    // &::before {
+    //   background-color: #000000;
+    //   opacity: 66%;
+    //   content: '';
+    //   width: 100%;
+    //   height: 100%;
+    //   z-index: 200;
+    //   position: absolute;
+    // }
+
+    .btn_msg{
+      z-index: 300;
+      position: absolute;
+      bottom: 5%;
+      right: 5%;
+    }
+    .btn_msg2{
+      z-index: 300;
+      position: absolute;
+      bottom: 5%;
+      right: 26%;
+      background-color: #F6F7FC;
+      text-align: left;
+      font: normal normal normal 13px/16px Karla;
+      letter-spacing: 0.26px;
+      color: #343A40;
+      padding: 10px;
+    }
+
+    .block_rep{  
+      text-align: left;
+      font: normal normal bold 12px/17px Karla;
+      letter-spacing: 0.24px;
+      z-index: 300;
+      position: absolute;
+      left: 5%;
+      top: 70%;
+    }
+
+    .valid_resp{
+      color: #28CA78;
+      background-color: #CFF3E1;
+    }
+    .no_valid_resp{
+      color: #FF5B5B;
+      background-color: #FFDEDE;
+    }
+  }
+

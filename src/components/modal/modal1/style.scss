@@ -1,0 +1,109 @@
+//------------
+.dayOneModal {
+  position: relative;
+  width: 974px;
+  height: 529px;
+  background-color: white;
+  margin: 0 auto;
+  background-image: url('../../../assets/images/StrategicGame/bgModaldayone.png');
+
+  .discussMessageCustom {
+    width: 583px;
+    height: auto;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    bottom: 41%;
+    left: 25%;
+    position: absolute;
+    padding: 20px;
+
+    text-align: left;
+    font: normal normal normal 14px/17px Karla;
+    letter-spacing: 0.28px;
+    color: #343a40;
+    opacity: 1;
+    span {
+      text-align: left;
+      font: normal normal bold 16px/17px Karla;
+      letter-spacing: 0.32px;
+      color: #71b6f9;
+      text-transform: uppercase;
+      opacity: 1;
+      margin-bottom: 15px;
+    }
+    p {
+      margin-top: 10px;
+    }
+    &::after {
+      content: '';
+      background-color: white;
+      width: 60px;
+      height: 48px;
+      -webkit-clip-path: polygon(50% 10%, 50% 90%, 0% 50%);
+      clip-path: polygon(50% 10%, 50% 90%, 0% 50%);
+      position: absolute;
+      left: -5%;
+      top: 45%;
+    }
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-image: url('../../../assets/images/StrategicGame/persondayone.png');
+    width: 260px;
+    height: 340px;
+  }
+}
+
+//-----------
+.budget_restant-mod {
+  position: absolute;
+  right: 3%;
+  bottom: 6%;
+
+  & span {
+    text-align: right;
+    font: normal normal bold 20px/17px Karla;
+    letter-spacing: 0.4px;
+    display: block;
+    color: #59b85d;
+  }
+
+  & p {
+    text-align: right;
+    font: normal normal normal 15px/17px Karla;
+    letter-spacing: 0.3px;
+    color: #000000;
+  }
+
+  & div {
+    width: 173px;
+    height: 40px;
+    background: #71b6f9 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 15px;
+
+    & span {
+      text-align: left;
+      font: normal normal bold 14px/17px Karla;
+      letter-spacing: 0.28px;
+      color: #ffffff;
+    }
+  }
+}
+
+///-------------
+.daysModal {
+  min-width: 100%;
+  background-color: transparent;
+
+  & .modal-content {
+    background-color: transparent;
+  }
+}

@@ -1,0 +1,427 @@
+.sg-menu-contant {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  overflow: hidden;
+}
+.sg-menu-contant-left {
+  display: flex;
+  flex-direction: column;
+  flex: 4;
+}
+
+.sg-menu-item-btn {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 26px;
+  margin-right: 32px;
+}
+
+.sg-menu-item-title {
+  text-align: left;
+  font: normal normal bold 15px/10px Karla;
+  letter-spacing: 0px;
+  color: #323a46;
+  opacity: 1;
+  margin-left: 6px;
+}
+
+.sg-menu-item-title-logo {
+  font: normal normal 600 36px/43px Cairo;
+letter-spacing: 0.43px;
+color: #3F4351;
+}
+
+.sg-menu-item-title-p1 {
+  text-align: left;
+  font: normal normal normal 38px/41px Karla;
+  letter-spacing: 0.76px;
+  color: #343a40;
+  text-transform: uppercase;
+}
+.sg-menu-item-title-p2 {
+  text-align: left;
+  font: normal normal bold 38px/41px Karla;
+  letter-spacing: 0.76px;
+  color: #343a40;
+  text-transform: uppercase;
+}
+
+.sg-menu-item-title-p3 {
+  text-align: left;
+  font: normal normal normal 12px/17px Karla;
+  letter-spacing: 0.24px;
+  color: #343a40;
+  opacity: 1;
+}
+
+.sg-menu-item-box {
+  display: flex;
+  flex-direction: column;
+  flex: 0.28;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  border-radius: 30px;
+  background-color: #fff;
+  font: normal normal normal 16px/23px Karla;
+  color: #3F4351;
+
+  &:hover {
+    background: #71bdf6 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 40px #6baff399;
+    border-radius: 30px;
+    opacity: 1;
+    color: #fff;
+    cursor: pointer;
+  }
+}
+
+.parc-btnQ{
+  text-align: left;
+  font: normal normal bold 14px/17px Karla;
+  letter-spacing: 0.28px;
+  color: #2874b3;
+  opacity: 1;
+  cursor: pointer;
+}
+.sg-menu-item-btn-config {
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 10px 40px #a0a2a599;
+  position: absolute;
+  display: none;
+  top: 70px;
+  width: 192px;
+  &:hover {
+    display: inline-block;
+    cursor: pointer;
+  }
+}
+.sg-menu-item-btn-config-p {
+  background-color: transparent;
+  border-radius: 4px;
+  position: absolute;
+  display: none;
+  top: 70px;
+  // width: 192px;
+  display: none;
+  flex-direction: column;
+  &:hover {
+    // display: inline-block;
+    cursor: pointer;
+  }
+}
+
+.sg-menu-item-btn-config-s {
+  padding: 5px 20px 5px 20px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  background-color: #ebeff2;
+}
+
+.sg-menu-item-btn-config-sp {
+  padding: 5px 20px 5px 20px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  color: #0760a5;
+}
+
+.sg-menu-item-box-img {
+  align-self: center;
+}
+
+.sg-menu-item-box-container {
+  flex: 4;
+  // background-color: red;
+}
+
+.sg-menu-item-box-row {
+  min-height: 40%;
+  // background: hsla(200, 50%, 80%, 1);
+}
+
+.sg-menu-mod-contaiber {
+  display: flex;
+}
+
+.sg-menu-mod-lr {
+  display: flex;
+  flex: 1;
+  flex-direction: column-reverse;
+  // border: 1px solid black;
+}
+.sg-menu-mod-c {
+  display: flex;
+  flex-direction: column;
+  flex: 3;
+  // border: 1px solid black;
+  justify-content: center;
+}
+
+.sg-menu-mod-title-p1 {
+  text-align: center;
+  font: normal normal normal 28px/41px Karla;
+  letter-spacing: 0.56px;
+  color: #343a40;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.sg-menu-mod-title-p2 {
+  text-align: center;
+  font: normal normal bold 28px/41px Karla;
+  letter-spacing: 0.56px;
+  color: #343a40;
+  text-transform: uppercase;
+}
+
+.sg-menu-mod-select-avatar {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  opacity: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 0px;
+  height: 44px;
+}
+
+.sg-onHover {
+  padding-bottom: 10px;
+  &:hover {
+    .sg-menu-item-btn-config {
+      display: inline-block;
+    }
+    .sg-menu-item-btn-config-p {
+      display: flex;
+    }
+  }
+}
+
+.mainBackground {
+  background-image: url('../../../images/StrategicGame/Group4068@2x.jpg');
+  width: 100vw;
+  height: 100vh;
+  // min-width: 768px;
+  // min-height: 621px;
+  background-size: 100% 100%;
+  // position: relative;
+}
+
+%parc-box-all {
+  width: 90px;
+  height: 90px;
+  background-color: #fff;
+  position: absolute;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+
+  &:hover {
+    width: 200px;
+    height: 120px;
+    border-radius: 5px;
+    z-index: 200;
+  }
+}
+
+.parc-box-img {
+  width: 65px;
+  height: 65px;
+  // border-radius: 50%;
+  // border: 1px solid black;
+}
+.parc-box-img-2 {
+  width: 65px;
+  height: 65px;
+  // border-radius: 50%;
+  margin-left: 10px;
+}
+.parc-box-content {
+  border: 1px solid black;
+}
+
+.exampleContene-s {
+  
+  display: none;
+  background-color: #fff;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 275px;
+  border-radius: 8px;
+  z-index: 200;
+  opacity: 0;
+  transition: 1.5s opacity;
+}
+
+.example-contene {
+  display: flex;
+  background-color: #fff;
+  width: 116px;
+  height: 116px;
+  align-items: center;
+  border-radius: 50%;
+  justify-content: center;
+}
+
+.hhkjshd {
+  display: flex;
+  width: 116px;
+  height: 116px;
+  z-index: 100;
+  &:hover {
+    z-index: 200;
+    .exampleContene-s {
+      display: flex;
+      opacity: 1;
+      box-shadow: 0px 10px 40px #6baff399;
+    }
+    .example-contene {
+      opacity: 0;
+    }
+  }
+}
+
+.detaile-proc {
+  display: none !important;
+}
+
+.par-row2 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  h3 {
+    span:first-child {
+      text-align: center;
+      font: normal normal normal 28px/41px Karla;
+      letter-spacing: 0.56px;
+      color: #ffffff;
+      text-transform: uppercase;
+      font-weight: 400;
+    }
+    .title-x {
+      text-align: center;
+      font: normal normal bold 28px/41px Karla;
+      letter-spacing: 0.56px;
+      color: #ffffff;
+      text-transform: uppercase;
+    }
+  }
+  p {
+    text-align: center;
+    font: normal normal normal 12px/17px Karla;
+    letter-spacing: 0.24px;
+    color: #ffffff;
+    opacity: 1;
+  }
+}
+
+.par-row1 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 18px;
+  padding-right: 70px;
+  padding-left: 70px;
+}
+
+.par-btn-drap-text {
+  text-align: left;
+  font: normal normal bold 15px/10px Karla;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.parc-btnQ {
+  width: 95px;
+  height: 40px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+  text-align: center;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-badge {
+  display: flex;
+  flex-direction: column;
+  // background-color: #0760a5;
+  height: 100vh;
+}
+
+.badge-title {
+  text-align: center;
+  font: normal normal bold 38px/41px Karla;
+  letter-spacing: 0.76px;
+  color: #343a40;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.badge-parg {
+  text-align: center;
+  font: normal normal normal 13px/17px Karla;
+  letter-spacing: 0.26px;
+  color: #343a40 !important;
+  opacity: 1;
+}
+
+.bdg-row1 {
+  display: flex;
+  margin: 3% 10%;
+  justify-content: center;
+  align-content: center;
+  // align-items: center;
+  // flex: 1;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    // border: 1px solid black;
+    margin-right: 40px;
+    align-items: center;
+    text-align: center;
+    // justify-content: center;
+    // border: 1px solid black;
+
+    .badge-block {
+      flex: none;
+      border-radius: 50%;
+      background-color: #ffffff;
+      display: flex;
+      height: 154px;
+      width: 154px;
+      align-self: center;
+      margin: 0px 0px;
+      display: flex;
+      justify-content: center;
+      img {
+        width: 100px;
+        height: 80px;
+      }
+    }
+
+    h3 {
+      text-align: center;
+      font: normal normal normal 18px/36px Karla;
+      letter-spacing: 0px;
+      color: #3f4351;
+      opacity: 1;
+    }
+    p {
+      text-align: center;
+      font: normal normal normal 12px/15px Karla;
+      letter-spacing: 0px;
+      color: #5f6469;
+      opacity: 1;
+      padding: 0px 23px;
+    }
+  }
+}

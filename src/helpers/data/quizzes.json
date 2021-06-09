@@ -1,0 +1,35 @@
+[
+      {
+            "trainingSessionId": 1,
+            "quizCompetitionId": 1,
+            "participantUserId": 2,
+            "quizId": 1,
+            "quizName": "Quiz Before",
+            "description": "Quiz before the course",
+            "estimatedTime": 30,
+            "numberOfQuestions": 30,
+            "score": 25
+      },
+      {
+            "trainingSessionId": 1,
+            "quizCompetitionId": 1,
+            "participantUserId": 2,
+            "quizId": 2,
+            "quizName": "Quiz After",
+            "description": "Quiz after the course",
+            "estimatedTime": 50,
+            "numberOfQuestions": 43,
+            "score": 25
+      },
+      {
+            "trainingSessionId": 1,
+            "quizCompetitionId": 2,
+            "participantUserId": 2,
+            "quizId": 3,
+            "quizName": "Quiz Exam",
+            "description": "Quiz of the exam",
+            "estimatedTime": 60,
+            "numberOfQuestions": 40,
+            "score": 3
+      }
+]

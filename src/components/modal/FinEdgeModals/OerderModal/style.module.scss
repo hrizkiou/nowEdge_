@@ -1,0 +1,82 @@
+.details_order_cours_limit {
+  display: inline;
+}
+
+.details_order_cours_limit:hover .order_cours_limit_show_detail_hover {
+  display: flex !important;
+}
+.details_market {
+  display: inline;
+}
+
+.details_market:hover .details_market_show_detail_hover {
+  display: flex !important;
+}
+
+.order_cours_limit_show_detail_hover {
+  background-color: #F2F2F2;
+  position        : absolute;
+  z-index         : 200;
+  right           : 11rem;
+  bottom          : 10rem;
+  left            : -10rem;
+  display         : none;
+  flex-direction  : column;
+  color           : #252525;
+  border-radius   : 4px;
+  box-shadow      : 0px 11px 28px #45628f91;
+  padding-top     : 10px;
+
+  p {
+    margin    : 10px;
+    text-align: justify;
+  }
+}
+
+.details_market_show_detail_hover {
+  background-color: #F2F2F2;
+  position        : absolute;
+  z-index         : 200;
+  right           : 11rem;
+  bottom          : 13rem;
+  left            : -10rem;
+  display         : none;
+  flex-direction  : column;
+  color           : #252525;
+  border-radius   : 4px;
+  box-shadow      : 0px 11px 28px #45628f91;
+  padding-top     : 10px;
+
+  p {
+    margin    : 10px;
+    text-align: justify;
+  }
+}
+
+.details_order_stop {
+  display: inline;
+}
+
+.details_order_stop:hover .order_stop_show_detail_hover {
+  display: flex !important;
+}
+
+.order_stop_show_detail_hover {
+  background-color: #F2F2F2;
+  position        : absolute;
+  z-index         : 200;
+  right           : 11rem;
+  bottom          : 6rem;
+  left            : -11rem;
+  display         : none;
+  flex-direction  : column;
+  color           : #252525;
+  border-radius   : 4px;
+  box-shadow      : 0px 11px 28px #45628f91;
+  padding-top     : 10px;
+
+  p {
+    margin    : 10px;
+    text-align: justify;
+  }
+}

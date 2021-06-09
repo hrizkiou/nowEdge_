@@ -1,0 +1,81 @@
+.progress-custom{
+    
+    visibility: visible;
+    animation-name: animationProgress !important;
+}
+ 
+.listQuiz-btn{
+    width: 100%;
+}
+
+@media (min-width: 1200px){
+    .listStd{
+        flex: 0 0 28%;
+        
+         margin-right: 26px;
+         margin-left: 14px
+    }
+    .list-quiz{
+        flex: 0 0 30%;
+    }
+}
+
+
+@media (min-width: 300px){
+    .std-m-btns{
+        flex-direction: column;
+        margin-top: 5px !important;
+     & > .btn{
+        margin: 0px !important;
+        margin-bottom: 5px !important;
+      }
+      
+    }
+
+    .std-profile{
+        padding: 0px !important;
+        margin-top: 10px;
+    }
+
+    .nav[role="tablist"]{
+        flex-wrap: nowrap;
+        // border: 1px solid red;
+     }
+     .profile-info-name{
+         display: flex;
+         flex-direction: column;
+     }
+
+     
+  
+}
+@media (min-width: 900px){
+    .std-m-btns{
+        display: flex;
+        flex-direction: row-reverse;
+        & > .btn{
+            margin: 5px !important;
+            margin-bottom: 5px !important;
+          }
+    }
+    .profile-info-name{
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media (min-width: 992px){
+    .std-profile{
+        flex: 0 100% !important;
+        max-width: 100% !important;
+    }
+}
+@media (min-width: 1204px){
+    .std-profile{
+        flex: 0 100% !important;
+        max-width: 67% !important;
+    }
+}
+
+
+

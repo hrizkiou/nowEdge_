@@ -1,0 +1,96 @@
+// @import url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
+.fixed_header{
+    // width: 400px;
+    table-layout: fixed;
+    border-collapse: collapse;
+
+    thead{
+
+      
+      background: #DADEE0;
+      color:#313131;
+
+      th{
+        font-family: Karla;
+        font-size:14px;
+        font-weight:bold;
+        // text-align: center;
+      }
+
+      
+
+      tr {
+        padding: 10px;
+        display: block;
+        th:first-child { 
+          width: 200px;
+        }
+        
+     }
+    }
+
+    tbody{
+      display:block;
+      width: 100%;
+      overflow: auto;
+      height: 400px;
+    }
+   
+}
+
+
+.fixed_header th, .fixed_header td {
+  padding: 5px;
+  width: 200px;
+  // border-top: 1px solid #000;
+
+  &:first-child { 
+    width: 270px;
+    // background-color: #52555a;
+  }
+}
+
+
+
+
+tr.view {
+      // background-color:red;
+      td{
+        font-family: Karla;
+        font-size:14px;
+        font-weight:bold;
+        color:#475466
+      }
+      td, th {cursor: pointer;}
+      &.open {
+        // background: #EBF1F3;
+        // color: white;
+        // td:first-child, th:first-child {
+        //   &:before {
+        //     transform: rotate(-180deg);
+        //     color: #333;
+        //   }
+        // }
+      }
+    }
+
+tr.fold {
+   display: none;
+   border-bottom: 1px solid #DADEE0;
+   &.open { display:table-row; }
+   &:hover{
+    background: #EBF1F3;
+   }
+   td{
+    font-family: Karla;
+    font-size:14px;
+    color:#475466;
+    padding: 10px 0px;
+    text-align: center;
+   }
+  
+}
+
+.textAlign_center{
+  text-align: center;
+}

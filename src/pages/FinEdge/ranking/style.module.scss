@@ -1,0 +1,60 @@
+.ranking_container { 
+  background-image: url('../../../assets/images/backgroundRanking.png');
+  width: 100vw;
+  height: 100vh;
+  // min-width: 768px;
+  // min-height: 621px;
+  background-size: 100% 100%;
+  // position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+
+  align-items: center;
+
+}
+
+
+
+ 
+
+.list_item_ranking {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  
+
+  h3 {
+    text-align: left;
+    font: normal normal  10px/0px Karla;
+    letter-spacing: 0px;
+    color: #3f4351;
+    opacity: 1;
+  }
+
+  h4 {
+    text-align: left;
+    font: normal normal bold 12px/0px Karla;
+    letter-spacing: 0px;
+    color: #2fa1f1;
+    opacity: 1;
+    display: inline-block;
+    margin-top: 4px;
+  }
+
+}
+
+
+.scrollbarCustom {
+  &::-webkit-scrollbar {
+    width: 6.17px;
+  }
+  
+  /* Handle */
+  &::-webkit-scrollbar-thumb {
+    background: #D8DBDD ; 
+    border-radius: 10px;
+  }
+  scrollbar-width: thin;
+}

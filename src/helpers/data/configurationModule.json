@@ -1,0 +1,23 @@
+[
+  {
+    "configName": "Nom de la configuration 1",
+    "date": "12/02/2020",
+    "numberOfSessions": "0",
+    "numberOfQuizzes": "12",
+    "numberOfNotions": "32"
+  },
+  {
+    "configName": "Nom de la configuration 2",
+    "date": "13/02/2020",
+    "numberOfSessions": "02",
+    "numberOfQuizzes": "12",
+    "numberOfNotions": "32"
+  },
+  {
+    "configName": "Nom de la configuration 3",
+    "date": "19/02/2020",
+    "numberOfSessions": "10",
+    "numberOfQuizzes": "12",
+    "numberOfNotions": "32"
+  }
+]

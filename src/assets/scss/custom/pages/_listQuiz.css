@@ -1,0 +1,7 @@
+.progress-custom {
+  visibility: visible;
+  animation-name: animationProgress !important;
+}
+.listQuiz-btn {
+  width: 100%;
+}

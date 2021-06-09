@@ -1,0 +1,70 @@
+.atterissage_title {
+  display: inline-block;
+  text-align: center;
+  font: Bold 46px/43px Karla;
+  letter-spacing: 0.55px;
+  color: #3f4351;
+  margin: 0px 0px 0px 10px;
+}
+.atterissage_s_title1 {
+  text-align: left;
+  font: 38px/41px Karla;
+  letter-spacing: 0.76px;
+  color: #343a40;
+  text-transform: uppercase;
+}
+.atterissage_s_title2 {
+  text-align: left;
+  font: bold 38px/41px Karla;
+  letter-spacing: 0.76px;
+  color: #7556e8;
+  text-transform: uppercase;
+}
+
+.atterissage_desc {
+  text-align: left;
+  font: 12px/17px Karla;
+  letter-spacing: 0.24px;
+  color: #343a40;
+  opacity: 1;
+}
+
+.att-card-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-content: center;
+}
+
+.att-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-block: 27px;
+}
+
+.toolbar-scroll {
+
+  white-space: nowrap;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  text-align: bottom;
+  width: 100%;
+}
+
+
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
+
+
+.row-cards {
+  display: table;
+  width: 100%; /*Optional*/
+  table-layout: fixed; /*Optional*/
+  border-spacing: 10px; /*Optional*/
+}
